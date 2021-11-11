@@ -2,10 +2,8 @@ name: Build Test
 
 on:
   push:
-    branches:
-      - actions
   schedule:
-    - cron: '* * * * *'
+    - cron: * * * * *
 
 jobs:
   say-hello:
