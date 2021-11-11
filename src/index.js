@@ -7,7 +7,7 @@ const githubCrawler = require('./github')
 
 const git = simpleGit()
 
-// Start GitHub trending cron job for every 30th minutes
+// Start GitHub trending cron job for every hour
 cron.schedule('1 * * * *', async () => {
   console.log('start')
   const result = await githubCrawler()
