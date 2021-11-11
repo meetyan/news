@@ -1,6 +1,9 @@
 name: Build Test
 
 on:
+  push:
+    branches:
+      - actions
   schedule:
     - cron: '* * * * *'
 
@@ -11,4 +14,4 @@ jobs:
     steps:
     - name: First say hello
       run: |
-        echo 'hello'
+        echo hello
