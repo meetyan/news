@@ -19,6 +19,7 @@
   "homepage": "https://github.com/realfrancisyan/news#readme",
   "dependencies": {
     "axios": "^0.24.0",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "moment": "^2.29.1"
   }
 }

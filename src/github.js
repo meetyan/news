@@ -1,16 +1,24 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
+const moment = require('moment')
 
-const urls = [
-  'https://github.com/trending',
-  'https://github.com/trending/javascript?since=daily',
+const urlsByLanguage = [
+  {
+    language: 'default',
+    url: 'https://github.com/trending',
+  },
+  {
+    language: 'javascript',
+    url: 'https://github.com/trending/javascript?since=daily',
+  },
+  { language: 'python', url: 'https://github.com/trending/python?since=daily' },
 ]
 
-const { loadLocal } = require('./common')
+const { loadLocal, writeJSON, sleep } = require('./common')
+// const source = loadLocal('./sample/index.html')
 
 const crawl = async url => {
   const { data: source } = await axios.get(url)
-//   const source = loadLocal('./sample/index.html')
   const $ = cheerio.load(source)
 
   const target = $('.Box-row')
@@ -20,10 +28,12 @@ const crawl = async url => {
       const [author, name] = url.split('/')
       const description = $(repo).find('p').text().trim()
       const language = $(repo).find('.f6 .d-inline-block span').text()
+
       const [stars, forked] = $(repo)
         .find('.f6 a')
         .get()
         .map(item => $(item).text().trim())
+
       const builtBy = $(repo)
         .find('.f6 .d-inline-block a img')
         .get()
@@ -56,19 +66,21 @@ const crawl = async url => {
 }
 
 const start = async () => {
-  //   const main = await crawl('https://github.com/trending')
-  const javascript = await crawl(
-    'https://github.com/trending/javascript?since=daily'
-  )
+  const result = {}
+  for (const url of urlsByLanguage) {
+    await sleep(2000)
+    const data = await crawl(url.url)
+    result[url.language] = data
+  }
 
-  return javascript
+  const today = moment().format('YYYY-MM-DD')
+  writeJSON(`./results/github/${today}.json`, result)
+
+  return result
 }
 
 ;(async () => {
-  const res = await start()
-
-  //   console.log(res[0].builtBy[0])
-  console.log(res)
+  await start()
 })()
 
 module.exports = start
