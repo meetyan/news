@@ -1,25 +1,14 @@
 const cron = require('node-cron')
-const moment = require('moment')
-const simpleGit = require('simple-git')
-const path = require('path')
-const { writeJSON } = require('./common')
-const githubCrawler = require('./github')
 
-const git = simpleGit()
+const githubCrawler = require('./github')
+const { writeAndPush } = require('./git')
 
 // Start GitHub trending cron job for every hour
 cron.schedule('1 * * * *', async () => {
-  console.log('start')
+  console.log('Start GitHub trending')
+
   const result = await githubCrawler()
+  await writeAndPush(result)
 
-  const today = moment().format('YYYY-MM-DD')
-  writeJSON(`./results/github/${today}.json`, result)
-
-  await git
-    .init()
-    .add(path.join(__dirname, `./results/github/${today}.json`))
-    .commit('feat: update GitHub trending')
-    .push()
-
-  console.log('done')
+  console.log('Done GitHub trending')
 })
