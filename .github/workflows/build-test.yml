@@ -12,6 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: First say hello
-      run: |
-        echo hello
+      - name: Clone repository
+        uses: actions/checkout@v2
+        with:
+          ref: actions
+
+      - name: First say hello
+        run: |
+          echo hello
