@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: First say hello
-      - run: |
+    - name: First say hello
+      run: |
         echo 'hello'
