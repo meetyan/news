@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "pm2 start src/index.js --name news -i 0",
+    "stop": "pm2 stop news"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "cheerio": "^1.0.0-rc.10",
     "moment": "^2.29.1",
     "node-cron": "^3.0.0",
+    "pm2": "^5.1.2",
     "simple-git": "^2.47.0"
   }
 }
