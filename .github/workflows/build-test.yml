@@ -1,0 +1,14 @@
+name: Build Test
+
+on:
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: First say hello
+      - run: |
+        echo 'hello'

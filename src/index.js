@@ -1,5 +1,7 @@
 const githubCrawler = require('./github')
 
 ;(async () => {
-  await githubCrawler()
+  const res = await githubCrawler()
+
+  console.log(res)
 })()
