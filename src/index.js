@@ -1,6 +1,6 @@
 const cron = require('node-cron')
 
-const githubCrawler = require('./github')
+const githubCrawler = require('./categories/github')
 const git = require('./git')
 const { CATEGORY } = require('./constants')
 
