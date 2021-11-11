@@ -13,7 +13,7 @@ const urlsByLanguage = [
   { language: 'python', url: 'https://github.com/trending/python?since=daily' },
 ]
 
-const { loadLocal, writeJSON, sleep } = require('./common')
+const { loadLocal, sleep } = require('./common')
 // const source = loadLocal('./sample/index.html')
 
 const crawl = async url => {
