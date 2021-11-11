@@ -1,20 +1,16 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
-const moment = require('moment')
-const simpleGit = require('simple-git')
-const git = simpleGit()
-const path = require('path')
 
 const urlsByLanguage = [
   {
     language: 'default',
     url: 'https://github.com/trending',
   },
-//   {
-//     language: 'javascript',
-//     url: 'https://github.com/trending/javascript?since=daily',
-//   },
-//   { language: 'python', url: 'https://github.com/trending/python?since=daily' },
+  {
+    language: 'javascript',
+    url: 'https://github.com/trending/javascript?since=daily',
+  },
+  { language: 'python', url: 'https://github.com/trending/python?since=daily' },
 ]
 
 const { loadLocal, writeJSON, sleep } = require('./common')
@@ -75,14 +71,6 @@ const start = async () => {
     const target = await crawl(url.url)
     result[url.language] = target
   }
-
-  const today = moment().format('YYYY-MM-DD')
-  writeJSON(`./results/github/${today}.json`, result)
-  await git
-    .init()
-    .add(path.join(__dirname, `./results/github/${today}.json`))
-    .commit('feat: updated automatically')
-    .push()
 
   return result
 }
