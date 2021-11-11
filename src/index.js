@@ -3,12 +3,12 @@ const moment = require('moment')
 const simpleGit = require('simple-git')
 const path = require('path')
 const { writeJSON } = require('./common')
-
-const git = simpleGit()
 const githubCrawler = require('./github')
 
+const git = simpleGit()
+
 // Start GitHub trending cron job for every 30th minutes
-cron.schedule('*/5 * * * *', async () => {
+cron.schedule('1 * * * *', async () => {
   console.log('start')
   const result = await githubCrawler()
 
