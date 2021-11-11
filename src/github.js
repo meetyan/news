@@ -1,3 +1,74 @@
-const crawl = () => {}
+const axios = require('axios')
+const cheerio = require('cheerio')
 
-module.exports = crawl
+const urls = [
+  'https://github.com/trending',
+  'https://github.com/trending/javascript?since=daily',
+]
+
+const { loadLocal } = require('./common')
+
+const crawl = async url => {
+  const { data: source } = await axios.get(url)
+//   const source = loadLocal('./sample/index.html')
+  const $ = cheerio.load(source)
+
+  const target = $('.Box-row')
+    .get()
+    .map(repo => {
+      const url = $(repo).find('.h3 a').first().attr('href').substr(1)
+      const [author, name] = url.split('/')
+      const description = $(repo).find('p').text().trim()
+      const language = $(repo).find('.f6 .d-inline-block span').text()
+      const [stars, forked] = $(repo)
+        .find('.f6 a')
+        .get()
+        .map(item => $(item).text().trim())
+      const builtBy = $(repo)
+        .find('.f6 .d-inline-block a img')
+        .get()
+        .map(item => ({
+          name: $(item).attr('alt'),
+          avatar: $(item).attr('src'),
+        }))
+
+      const starsToday = $(repo)
+        .find('.f6 .d-inline-block')
+        .last()
+        .text()
+        .trim()
+        .replace(' stars today', '')
+
+      return {
+        author,
+        repo: name,
+        description,
+        language,
+        url: `https://github.com/${url}`,
+        stars,
+        forked,
+        builtBy,
+        starsToday,
+      }
+    })
+
+  return target
+}
+
+const start = async () => {
+  //   const main = await crawl('https://github.com/trending')
+  const javascript = await crawl(
+    'https://github.com/trending/javascript?since=daily'
+  )
+
+  return javascript
+}
+
+;(async () => {
+  const res = await start()
+
+  //   console.log(res[0].builtBy[0])
+  console.log(res)
+})()
+
+module.exports = start
