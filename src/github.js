@@ -69,8 +69,8 @@ const start = async () => {
   const result = {}
   for (const url of urlsByLanguage) {
     await sleep(2000)
-    const data = await crawl(url.url)
-    result[url.language] = data
+    const target = await crawl(url.url)
+    result[url.language] = target
   }
 
   const today = moment().format('YYYY-MM-DD')
@@ -78,9 +78,5 @@ const start = async () => {
 
   return result
 }
-
-;(async () => {
-  await start()
-})()
 
 module.exports = start
