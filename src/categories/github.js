@@ -11,6 +11,15 @@ const urlsByLanguage = [
     url: 'https://github.com/trending/javascript?since=daily',
   },
   { language: 'python', url: 'https://github.com/trending/python?since=daily' },
+  {
+    language: 'typescript',
+    url: 'https://github.com/trending/typescript?since=daily',
+  },
+  {
+    language: 'go',
+    url: 'https://github.com/trending/go?since=daily',
+  },
+  { language: 'java', url: 'https://github.com/trending/java?since=daily' },
 ]
 
 const { loadLocal, sleep } = require('../common')
