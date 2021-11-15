@@ -23,7 +23,7 @@ const push = async (category, result) => {
       .commit(`feat: update ${CATEGORY_MAP[category]}`)
       .push()
   } catch (error) {
-    console.log(error.toString())
+    console.log('error - ', error.toString())
   }
 }
 

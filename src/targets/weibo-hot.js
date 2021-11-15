@@ -39,7 +39,7 @@ const crawler = async () => {
 
 const start = async () => {
   const today = getTodaysDate()
-  const jsonPath = `../results/weibo-hot/${today}.json`
+  const jsonPath = `./results/weibo-hot/${today}.json`
   const hasJSON = exists(jsonPath)
 
   let result = await crawler()
