@@ -5,7 +5,7 @@ const weiboHotCrawler = require('./targets/weibo-hot')
 const git = require('./git')
 const { CATEGORY } = require('./constants')
 
-// Start GitHub trending cron job every hour
+// GitHub trending
 cron.schedule('1 * * * *', async () => {
   console.log('Start GitHub trending')
 
@@ -15,7 +15,7 @@ cron.schedule('1 * * * *', async () => {
   console.log('Done GitHub trending')
 })
 
-// Start Weibo hot cron job every hour
+// Weibo hot
 cron.schedule('5 * * * *', async () => {
   console.log('Start Weibo hot')
 
