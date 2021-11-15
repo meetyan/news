@@ -1,26 +1,14 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 
-const urlsByLanguage = [
-  {
-    language: 'default',
-    url: 'https://github.com/trending',
-  },
-  {
-    language: 'javascript',
-    url: 'https://github.com/trending/javascript?since=daily',
-  },
-  { language: 'python', url: 'https://github.com/trending/python?since=daily' },
-  {
-    language: 'typescript',
-    url: 'https://github.com/trending/typescript?since=daily',
-  },
-  {
-    language: 'go',
-    url: 'https://github.com/trending/go?since=daily',
-  },
-  { language: 'java', url: 'https://github.com/trending/java?since=daily' },
-]
+const urlByLanguage = {
+  default: 'https://github.com/trending',
+  javascript: 'https://github.com/trending/javascript?since=daily',
+  python: 'https://github.com/trending/python?since=daily',
+  typescript: 'https://github.com/trending/typescript?since=daily',
+  go: 'https://github.com/trending/go?since=daily',
+  java: 'https://github.com/trending/java?since=daily',
+}
 
 const { loadLocal, sleep } = require('../common')
 // const source = loadLocal('./sample/index.html')
@@ -75,10 +63,10 @@ const crawl = async url => {
 
 const start = async () => {
   const result = {}
-  for (const url of urlsByLanguage) {
+  for (const [language, url] of Object.entries(urlByLanguage)) {
     await sleep(2000)
-    const target = await crawl(url.url)
-    result[url.language] = target
+    const target = await crawl(url)
+    result[language] = target
   }
 
   return result
