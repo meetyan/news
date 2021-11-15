@@ -1,20 +1,19 @@
 const path = require('path')
-const moment = require('moment')
 const simpleGit = require('simple-git')
 
-const { writeJSON } = require('./common')
+const { writeJSON, getTodaysDate } = require('./common')
 const { CATEGORY_MAP } = require('./constants')
 
 const git = simpleGit()
 
 const save = (category, result) => {
-  const today = moment().format('YYYY-MM-DD')
+  const today = getTodaysDate()
   writeJSON(`./results/${category}/${today}.json`, result)
 }
 
 const push = async (category, result) => {
   save(category, result)
-  const today = moment().format('YYYY-MM-DD')
+  const today = getTodaysDate()
 
   try {
     await git

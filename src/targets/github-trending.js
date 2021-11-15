@@ -1,3 +1,7 @@
+/**
+ * GitHub Trending
+ */
+
 const axios = require('axios')
 const cheerio = require('cheerio')
 
@@ -11,7 +15,7 @@ const urlByLanguage = {
 }
 
 const { loadLocal, sleep } = require('../common')
-// const source = loadLocal('./sample/index.html')
+// const source = loadLocal('./sample/github-trending.html')
 
 const crawl = async url => {
   const { data: source } = await axios.get(url)
