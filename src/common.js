@@ -10,9 +10,6 @@ const timeout = ms => {
   return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-/**
- * 防止过快，导致网站挂掉
- */
 const sleep = async (sec = 2000) => {
   return await timeout(sec)
 }
