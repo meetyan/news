@@ -4,10 +4,10 @@
 
 * GitHub Trending
 * 微博热搜
+* 百度热搜
 
 计划支持：
 
-* 百度热搜
 * 知乎热搜
 * Many more...
 
