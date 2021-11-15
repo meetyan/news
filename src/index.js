@@ -15,8 +15,8 @@ cron.schedule('1 * * * *', async () => {
   console.log('Done GitHub trending')
 })
 
-// Start Weibo hot cron job every half an hour
-cron.schedule('*/30 * * * *', async () => {
+// Start Weibo hot cron job every hour
+cron.schedule('5 * * * *', async () => {
   console.log('Start Weibo hot')
 
   const result = await weiboHotCrawler()
