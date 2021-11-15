@@ -16,6 +16,7 @@ const push = async (category, result) => {
   const today = getTodaysDate()
 
   try {
+    await git.pull()
     await git
       .init()
       .add(path.join(__dirname, `./results/${category}/${today}.json`))
