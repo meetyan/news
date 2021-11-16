@@ -43,8 +43,6 @@ const start = async () => {
     }, previous)
   }
 
-  console.log(result)
-
   return result
 }
 
