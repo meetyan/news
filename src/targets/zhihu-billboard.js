@@ -4,9 +4,8 @@
 
 const axios = require('axios')
 
-const { loadLocal, getTodaysDate, readJSON, exists } = require('../common')
+const { getTodaysDate, readJSON, exists } = require('../common')
 const { CATEGORY } = require('../constants')
-// const source = loadLocal('./sample/zhihu-billboard.html')
 
 const crawler = async () => {
   const url =
