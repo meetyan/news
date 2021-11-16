@@ -3,6 +3,7 @@ const cron = require('node-cron')
 const githubCrawler = require('./targets/github-trending')
 const weiboHotCrawler = require('./targets/weibo-hot')
 const baiduHotCrawler = require('./targets/baidu-hot')
+const zhihuBillboardCrawler = require('./targets/zhihu-billboard')
 
 const git = require('./git')
 const { CATEGORY } = require('./constants')
@@ -35,4 +36,14 @@ cron.schedule('10 * * * *', async () => {
   await git.push(CATEGORY.BAIDU_HOT, result)
 
   console.log('Done Baidu hot')
+})
+
+// Zhihu billboard
+cron.schedule('15 * * * *', async () => {
+  console.log('Start Zhihu billboard')
+
+  const result = await zhihuBillboardCrawler()
+  await git.push(CATEGORY.ZHIHU_BILLBOARD, result)
+
+  console.log('Done Zhihu billboard')
 })

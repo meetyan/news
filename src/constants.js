@@ -2,12 +2,14 @@ const CATEGORY = {
   GITHUB_TRENDING: 'github-trending',
   WEIBO_HOT: 'weibo-hot',
   BAIDU_HOT: 'baidu-hot',
+  ZHIHU_BILLBOARD: 'zhihu-billboard',
 }
 
 const CATEGORY_MAP = {
   [CATEGORY.GITHUB_TRENDING]: 'GitHub trending',
   [CATEGORY.WEIBO_HOT]: 'Weibo hot',
   [CATEGORY.BAIDU_HOT]: 'Baidu hot',
+  [CATEGORY.ZHIHU_BILLBOARD]: 'Zhihu billboard',
 }
 
 const UA = {
