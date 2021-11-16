@@ -6,6 +6,7 @@ const cheerio = require('cheerio')
 const axios = require('axios')
 
 const { loadLocal, getTodaysDate, readJSON, exists } = require('../common')
+const { CATEGORY } = require('../constants')
 // const source = loadLocal('./sample/weibo-hot.html')
 
 const crawler = async () => {
@@ -39,7 +40,7 @@ const crawler = async () => {
 
 const start = async () => {
   const today = getTodaysDate()
-  const jsonPath = `./results/weibo-hot/${today}.json`
+  const jsonPath = `./results/${CATEGORY.WEIBO_HOT}/${today}.json`
   const hasJSON = exists(jsonPath)
 
   let result = await crawler()

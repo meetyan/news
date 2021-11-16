@@ -6,14 +6,12 @@ const cheerio = require('cheerio')
 const axios = require('axios')
 
 const { loadLocal, getTodaysDate, readJSON, exists } = require('../common')
-const { UA } = require('../constants')
+const { UA, CATEGORY } = require('../constants')
 // const source = loadLocal('./sample/baidu-hot.html')
 
 const crawler = async () => {
   const url = 'https://top.baidu.com/board?tab=realtime'
-  const { data: source } = await axios.get(url, {
-    headers: UA,
-  })
+  const { data: source } = await axios.get(url, { headers: UA })
 
   const $ = cheerio.load(source)
   const target = $('[class^="category-wrap"]')
@@ -36,7 +34,7 @@ const crawler = async () => {
 
 const start = async () => {
   const today = getTodaysDate()
-  const jsonPath = `./results/baidu-hot/${today}.json`
+  const jsonPath = `./results/${CATEGORY.BAIDU_HOT}/${today}.json`
   const hasJSON = exists(jsonPath)
 
   let result = await crawler()
