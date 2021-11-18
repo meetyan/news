@@ -9,6 +9,7 @@ const git = simpleGit()
 const save = (category, result) => {
   const today = getTodaysDate()
   writeJSON(`./results/${category}/${today}.json`, result)
+  writeJSON(`./results/${category}/latest.json`, result)
 }
 
 const push = async (category, result) => {
