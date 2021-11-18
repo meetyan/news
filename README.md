@@ -12,3 +12,5 @@
 * Many more...
 
 \* 每小时定时更新
+
+\* results 文件夹中的 latest.json 表示最新的结果，与当天最新的结果相同
