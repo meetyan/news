@@ -21,6 +21,7 @@ const push = async (category, result) => {
     await git
       .init()
       .add(path.join(__dirname, `./results/${category}/${today}.json`))
+      .add(path.join(__dirname, `./results/${category}/latest.json`))
       .commit(`feat: update ${CATEGORY_MAP[category]}`)
       .push()
   } catch (error) {
