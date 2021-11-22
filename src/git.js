@@ -6,7 +6,7 @@ const { CATEGORY_MAP } = require('./constants')
 
 const git = simpleGit()
 
-const save = (category, result) => {
+const save = ({ category, result, suffix }) => {
   const today = getTodaysDate()
   writeJSON(
     `./results/${category}/${today}${suffix && '-' + suffix}.json`,
