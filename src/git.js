@@ -18,7 +18,7 @@ const save = ({ category, result, suffix }) => {
   )
 }
 
-const push = async ({ category, result, suffix }) => {
+const push = async ({ category, result, suffix = '' } = {}) => {
   save({ category, result, suffix })
   const today = getTodaysDate()
 
