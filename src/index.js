@@ -8,7 +8,7 @@ const githubRankingsCrawler = require('./targets/github-rankings')
 
 const git = require('./git')
 const { CATEGORY } = require('./constants')
-const { writeJSON, getTodaysDate } = require('./common')
+const { writeJSON } = require('./common')
 
 // GitHub trending
 cron.schedule('1 * * * *', async () => {
