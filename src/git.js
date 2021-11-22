@@ -8,20 +8,36 @@ const git = simpleGit()
 
 const save = (category, result) => {
   const today = getTodaysDate()
-  writeJSON(`./results/${category}/${today}.json`, result)
-  writeJSON(`./results/${category}/latest.json`, result)
+  writeJSON(
+    `./results/${category}/${today}${suffix && '-' + suffix}.json`,
+    result
+  )
+  writeJSON(
+    `./results/${category}/latest${suffix && '-' + suffix}.json`,
+    result
+  )
 }
 
-const push = async (category, result) => {
-  save(category, result)
+const push = async ({ category, result, suffix }) => {
+  save({ category, result, suffix })
   const today = getTodaysDate()
 
   try {
     await git.pull()
     await git
       .init()
-      .add(path.join(__dirname, `./results/${category}/${today}.json`))
-      .add(path.join(__dirname, `./results/${category}/latest.json`))
+      .add(
+        path.join(
+          __dirname,
+          `./results/${category}/${today}${suffix && '-' + suffix}.json`
+        )
+      )
+      .add(
+        path.join(
+          __dirname,
+          `./results/${category}/latest${suffix && '-' + suffix}.json`
+        )
+      )
       .commit(`feat: update ${CATEGORY_MAP[category]}`)
       .push()
   } catch (error) {
