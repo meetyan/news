@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "pm2 start src/index.js --time --name news -i 0",
-    "stop": "pm2 stop news"
+    "stop": "pm2 stop news",
+    "lint": "eslint 'src/**/*.js' --cache --fix"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
     "node-cron": "^3.0.0",
     "pm2": "^5.1.2",
     "simple-git": "^2.47.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
   }
 }
