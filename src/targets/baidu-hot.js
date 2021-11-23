@@ -5,9 +5,8 @@
 const cheerio = require('cheerio')
 const axios = require('axios')
 
-const { loadLocal, getTodaysDate, readJSON, exists } = require('../common')
+const { getTodaysDate, readJSON, exists } = require('../common')
 const { UA, CATEGORY } = require('../constants')
-// const source = loadLocal('./sample/baidu-hot.html')
 
 const crawler = async () => {
   const url = 'https://top.baidu.com/board?tab=realtime'

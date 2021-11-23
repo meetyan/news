@@ -14,8 +14,7 @@ const urlByLanguage = {
   java: 'https://github.com/trending/java?since=daily',
 }
 
-const { loadLocal, sleep } = require('../common')
-// const source = loadLocal('./sample/github-trending.html')
+const { sleep } = require('../common')
 
 const crawl = async url => {
   const { data: source } = await axios.get(url)
