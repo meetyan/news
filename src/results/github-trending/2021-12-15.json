@@ -6,8 +6,8 @@
       "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
       "language": "Python",
       "url": "https://github.com/fullhunt/log4j-scan",
-      "stars": "1,166",
-      "forked": "267",
+      "stars": "1,186",
+      "forked": "269",
       "builtBy": [
         {
           "name": "@mazen160",
@@ -38,8 +38,8 @@
       "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
       "language": "HTML",
       "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
-      "stars": "1,390",
-      "forked": "476",
+      "stars": "1,407",
+      "forked": "479",
       "builtBy": [
         {
           "name": "@QianMo",
@@ -58,8 +58,8 @@
       "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
       "language": "Java",
       "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
-      "stars": "249",
-      "forked": "66",
+      "stars": "258",
+      "forked": "67",
       "builtBy": [
         {
           "name": "@xeraph",
@@ -90,8 +90,8 @@
       "description": "Operational information regarding the vulnerability in the Log4j logging library.",
       "language": "",
       "url": "https://github.com/NCSC-NL/log4shell",
-      "stars": "910",
-      "forked": "334",
+      "stars": "928",
+      "forked": "343",
       "builtBy": [
         {
           "name": "@pbeij",
@@ -122,8 +122,8 @@
       "description": "Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!",
       "language": "Java",
       "url": "https://github.com/mergebase/log4j-detector",
-      "stars": "235",
-      "forked": "35",
+      "stars": "241",
+      "forked": "39",
       "builtBy": [
         {
           "name": "@juliusmusseau",
@@ -138,8 +138,8 @@
       "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
       "language": "Java",
       "url": "https://github.com/kozmer/log4j-shell-poc",
-      "stars": "190",
-      "forked": "41",
+      "stars": "200",
+      "forked": "44",
       "builtBy": [
         {
           "name": "@kozmer",
@@ -162,7 +162,7 @@
       "description": "Simple local scanner for vulnerable log4j instances",
       "language": "Go",
       "url": "https://github.com/hillu/local-log4j-vuln-scanner",
-      "stars": "144",
+      "stars": "146",
       "forked": "30",
       "builtBy": [
         {
@@ -190,8 +190,8 @@
       "description": "SPL Confidential Token",
       "language": "Rust",
       "url": "https://github.com/solana-labs/spl-zk-token",
-      "stars": "77",
-      "forked": "6",
+      "stars": "79",
+      "forked": "7",
       "builtBy": [
         {
           "name": "@mvines",
@@ -214,8 +214,8 @@
       "description": "",
       "language": "JavaScript",
       "url": "https://github.com/ChendoChap/pOOBs4",
-      "stars": "530",
-      "forked": "151",
+      "stars": "534",
+      "forked": "152",
       "builtBy": [
         {
           "name": "@Cryptogenic",
@@ -250,7 +250,7 @@
       "description": "An All-In-One Pure Python PoC for CVE-2021-44228",
       "language": "Python",
       "url": "https://github.com/alexandre-lavoie/python-log4rce",
-      "stars": "120",
+      "stars": "121",
       "forked": "21",
       "builtBy": [
         {
@@ -266,7 +266,7 @@
       "description": "Scripts for addressing log4j zero day security issue",
       "language": "Shell",
       "url": "https://github.com/cloudera/cloudera-scripts-for-log4j",
-      "stars": "21",
+      "stars": "24",
       "forked": "27",
       "builtBy": [
         {
@@ -286,7 +286,7 @@
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "url": "https://github.com/pointfreeco/swift-composable-architecture",
-      "stars": "5,118",
+      "stars": "5,122",
       "forked": "448",
       "builtBy": [
         {
@@ -318,7 +318,7 @@
       "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
       "language": "Java",
       "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
-      "stars": "266",
+      "stars": "273",
       "forked": "32",
       "builtBy": [
         {
@@ -350,7 +350,7 @@
       "description": "Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)",
       "language": "Lua",
       "url": "https://github.com/Diverto/nse-log4shell",
-      "stars": "129",
+      "stars": "132",
       "forked": "24",
       "builtBy": [
         {
@@ -370,8 +370,8 @@
       "description": "Code for Data Engineer Zoomcamp course",
       "language": "",
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
-      "stars": "237",
-      "forked": "35",
+      "stars": "243",
+      "forked": "36",
       "builtBy": [
         {
           "name": "@alexeygrigorev",
@@ -394,8 +394,8 @@
       "description": "A post-modern modal text editor.",
       "language": "Rust",
       "url": "https://github.com/helix-editor/helix",
-      "stars": "4,748",
-      "forked": "233",
+      "stars": "4,757",
+      "forked": "234",
       "builtBy": [
         {
           "name": "@archseer",
@@ -426,8 +426,8 @@
       "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
       "language": "Python",
       "url": "https://github.com/WazeHell/sam-the-admin",
-      "stars": "488",
-      "forked": "95",
+      "stars": "492",
+      "forked": "94",
       "builtBy": [
         {
           "name": "@WazeHell",
@@ -442,7 +442,7 @@
       "description": "高性能并行编程与优化 - 课件",
       "language": "C++",
       "url": "https://github.com/parallel101/course",
-      "stars": "247",
+      "stars": "257",
       "forked": "28",
       "builtBy": [
         {
@@ -458,7 +458,7 @@
       "description": "Rust是未来前端基础设施",
       "language": "",
       "url": "https://github.com/i5ting/rust-fe",
-      "stars": "459",
+      "stars": "464",
       "forked": "23",
       "builtBy": [
         {
@@ -490,7 +490,7 @@
       "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
       "language": "",
       "url": "https://github.com/justjavac/free-programming-books-zh_CN",
-      "stars": "85,100",
+      "stars": "85,106",
       "forked": "24,453",
       "builtBy": [
         {
@@ -522,8 +522,8 @@
       "description": "",
       "language": "JavaScript",
       "url": "https://github.com/rolling-scopes-school/tasks",
-      "stars": "1,169",
-      "forked": "2,977",
+      "stars": "1,172",
+      "forked": "2,976",
       "builtBy": [
         {
           "name": "@dzmitry-varabei",
@@ -554,8 +554,8 @@
       "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
       "language": "Java",
       "url": "https://github.com/CyC2018/CS-Notes",
-      "stars": "143,379",
-      "forked": "45,733",
+      "stars": "143,383",
+      "forked": "45,734",
       "builtBy": [
         {
           "name": "@CyC2018",
@@ -586,8 +586,8 @@
       "description": "Detector for Log4Shell exploitation attempts",
       "language": "Python",
       "url": "https://github.com/Neo23x0/log4shell-detector",
-      "stars": "541",
-      "forked": "87",
+      "stars": "543",
+      "forked": "88",
       "builtBy": [
         {
           "name": "@Neo23x0",
@@ -618,7 +618,7 @@
       "description": "Generative art in Common Lisp",
       "language": "Common Lisp",
       "url": "https://github.com/inconvergent/weird",
-      "stars": "894",
+      "stars": "899",
       "forked": "17",
       "builtBy": [
         {
@@ -636,8 +636,8 @@
       "description": "",
       "language": "JavaScript",
       "url": "https://github.com/ChendoChap/pOOBs4",
-      "stars": "530",
-      "forked": "151",
+      "stars": "534",
+      "forked": "152",
       "builtBy": [
         {
           "name": "@Cryptogenic",
@@ -656,8 +656,8 @@
       "description": "",
       "language": "JavaScript",
       "url": "https://github.com/rolling-scopes-school/tasks",
-      "stars": "1,169",
-      "forked": "2,977",
+      "stars": "1,172",
+      "forked": "2,976",
       "builtBy": [
         {
           "name": "@dzmitry-varabei",
@@ -680,7 +680,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16886406?s=40&v=4"
         }
       ],
-      "starsToday": "62"
+      "starsToday": "106"
     },
     {
       "author": "facebook",
@@ -688,7 +688,7 @@
       "description": "A framework for building native applications using React",
       "language": "JavaScript",
       "url": "https://github.com/facebook/react-native",
-      "stars": "99,867",
+      "stars": "99,870",
       "forked": "21,531",
       "builtBy": [
         {
@@ -712,7 +712,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1733610?s=40&v=4"
         }
       ],
-      "starsToday": "63"
+      "starsToday": "59"
     },
     {
       "author": "SortableJS",
@@ -720,7 +720,7 @@
       "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
       "language": "JavaScript",
       "url": "https://github.com/SortableJS/Sortable",
-      "stars": "23,566",
+      "stars": "23,567",
       "forked": "3,367",
       "builtBy": [
         {
@@ -752,7 +752,7 @@
       "description": "Bitburner Game",
       "language": "JavaScript",
       "url": "https://github.com/danielyxie/bitburner",
-      "stars": "197",
+      "stars": "200",
       "forked": "107",
       "builtBy": [
         {
@@ -776,7 +776,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1399894?s=40&v=4"
         }
       ],
-      "starsToday": "38"
+      "starsToday": "37"
     },
     {
       "author": "VirgilClyne",
@@ -848,8 +848,8 @@
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "language": "JavaScript",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
-      "stars": "38,816",
-      "forked": "5,495",
+      "stars": "38,819",
+      "forked": "5,496",
       "builtBy": [
         {
           "name": "@jlooper",
@@ -880,8 +880,8 @@
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "url": "https://github.com/mrdoob/three.js",
-      "stars": "76,887",
-      "forked": "29,932",
+      "stars": "76,889",
+      "forked": "29,934",
       "builtBy": [
         {
           "name": "@mrdoob",
@@ -912,7 +912,7 @@
       "description": "Generates empty commits to match contributions from other public GitHub accounts.",
       "language": "JavaScript",
       "url": "https://github.com/kefimochi/sync-contribution-graph",
-      "stars": "143",
+      "stars": "144",
       "forked": "8",
       "builtBy": [
         {
@@ -928,8 +928,8 @@
       "description": "Set up a modern web app by running one command.",
       "language": "JavaScript",
       "url": "https://github.com/facebook/create-react-app",
-      "stars": "92,008",
-      "forked": "23,362",
+      "stars": "92,010",
+      "forked": "23,363",
       "builtBy": [
         {
           "name": "@gaearon",
@@ -960,7 +960,7 @@
       "description": "The open-source Shopify alternative ⚡️",
       "language": "JavaScript",
       "url": "https://github.com/medusajs/medusa",
-      "stars": "5,173",
+      "stars": "5,175",
       "forked": "253",
       "builtBy": [
         {
@@ -984,7 +984,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/33696020?s=40&v=4"
         }
       ],
-      "starsToday": "76"
+      "starsToday": "77"
     },
     {
       "author": "jitsi",
@@ -992,8 +992,8 @@
       "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
       "language": "JavaScript",
       "url": "https://github.com/jitsi/jitsi-meet",
-      "stars": "17,217",
-      "forked": "5,477",
+      "stars": "17,218",
+      "forked": "5,478",
       "builtBy": [
         {
           "name": "@saghul",
@@ -1024,7 +1024,7 @@
       "description": "Open-source low-code framework for building React-based web applications and internal tools 🚀",
       "language": "JavaScript",
       "url": "https://github.com/ToolJet/ToolJet",
-      "stars": "4,222",
+      "stars": "4,223",
       "forked": "346",
       "builtBy": [
         {
@@ -1048,7 +1048,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/20333972?s=40&v=4"
         }
       ],
-      "starsToday": "32"
+      "starsToday": "34"
     },
     {
       "author": "exceljs",
@@ -1088,7 +1088,7 @@
       "description": "A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架",
       "language": "JavaScript",
       "url": "https://github.com/micro-zoe/micro-app",
-      "stars": "1,717",
+      "stars": "1,718",
       "forked": "179",
       "builtBy": [
         {
@@ -1112,7 +1112,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19631404?s=40&v=4"
         }
       ],
-      "starsToday": "42"
+      "starsToday": "45"
     },
     {
       "author": "NodeBB",
@@ -1152,8 +1152,8 @@
       "description": "自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！",
       "language": "JavaScript",
       "url": "https://github.com/zero205/JD_tencent_scf",
-      "stars": "1,828",
-      "forked": "670",
+      "stars": "1,829",
+      "forked": "671",
       "builtBy": [
         {
           "name": "@Ca11back",
@@ -1312,7 +1312,7 @@
       "description": "Less. The dynamic stylesheet language.",
       "language": "JavaScript",
       "url": "https://github.com/less/less.js",
-      "stars": "16,698",
+      "stars": "16,699",
       "forked": "3,463",
       "builtBy": [
         {
@@ -1410,8 +1410,8 @@
       "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
       "language": "Python",
       "url": "https://github.com/fullhunt/log4j-scan",
-      "stars": "1,166",
-      "forked": "267",
+      "stars": "1,186",
+      "forked": "269",
       "builtBy": [
         {
           "name": "@mazen160",
@@ -1450,7 +1450,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1148127?s=40&v=4"
         }
       ],
-      "starsToday": "60"
+      "starsToday": "61"
     },
     {
       "author": "alexandre-lavoie",
@@ -1458,7 +1458,7 @@
       "description": "An All-In-One Pure Python PoC for CVE-2021-44228",
       "language": "Python",
       "url": "https://github.com/alexandre-lavoie/python-log4rce",
-      "stars": "120",
+      "stars": "121",
       "forked": "21",
       "builtBy": [
         {
@@ -1474,15 +1474,15 @@
       "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
       "language": "Python",
       "url": "https://github.com/WazeHell/sam-the-admin",
-      "stars": "488",
-      "forked": "95",
+      "stars": "492",
+      "forked": "94",
       "builtBy": [
         {
           "name": "@WazeHell",
           "avatar": "https://avatars.githubusercontent.com/u/20618414?s=40&v=4"
         }
       ],
-      "starsToday": "116"
+      "starsToday": "114"
     },
     {
       "author": "Neo23x0",
@@ -1490,8 +1490,8 @@
       "description": "Detector for Log4Shell exploitation attempts",
       "language": "Python",
       "url": "https://github.com/Neo23x0/log4shell-detector",
-      "stars": "541",
-      "forked": "87",
+      "stars": "543",
+      "forked": "88",
       "builtBy": [
         {
           "name": "@Neo23x0",
@@ -1514,7 +1514,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30180021?s=40&v=4"
         }
       ],
-      "starsToday": "124"
+      "starsToday": "121"
     },
     {
       "author": "gh0stkey",
@@ -1522,8 +1522,8 @@
       "description": "Command2API - 万物皆可API",
       "language": "Python",
       "url": "https://github.com/gh0stkey/Command2API",
-      "stars": "131",
-      "forked": "18",
+      "stars": "133",
+      "forked": "19",
       "builtBy": [],
       "starsToday": "17"
     },
@@ -1533,7 +1533,7 @@
       "description": "A script that checks for vulnerable Log4j (CVE-2021-44228) systems using injection of the payload in common HTTP headers.",
       "language": "Python",
       "url": "https://github.com/NorthwaveSecurity/log4jcheck",
-      "stars": "95",
+      "stars": "96",
       "forked": "25",
       "builtBy": [
         {
@@ -1553,7 +1553,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4074844?s=40&v=4"
         }
       ],
-      "starsToday": "41"
+      "starsToday": "24"
     },
     {
       "author": "heartexlabs",
@@ -1561,8 +1561,8 @@
       "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
       "language": "Python",
       "url": "https://github.com/heartexlabs/label-studio",
-      "stars": "7,215",
-      "forked": "813",
+      "stars": "7,216",
+      "forked": "814",
       "builtBy": [
         {
           "name": "@makseq",
@@ -1585,7 +1585,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/767890?s=40&v=4"
         }
       ],
-      "starsToday": "25"
+      "starsToday": "26"
     },
     {
       "author": "TencentARC",
@@ -1593,8 +1593,8 @@
       "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
       "language": "Python",
       "url": "https://github.com/TencentARC/GFPGAN",
-      "stars": "9,814",
-      "forked": "1,467",
+      "stars": "9,826",
+      "forked": "1,468",
       "builtBy": [
         {
           "name": "@xinntao",
@@ -1617,7 +1617,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/88161975?s=40&v=4"
         }
       ],
-      "starsToday": "1,023"
+      "starsToday": "684"
     },
     {
       "author": "EssayKillerBrain",
@@ -1633,7 +1633,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24304668?s=40&v=4"
         }
       ],
-      "starsToday": "23"
+      "starsToday": "22"
     },
     {
       "author": "kornia",
@@ -1641,7 +1641,7 @@
       "description": "Open Source Differentiable Computer Vision Library",
       "language": "Python",
       "url": "https://github.com/kornia/kornia",
-      "stars": "5,578",
+      "stars": "5,579",
       "forked": "547",
       "builtBy": [
         {
@@ -1673,7 +1673,7 @@
       "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
       "language": "Python",
       "url": "https://github.com/google/jax",
-      "stars": "15,496",
+      "stars": "15,500",
       "forked": "1,424",
       "builtBy": [
         {
@@ -1705,7 +1705,7 @@
       "description": "Scenic: A Jax Library for Computer Vision Research and Beyond",
       "language": "Python",
       "url": "https://github.com/google-research/scenic",
-      "stars": "579",
+      "stars": "582",
       "forked": "51",
       "builtBy": [
         {
@@ -1729,7 +1729,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32181088?s=40&v=4"
         }
       ],
-      "starsToday": "36"
+      "starsToday": "34"
     },
     {
       "author": "gradio-app",
@@ -1737,7 +1737,7 @@
       "description": "Create UIs for your machine learning model in Python in 3 minutes",
       "language": "Python",
       "url": "https://github.com/gradio-app/gradio",
-      "stars": "4,264",
+      "stars": "4,267",
       "forked": "267",
       "builtBy": [
         {
@@ -1769,7 +1769,7 @@
       "description": "OWASP ModSecurity Core Rule Set (Official Repository)",
       "language": "Python",
       "url": "https://github.com/coreruleset/coreruleset",
-      "stars": "769",
+      "stars": "770",
       "forked": "173",
       "builtBy": [
         {
@@ -1793,7 +1793,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/241785?s=40&v=4"
         }
       ],
-      "starsToday": "2"
+      "starsToday": "3"
     },
     {
       "author": "PaddlePaddle",
@@ -1801,8 +1801,8 @@
       "description": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.",
       "language": "Python",
       "url": "https://github.com/PaddlePaddle/PaddleSeg",
-      "stars": "3,358",
-      "forked": "761",
+      "stars": "3,363",
+      "forked": "760",
       "builtBy": [
         {
           "name": "@wuyefeilin",
@@ -1825,7 +1825,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1371212?s=40&v=4"
         }
       ],
-      "starsToday": "35"
+      "starsToday": "36"
     },
     {
       "author": "zabbix",
@@ -1833,7 +1833,7 @@
       "description": "Zabbix Community Templates repository",
       "language": "Python",
       "url": "https://github.com/zabbix/community-templates",
-      "stars": "42",
+      "stars": "43",
       "forked": "17",
       "builtBy": [
         {
@@ -1857,7 +1857,7 @@
       "description": "An Industrial Grade Federated Learning Framework",
       "language": "Python",
       "url": "https://github.com/FederatedAI/FATE",
-      "stars": "3,759",
+      "stars": "3,760",
       "forked": "1,112",
       "builtBy": [
         {
@@ -1881,7 +1881,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/28244886?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "7"
     },
     {
       "author": "huggingface",
@@ -1889,7 +1889,7 @@
       "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
       "language": "Python",
       "url": "https://github.com/huggingface/transformers",
-      "stars": "55,600",
+      "stars": "55,606",
       "forked": "13,146",
       "builtBy": [
         {
@@ -1921,7 +1921,7 @@
       "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
       "language": "Python",
       "url": "https://github.com/Azure/azure-sdk-for-python",
-      "stars": "2,310",
+      "stars": "2,311",
       "forked": "1,599",
       "builtBy": [
         {
@@ -1953,8 +1953,8 @@
       "description": "本推荐算法教程主要是针对具有机器学习基础并想找推荐算法岗位的同学，教程由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。",
       "language": "Python",
       "url": "https://github.com/datawhalechina/fun-rec",
-      "stars": "896",
-      "forked": "287",
+      "stars": "900",
+      "forked": "289",
       "builtBy": [
         {
           "name": "@ruyiluo",
@@ -1985,7 +1985,7 @@
       "description": "This is an official implementation for \"SimMIM: A Simple Framework for Masked Image Modeling\".",
       "language": "Python",
       "url": "https://github.com/microsoft/SimMIM",
-      "stars": "232",
+      "stars": "234",
       "forked": "14",
       "builtBy": [
         {
@@ -2025,7 +2025,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16036159?s=40&v=4"
         }
       ],
-      "starsToday": "37"
+      "starsToday": "34"
     },
     {
       "author": "python",
@@ -2033,7 +2033,7 @@
       "description": "Optional static typing for Python",
       "language": "Python",
       "url": "https://github.com/python/mypy",
-      "stars": "11,978",
+      "stars": "11,979",
       "forked": "2,002",
       "builtBy": [
         {
@@ -2065,7 +2065,7 @@
       "description": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
       "language": "Python",
       "url": "https://github.com/netbox-community/netbox",
-      "stars": "9,299",
+      "stars": "9,300",
       "forked": "1,695",
       "builtBy": [
         {
@@ -2100,7 +2100,7 @@
       "language": "TypeScript",
       "url": "https://github.com/withfig/autocomplete",
       "stars": "8,263",
-      "forked": "2,122",
+      "forked": "2,123",
       "builtBy": [
         {
           "name": "@cstrnt",
@@ -2131,8 +2131,8 @@
       "description": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
       "language": "TypeScript",
       "url": "https://github.com/lunasec-io/lunasec",
-      "stars": "446",
-      "forked": "63",
+      "stars": "450",
+      "forked": "62",
       "builtBy": [
         {
           "name": "@factoidforrest",
@@ -2155,7 +2155,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11783444?s=40&v=4"
         }
       ],
-      "starsToday": "71"
+      "starsToday": "60"
     },
     {
       "author": "jaredpalmer",
@@ -2163,8 +2163,8 @@
       "description": "Build forms in React, without the tears 😭",
       "language": "TypeScript",
       "url": "https://github.com/jaredpalmer/formik",
-      "stars": "28,997",
-      "forked": "2,374",
+      "stars": "28,998",
+      "forked": "2,375",
       "builtBy": [
         {
           "name": "@jaredpalmer",
@@ -2187,7 +2187,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/4706?s=40&v=4"
         }
       ],
-      "starsToday": "24"
+      "starsToday": "26"
     },
     {
       "author": "rolling-scopes",
@@ -2195,7 +2195,7 @@
       "description": "",
       "language": "TypeScript",
       "url": "https://github.com/rolling-scopes/rsschool-app",
-      "stars": "4,329",
+      "stars": "4,334",
       "forked": "107",
       "builtBy": [
         {
@@ -2219,7 +2219,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/57074509?s=40&v=4"
         }
       ],
-      "starsToday": "224"
+      "starsToday": "205"
     },
     {
       "author": "microsoft",
@@ -2227,8 +2227,8 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
-      "stars": "76,628",
-      "forked": "10,027",
+      "stars": "76,629",
+      "forked": "10,028",
       "builtBy": [
         {
           "name": "@ahejlsberg",
@@ -2291,7 +2291,7 @@
       "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
       "language": "TypeScript",
       "url": "https://github.com/typeorm/typeorm",
-      "stars": "26,520",
+      "stars": "26,521",
       "forked": "4,780",
       "builtBy": [
         {
@@ -2315,7 +2315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16498265?s=40&v=4"
         }
       ],
-      "starsToday": "15"
+      "starsToday": "14"
     },
     {
       "author": "ionic-team",
@@ -2347,7 +2347,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11214?s=40&v=4"
         }
       ],
-      "starsToday": "22"
+      "starsToday": "18"
     },
     {
       "author": "puppeteer",
@@ -2355,7 +2355,7 @@
       "description": "Headless Chrome Node.js API",
       "language": "TypeScript",
       "url": "https://github.com/puppeteer/puppeteer",
-      "stars": "75,121",
+      "stars": "75,120",
       "forked": "7,955",
       "builtBy": [
         {
@@ -2387,7 +2387,7 @@
       "description": "Backstage is an open platform for building developer portals",
       "language": "TypeScript",
       "url": "https://github.com/backstage/backstage",
-      "stars": "14,250",
+      "stars": "14,252",
       "forked": "1,901",
       "builtBy": [
         {
@@ -2451,7 +2451,7 @@
       "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
       "language": "TypeScript",
       "url": "https://github.com/Chocobozzz/PeerTube",
-      "stars": "10,048",
+      "stars": "10,049",
       "forked": "1,080",
       "builtBy": [
         {
@@ -2507,7 +2507,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/881612?s=40&v=4"
         }
       ],
-      "starsToday": "33"
+      "starsToday": "35"
     },
     {
       "author": "purocean",
@@ -2515,8 +2515,8 @@
       "description": "A Hackable Markdown Note Application for Programmers. Documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.",
       "language": "TypeScript",
       "url": "https://github.com/purocean/yn",
-      "stars": "535",
-      "forked": "117",
+      "stars": "537",
+      "forked": "118",
       "builtBy": [
         {
           "name": "@purocean",
@@ -2535,7 +2535,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/37952984?s=40&v=4"
         }
       ],
-      "starsToday": "40"
+      "starsToday": "44"
     },
     {
       "author": "colinhacks",
@@ -2543,7 +2543,7 @@
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
       "url": "https://github.com/colinhacks/zod",
-      "stars": "5,241",
+      "stars": "5,244",
       "forked": "202",
       "builtBy": [
         {
@@ -2575,8 +2575,8 @@
       "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
       "language": "TypeScript",
       "url": "https://github.com/snyk/snyk",
-      "stars": "3,591",
-      "forked": "400",
+      "stars": "3,592",
+      "forked": "401",
       "builtBy": [
         {
           "name": "@lili2311",
@@ -2607,7 +2607,7 @@
       "description": "Component infrastructure and Material Design components for Angular",
       "language": "TypeScript",
       "url": "https://github.com/angular/components",
-      "stars": "22,367",
+      "stars": "22,368",
       "forked": "5,951",
       "builtBy": [
         {
@@ -2631,7 +2631,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/22898577?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "4"
     },
     {
       "author": "callstack",
@@ -2671,7 +2671,7 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/vscode",
-      "stars": "125,262",
+      "stars": "125,263",
       "forked": "20,963",
       "builtBy": [
         {
@@ -2727,7 +2727,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1925840?s=40&v=4"
         }
       ],
-      "starsToday": "43"
+      "starsToday": "59"
     },
     {
       "author": "withastro",
@@ -2831,7 +2831,7 @@
       "description": "Accelerating new GitHub Actions workflows",
       "language": "TypeScript",
       "url": "https://github.com/actions/starter-workflows",
-      "stars": "5,491",
+      "stars": "5,492",
       "forked": "4,687",
       "builtBy": [
         {
@@ -2863,8 +2863,8 @@
       "description": "The modern web developer’s platform",
       "language": "TypeScript",
       "url": "https://github.com/angular/angular",
-      "stars": "78,269",
-      "forked": "20,550",
+      "stars": "78,268",
+      "forked": "20,549",
       "builtBy": [
         {
           "name": "@gkalpak",
@@ -2887,7 +2887,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/248818?s=40&v=4"
         }
       ],
-      "starsToday": "32"
+      "starsToday": "29"
     }
   ],
   "go": [
@@ -2897,16 +2897,12 @@
       "description": "Simple local scanner for vulnerable log4j instances",
       "language": "Go",
       "url": "https://github.com/hillu/local-log4j-vuln-scanner",
-      "stars": "144",
+      "stars": "146",
       "forked": "30",
       "builtBy": [
         {
           "name": "@hillu",
           "avatar": "https://avatars.githubusercontent.com/u/173211?s=40&v=4"
-        },
-        {
-          "name": "@martin-schlossarek",
-          "avatar": "https://avatars.githubusercontent.com/u/33715215?s=40&v=4"
         },
         {
           "name": "@simon04",
@@ -2915,9 +2911,13 @@
         {
           "name": "@lbruder",
           "avatar": "https://avatars.githubusercontent.com/u/800963?s=40&v=4"
+        },
+        {
+          "name": "@martin-schlossarek",
+          "avatar": "https://avatars.githubusercontent.com/u/33715215?s=40&v=4"
         }
       ],
-      "starsToday": "55"
+      "starsToday": "53"
     },
     {
       "author": "uberswe",
@@ -2925,7 +2925,7 @@
       "description": "A minimal Go project with user authentication ready out of the box. All frontend assets should be less than 100 kB on every page load.",
       "language": "Go",
       "url": "https://github.com/uberswe/golang-base-project",
-      "stars": "137",
+      "stars": "140",
       "forked": "13",
       "builtBy": [
         {
@@ -2941,7 +2941,7 @@
       "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
       "language": "Go",
       "url": "https://github.com/anchore/syft",
-      "stars": "1,256",
+      "stars": "1,260",
       "forked": "105",
       "builtBy": [
         {
@@ -2965,7 +2965,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2567613?s=40&v=4"
         }
       ],
-      "starsToday": "291"
+      "starsToday": "292"
     },
     {
       "author": "coinbase",
@@ -2973,8 +2973,8 @@
       "description": "",
       "language": "Go",
       "url": "https://github.com/coinbase/kryptology",
-      "stars": "588",
-      "forked": "32",
+      "stars": "589",
+      "forked": "33",
       "builtBy": [
         {
           "name": "@mikelodder7",
@@ -2993,7 +2993,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11387611?s=40&v=4"
         }
       ],
-      "starsToday": "95"
+      "starsToday": "90"
     },
     {
       "author": "anchore",
@@ -3001,7 +3001,7 @@
       "description": "A vulnerability scanner for container images and filesystems",
       "language": "Go",
       "url": "https://github.com/anchore/grype",
-      "stars": "1,896",
+      "stars": "1,904",
       "forked": "139",
       "builtBy": [
         {
@@ -3025,7 +3025,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/15178387?s=40&v=4"
         }
       ],
-      "starsToday": "211"
+      "starsToday": "408"
     },
     {
       "author": "projectdiscovery",
@@ -3033,7 +3033,7 @@
       "description": "An OOB interaction gathering server and client library",
       "language": "Go",
       "url": "https://github.com/projectdiscovery/interactsh",
-      "stars": "924",
+      "stars": "925",
       "forked": "94",
       "builtBy": [
         {
@@ -3057,7 +3057,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16446369?s=40&v=4"
         }
       ],
-      "starsToday": "41"
+      "starsToday": "40"
     },
     {
       "author": "vercel",
@@ -3065,8 +3065,8 @@
       "description": "The High-performance Build System for JavaScript & TypeScript Codebases",
       "language": "Go",
       "url": "https://github.com/vercel/turborepo",
-      "stars": "3,519",
-      "forked": "89",
+      "stars": "3,523",
+      "forked": "90",
       "builtBy": [
         {
           "name": "@jaredpalmer",
@@ -3089,7 +3089,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9113740?s=40&v=4"
         }
       ],
-      "starsToday": "514"
+      "starsToday": "352"
     },
     {
       "author": "livekit",
@@ -3098,7 +3098,7 @@
       "language": "Go",
       "url": "https://github.com/livekit/livekit-server",
       "stars": "1,955",
-      "forked": "128",
+      "forked": "129",
       "builtBy": [
         {
           "name": "@davidzhao",
@@ -3121,7 +3121,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10730886?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "14"
     },
     {
       "author": "megaease",
@@ -3129,7 +3129,7 @@
       "description": "A Cloud Native traffic orchestration system",
       "language": "Go",
       "url": "https://github.com/megaease/easegress",
-      "stars": "4,025",
+      "stars": "4,026",
       "forked": "336",
       "builtBy": [
         {
@@ -3153,7 +3153,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/43328966?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "12"
     },
     {
       "author": "nginxinc",
@@ -3290,7 +3290,7 @@
       "language": "Go",
       "url": "https://github.com/evanw/esbuild",
       "stars": "29,261",
-      "forked": "713",
+      "forked": "714",
       "builtBy": [
         {
           "name": "@evanw",
@@ -3313,7 +3313,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17216317?s=40&v=4"
         }
       ],
-      "starsToday": "25"
+      "starsToday": "31"
     },
     {
       "author": "gorilla",
@@ -3345,7 +3345,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2056461?s=40&v=4"
         }
       ],
-      "starsToday": "18"
+      "starsToday": "17"
     },
     {
       "author": "kata-containers",
@@ -3377,7 +3377,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/112762?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "4"
     },
     {
       "author": "GoogleCloudPlatform",
@@ -3385,8 +3385,8 @@
       "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
       "language": "Go",
       "url": "https://github.com/GoogleCloudPlatform/terraformer",
-      "stars": "6,289",
-      "forked": "813",
+      "stars": "6,290",
+      "forked": "815",
       "builtBy": [
         {
           "name": "@sergeylanzman",
@@ -3418,7 +3418,7 @@
       "language": "Go",
       "url": "https://github.com/ehang-io/nps",
       "stars": "19,476",
-      "forked": "3,459",
+      "forked": "3,460",
       "builtBy": [
         {
           "name": "@ffdfgdfg",
@@ -3449,7 +3449,7 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "url": "https://github.com/traefik/traefik",
-      "stars": "36,021",
+      "stars": "36,022",
       "forked": "3,981",
       "builtBy": [
         {
@@ -3473,7 +3473,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/694826?s=40&v=4"
         }
       ],
-      "starsToday": "24"
+      "starsToday": "23"
     },
     {
       "author": "argoproj",
@@ -3482,7 +3482,7 @@
       "language": "Go",
       "url": "https://github.com/argoproj/argo-events",
       "stars": "1,265",
-      "forked": "419",
+      "forked": "420",
       "builtBy": [
         {
           "name": "@VaibhavPage",
@@ -3525,7 +3525,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/912984?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "6"
     },
     {
       "author": "pyroscope-io",
@@ -3533,7 +3533,7 @@
       "description": "Continuous Profiling Platform! Debug performance issues down to a single line of code",
       "language": "Go",
       "url": "https://github.com/pyroscope-io/pyroscope",
-      "stars": "4,755",
+      "stars": "4,756",
       "forked": "228",
       "builtBy": [
         {
@@ -3557,7 +3557,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/80013495?s=40&v=4"
         }
       ],
-      "starsToday": "18"
+      "starsToday": "17"
     },
     {
       "author": "go-git",
@@ -3589,7 +3589,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9169414?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "6"
     },
     {
       "author": "Shopify",
@@ -3621,7 +3621,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/950087?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "7"
     },
     {
       "author": "casbin",
@@ -3629,7 +3629,7 @@
       "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
       "language": "Go",
       "url": "https://github.com/casbin/casbin",
-      "stars": "10,835",
+      "stars": "10,836",
       "forked": "1,203",
       "builtBy": [
         {
@@ -3653,7 +3653,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/45029442?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "11"
     }
   ],
   "java": [
@@ -3663,8 +3663,8 @@
       "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
       "language": "Java",
       "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
-      "stars": "249",
-      "forked": "66",
+      "stars": "258",
+      "forked": "67",
       "builtBy": [
         {
           "name": "@xeraph",
@@ -3695,8 +3695,8 @@
       "description": "Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!",
       "language": "Java",
       "url": "https://github.com/mergebase/log4j-detector",
-      "stars": "235",
-      "forked": "35",
+      "stars": "241",
+      "forked": "39",
       "builtBy": [
         {
           "name": "@juliusmusseau",
@@ -3711,8 +3711,8 @@
       "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
       "language": "Java",
       "url": "https://github.com/kozmer/log4j-shell-poc",
-      "stars": "190",
-      "forked": "41",
+      "stars": "200",
+      "forked": "44",
       "builtBy": [
         {
           "name": "@kozmer",
@@ -3735,7 +3735,7 @@
       "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
       "language": "Java",
       "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
-      "stars": "266",
+      "stars": "273",
       "forked": "32",
       "builtBy": [
         {
@@ -3767,8 +3767,8 @@
       "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
       "language": "Java",
       "url": "https://github.com/CyC2018/CS-Notes",
-      "stars": "143,379",
-      "forked": "45,733",
+      "stars": "143,383",
+      "forked": "45,734",
       "builtBy": [
         {
           "name": "@CyC2018",
@@ -3799,7 +3799,7 @@
       "description": "",
       "language": "Java",
       "url": "https://github.com/huntresslabs/log4shell-tester",
-      "stars": "220",
+      "stars": "221",
       "forked": "48",
       "builtBy": [
         {
@@ -3819,8 +3819,8 @@
       "description": "Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.",
       "language": "Java",
       "url": "https://github.com/christophetd/log4shell-vulnerable-app",
-      "stars": "676",
-      "forked": "224",
+      "stars": "678",
+      "forked": "228",
       "builtBy": [
         {
           "name": "@christophetd",
@@ -3835,7 +3835,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/47485393?s=40&v=4"
         }
       ],
-      "starsToday": "106"
+      "starsToday": "103"
     },
     {
       "author": "Snailclimb",
@@ -3923,7 +3923,7 @@
       "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
       "language": "Java",
       "url": "https://github.com/OpenAPITools/openapi-generator",
-      "stars": "10,603",
+      "stars": "10,605",
       "forked": "3,678",
       "builtBy": [
         {
@@ -3955,7 +3955,7 @@
       "description": "Graphs for Everyone",
       "language": "Java",
       "url": "https://github.com/neo4j/neo4j",
-      "stars": "9,570",
+      "stars": "9,571",
       "forked": "2,084",
       "builtBy": [
         {
@@ -4051,8 +4051,8 @@
       "description": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
       "language": "Java",
       "url": "https://github.com/apache/logging-log4j2",
-      "stars": "2,186",
-      "forked": "1,101",
+      "stars": "2,191",
+      "forked": "1,103",
       "builtBy": [
         {
           "name": "@garydgregory",
@@ -4075,7 +4075,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/716104?s=40&v=4"
         }
       ],
-      "starsToday": "117"
+      "starsToday": "111"
     },
     {
       "author": "EmYiQing",
@@ -4084,14 +4084,14 @@
       "language": "Java",
       "url": "https://github.com/EmYiQing/LDAPKit",
       "stars": "123",
-      "forked": "38",
+      "forked": "39",
       "builtBy": [
         {
           "name": "@EmYiQing",
           "avatar": "https://avatars.githubusercontent.com/u/34726933?s=40&v=4"
         }
       ],
-      "starsToday": "29"
+      "starsToday": "27"
     },
     {
       "author": "karatelabs",
@@ -4123,7 +4123,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5195256?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "7"
     },
     {
       "author": "elastic",
@@ -4131,8 +4131,8 @@
       "description": "Free and Open, Distributed, RESTful Search Engine",
       "language": "Java",
       "url": "https://github.com/elastic/elasticsearch",
-      "stars": "57,694",
-      "forked": "20,979",
+      "stars": "57,693",
+      "forked": "20,980",
       "builtBy": [
         {
           "name": "@kimchy",
@@ -4155,7 +4155,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/289412?s=40&v=4"
         }
       ],
-      "starsToday": "29"
+      "starsToday": "27"
     },
     {
       "author": "trinodb",
@@ -4219,7 +4219,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10935764?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "12"
     },
     {
       "author": "material-components",
@@ -4251,7 +4251,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/38438920?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "7"
     },
     {
       "author": "medcl",
@@ -4315,7 +4315,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5028729?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "6"
     },
     {
       "author": "openzipkin",
