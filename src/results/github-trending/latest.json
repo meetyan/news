@@ -6,8 +6,8 @@
       "description": "A Neovim config designed from scratch to be understandable",
       "language": "Lua",
       "url": "https://github.com/LunarVim/Neovim-from-scratch",
-      "stars": "390",
-      "forked": "30",
+      "stars": "399",
+      "forked": "32",
       "builtBy": [
         {
           "name": "@ChristianChiarulli",
@@ -22,7 +22,7 @@
       "description": "The Ethereum Improvement Proposal repository",
       "language": "Solidity",
       "url": "https://github.com/ethereum/EIPs",
-      "stars": "8,197",
+      "stars": "8,196",
       "forked": "3,046",
       "builtBy": [
         {
@@ -46,7 +46,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17865?s=40&v=4"
         }
       ],
-      "starsToday": "34"
+      "starsToday": "25"
     },
     {
       "author": "yt-dlp",
@@ -54,7 +54,7 @@
       "description": "A youtube-dl fork with additional features and fixes",
       "language": "Python",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "stars": "13,875",
+      "stars": "13,889",
       "forked": "903",
       "builtBy": [
         {
@@ -78,7 +78,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1937689?s=40&v=4"
         }
       ],
-      "starsToday": "407"
+      "starsToday": "322"
     },
     {
       "author": "Shopify",
@@ -86,7 +86,7 @@
       "description": "High-performance React Native Graphics using Skia",
       "language": "TypeScript",
       "url": "https://github.com/Shopify/react-native-skia",
-      "stars": "1,100",
+      "stars": "1,122",
       "forked": "42",
       "builtBy": [
         {
@@ -102,7 +102,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/27570?s=40&v=4"
         }
       ],
-      "starsToday": "227"
+      "starsToday": "284"
     },
     {
       "author": "MarlinFirmware",
@@ -142,626 +142,8 @@
       "description": "The open-source repo for docs.github.com",
       "language": "JavaScript",
       "url": "https://github.com/github/docs",
-      "stars": "7,587",
-      "forked": "34,954",
-      "builtBy": [
-        {
-          "name": "@Octomerger",
-          "avatar": "https://avatars.githubusercontent.com/u/63058869?s=40&v=4"
-        },
-        {
-          "name": "@sarahs",
-          "avatar": "https://avatars.githubusercontent.com/u/821071?s=40&v=4"
-        },
-        {
-          "name": "@janiceilene",
-          "avatar": "https://avatars.githubusercontent.com/u/9817819?s=40&v=4"
-        },
-        {
-          "name": "@ramyaparimi",
-          "avatar": "https://avatars.githubusercontent.com/u/33761166?s=40&v=4"
-        },
-        {
-          "name": "@mchammer01",
-          "avatar": "https://avatars.githubusercontent.com/u/42146119?s=40&v=4"
-        }
-      ],
-      "starsToday": "48"
-    },
-    {
-      "author": "Revadike",
-      "repo": "epicgames-freebies-claimer",
-      "description": "Claim available free game promotions from the Epic Games Store.",
-      "language": "JavaScript",
-      "url": "https://github.com/Revadike/epicgames-freebies-claimer",
-      "stars": "1,282",
-      "forked": "239",
-      "builtBy": [
-        {
-          "name": "@Revadike",
-          "avatar": "https://avatars.githubusercontent.com/u/4411977?s=40&v=4"
-        },
-        {
-          "name": "@jackblk",
-          "avatar": "https://avatars.githubusercontent.com/u/12843654?s=40&v=4"
-        },
-        {
-          "name": "@davispuh",
-          "avatar": "https://avatars.githubusercontent.com/u/651800?s=40&v=4"
-        },
-        {
-          "name": "@MusTangLee",
-          "avatar": "https://avatars.githubusercontent.com/u/20220182?s=40&v=4"
-        },
-        {
-          "name": "@lupohan44",
-          "avatar": "https://avatars.githubusercontent.com/u/23133361?s=40&v=4"
-        }
-      ],
-      "starsToday": "238"
-    },
-    {
-      "author": "nolanlawson",
-      "repo": "fuite",
-      "description": "A tool for finding memory leaks in web apps",
-      "language": "JavaScript",
-      "url": "https://github.com/nolanlawson/fuite",
-      "stars": "607",
-      "forked": "10",
-      "builtBy": [
-        {
-          "name": "@nolanlawson",
-          "avatar": "https://avatars.githubusercontent.com/u/283842?s=40&v=4"
-        }
-      ],
-      "starsToday": "166"
-    },
-    {
-      "author": "danielyxie",
-      "repo": "bitburner",
-      "description": "Bitburner Game",
-      "language": "JavaScript",
-      "url": "https://github.com/danielyxie/bitburner",
-      "stars": "447",
-      "forked": "165",
-      "builtBy": [
-        {
-          "name": "@hydroflame",
-          "avatar": "https://avatars.githubusercontent.com/u/79246165?s=40&v=4"
-        },
-        {
-          "name": "@danielyxie",
-          "avatar": "https://avatars.githubusercontent.com/u/10609073?s=40&v=4"
-        },
-        {
-          "name": "@kopelli",
-          "avatar": "https://avatars.githubusercontent.com/u/137568?s=40&v=4"
-        },
-        {
-          "name": "@Tesseract1234567890",
-          "avatar": "https://avatars.githubusercontent.com/u/6662704?s=40&v=4"
-        },
-        {
-          "name": "@threehams",
-          "avatar": "https://avatars.githubusercontent.com/u/1399894?s=40&v=4"
-        }
-      ],
-      "starsToday": "91"
-    },
-    {
-      "author": "xinntao",
-      "repo": "Real-ESRGAN",
-      "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
-      "language": "Python",
-      "url": "https://github.com/xinntao/Real-ESRGAN",
-      "stars": "7,778",
-      "forked": "719",
-      "builtBy": [
-        {
-          "name": "@xinntao",
-          "avatar": "https://avatars.githubusercontent.com/u/17445847?s=40&v=4"
-        },
-        {
-          "name": "@AK391",
-          "avatar": "https://avatars.githubusercontent.com/u/81195143?s=40&v=4"
-        },
-        {
-          "name": "@Asiimoviet",
-          "avatar": "https://avatars.githubusercontent.com/u/66727875?s=40&v=4"
-        },
-        {
-          "name": "@cclauss",
-          "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&v=4"
-        },
-        {
-          "name": "@pratikgl",
-          "avatar": "https://avatars.githubusercontent.com/u/43725022?s=40&v=4"
-        }
-      ],
-      "starsToday": "48"
-    },
-    {
-      "author": "EbookFoundation",
-      "repo": "free-programming-books",
-      "description": "📚 Freely available programming books",
-      "language": "",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "stars": "216,216",
-      "forked": "46,476",
-      "builtBy": [
-        {
-          "name": "@vhf",
-          "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&v=4"
-        },
-        {
-          "name": "@MHM5000",
-          "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&v=4"
-        },
-        {
-          "name": "@alexanderfefelov",
-          "avatar": "https://avatars.githubusercontent.com/u/5790321?s=40&v=4"
-        },
-        {
-          "name": "@MrS4w",
-          "avatar": "https://avatars.githubusercontent.com/u/32140289?s=40&v=4"
-        },
-        {
-          "name": "@esparta",
-          "avatar": "https://avatars.githubusercontent.com/u/1037088?s=40&v=4"
-        }
-      ],
-      "starsToday": "115"
-    },
-    {
-      "author": "bottlesdevs",
-      "repo": "Bottles",
-      "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
-      "language": "Python",
-      "url": "https://github.com/bottlesdevs/Bottles",
-      "stars": "1,080",
-      "forked": "53",
-      "builtBy": [
-        {
-          "name": "@mirkobrombin",
-          "avatar": "https://avatars.githubusercontent.com/u/9479903?s=40&v=4"
-        },
-        {
-          "name": "@weblate",
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
-        },
-        {
-          "name": "@hthre7",
-          "avatar": "https://avatars.githubusercontent.com/u/64407362?s=40&v=4"
-        },
-        {
-          "name": "@francescomasala",
-          "avatar": "https://avatars.githubusercontent.com/u/25754886?s=40&v=4"
-        },
-        {
-          "name": "@comradekingu",
-          "avatar": "https://avatars.githubusercontent.com/u/13802408?s=40&v=4"
-        }
-      ],
-      "starsToday": "339"
-    },
-    {
-      "author": "qier222",
-      "repo": "YesPlayMusic",
-      "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
-      "language": "JavaScript",
-      "url": "https://github.com/qier222/YesPlayMusic",
-      "stars": "13,040",
-      "forked": "1,789",
-      "builtBy": [
-        {
-          "name": "@qier222",
-          "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4"
-        },
-        {
-          "name": "@hawtim",
-          "avatar": "https://avatars.githubusercontent.com/u/11072796?s=40&v=4"
-        },
-        {
-          "name": "@VidocqH",
-          "avatar": "https://avatars.githubusercontent.com/u/16725418?s=40&v=4"
-        },
-        {
-          "name": "@Map1en",
-          "avatar": "https://avatars.githubusercontent.com/u/42372070?s=40&v=4"
-        },
-        {
-          "name": "@memorydream",
-          "avatar": "https://avatars.githubusercontent.com/u/34763046?s=40&v=4"
-        }
-      ],
-      "starsToday": "41"
-    },
-    {
-      "author": "ossu",
-      "repo": "data-science",
-      "description": "📊 Path to a free self-taught education in Data Science!",
-      "language": "",
-      "url": "https://github.com/ossu/data-science",
-      "stars": "13,283",
-      "forked": "2,326",
-      "builtBy": [
-        {
-          "name": "@royshouvik",
-          "avatar": "https://avatars.githubusercontent.com/u/5521768?s=40&v=4"
-        },
-        {
-          "name": "@waciumawanjohi",
-          "avatar": "https://avatars.githubusercontent.com/u/18407643?s=40&v=4"
-        },
-        {
-          "name": "@ericdouglas",
-          "avatar": "https://avatars.githubusercontent.com/u/4119931?s=40&v=4"
-        },
-        {
-          "name": "@attackgnome",
-          "avatar": "https://avatars.githubusercontent.com/u/26752255?s=40&v=4"
-        },
-        {
-          "name": "@Torrontogosh",
-          "avatar": "https://avatars.githubusercontent.com/u/17753309?s=40&v=4"
-        }
-      ],
-      "starsToday": "129"
-    },
-    {
-      "author": "CollabCodeTech",
-      "repo": "backend-challenges",
-      "description": "A public list of open-source challenges from jobs around the world",
-      "language": "",
-      "url": "https://github.com/CollabCodeTech/backend-challenges",
-      "stars": "2,514",
-      "forked": "229",
-      "builtBy": [
-        {
-          "name": "@joviane",
-          "avatar": "https://avatars.githubusercontent.com/u/2012952?s=40&v=4"
-        },
-        {
-          "name": "@vinigmoraes",
-          "avatar": "https://avatars.githubusercontent.com/u/11817331?s=40&v=4"
-        },
-        {
-          "name": "@gabriel19913",
-          "avatar": "https://avatars.githubusercontent.com/u/34484482?s=40&v=4"
-        },
-        {
-          "name": "@Liques",
-          "avatar": "https://avatars.githubusercontent.com/u/2924535?s=40&v=4"
-        },
-        {
-          "name": "@thiamsantos",
-          "avatar": "https://avatars.githubusercontent.com/u/13632762?s=40&v=4"
-        }
-      ],
-      "starsToday": "186"
-    },
-    {
-      "author": "signalapp",
-      "repo": "Signal-Android",
-      "description": "A private messenger for Android.",
-      "language": "Java",
-      "url": "https://github.com/signalapp/Signal-Android",
-      "stars": "21,638",
-      "forked": "5,231",
-      "builtBy": [
-        {
-          "name": "@greyson-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/37311915?s=40&v=4"
-        },
-        {
-          "name": "@moxie0",
-          "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
-        },
-        {
-          "name": "@alex-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/54450162?s=40&v=4"
-        },
-        {
-          "name": "@alan-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/48254818?s=40&v=4"
-        },
-        {
-          "name": "@cody-signal",
-          "avatar": "https://avatars.githubusercontent.com/u/66265416?s=40&v=4"
-        }
-      ],
-      "starsToday": "9"
-    },
-    {
-      "author": "wez",
-      "repo": "wezterm",
-      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
-      "language": "Rust",
-      "url": "https://github.com/wez/wezterm",
-      "stars": "2,855",
-      "forked": "151",
-      "builtBy": [
-        {
-          "name": "@wez",
-          "avatar": "https://avatars.githubusercontent.com/u/117777?s=40&v=4"
-        },
-        {
-          "name": "@bew",
-          "avatar": "https://avatars.githubusercontent.com/u/9730330?s=40&v=4"
-        },
-        {
-          "name": "@chipsenkbeil",
-          "avatar": "https://avatars.githubusercontent.com/u/2481802?s=40&v=4"
-        },
-        {
-          "name": "@jsgf",
-          "avatar": "https://avatars.githubusercontent.com/u/147966?s=40&v=4"
-        },
-        {
-          "name": "@markbt",
-          "avatar": "https://avatars.githubusercontent.com/u/5471678?s=40&v=4"
-        }
-      ],
-      "starsToday": "40"
-    },
-    {
-      "author": "Stephan-S",
-      "repo": "FS22_AutoDrive",
-      "description": "FS22 version of the AutoDrive mod",
-      "language": "Lua",
-      "url": "https://github.com/Stephan-S/FS22_AutoDrive",
-      "stars": "65",
-      "forked": "5",
-      "builtBy": [
-        {
-          "name": "@Stephan-S",
-          "avatar": "https://avatars.githubusercontent.com/u/5493976?s=40&v=4"
-        },
-        {
-          "name": "@Axel32019",
-          "avatar": "https://avatars.githubusercontent.com/u/52026009?s=40&v=4"
-        },
-        {
-          "name": "@Iwan1803",
-          "avatar": "https://avatars.githubusercontent.com/u/47528836?s=40&v=4"
-        }
-      ],
-      "starsToday": "13"
-    },
-    {
-      "author": "laurent22",
-      "repo": "joplin",
-      "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
-      "language": "TypeScript",
-      "url": "https://github.com/laurent22/joplin",
-      "stars": "27,041",
-      "forked": "2,981",
-      "builtBy": [
-        {
-          "name": "@laurent22",
-          "avatar": "https://avatars.githubusercontent.com/u/1285584?s=40&v=4"
-        },
-        {
-          "name": "@tessus",
-          "avatar": "https://avatars.githubusercontent.com/u/223439?s=40&v=4"
-        },
-        {
-          "name": "@CalebJohn",
-          "avatar": "https://avatars.githubusercontent.com/u/2179547?s=40&v=4"
-        },
-        {
-          "name": "@roman-r-m",
-          "avatar": "https://avatars.githubusercontent.com/u/995612?s=40&v=4"
-        },
-        {
-          "name": "@mizimno",
-          "avatar": "https://avatars.githubusercontent.com/u/1732810?s=40&v=4"
-        }
-      ],
-      "starsToday": "92"
-    },
-    {
-      "author": "521xueweihan",
-      "repo": "HelloGitHub",
-      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-      "language": "Python",
-      "url": "https://github.com/521xueweihan/HelloGitHub",
-      "stars": "49,832",
-      "forked": "7,197",
-      "builtBy": [
-        {
-          "name": "@521xueweihan",
-          "avatar": "https://avatars.githubusercontent.com/u/8255800?s=40&v=4"
-        },
-        {
-          "name": "@daixiang0",
-          "avatar": "https://avatars.githubusercontent.com/u/26538619?s=40&v=4"
-        },
-        {
-          "name": "@yaowenqiang",
-          "avatar": "https://avatars.githubusercontent.com/u/994371?s=40&v=4"
-        },
-        {
-          "name": "@FradSer",
-          "avatar": "https://avatars.githubusercontent.com/u/1439628?s=40&v=4"
-        },
-        {
-          "name": "@ChungZH",
-          "avatar": "https://avatars.githubusercontent.com/u/42088872?s=40&v=4"
-        }
-      ],
-      "starsToday": "79"
-    },
-    {
-      "author": "alacritty",
-      "repo": "alacritty",
-      "description": "A cross-platform, OpenGL terminal emulator.",
-      "language": "Rust",
-      "url": "https://github.com/alacritty/alacritty",
-      "stars": "36,315",
-      "forked": "2,034",
-      "builtBy": [
-        {
-          "name": "@chrisduerr",
-          "avatar": "https://avatars.githubusercontent.com/u/8886672?s=40&v=4"
-        },
-        {
-          "name": "@jwilm",
-          "avatar": "https://avatars.githubusercontent.com/u/4285147?s=40&v=4"
-        },
-        {
-          "name": "@kchibisov",
-          "avatar": "https://avatars.githubusercontent.com/u/27620401?s=40&v=4"
-        },
-        {
-          "name": "@matthiaskrgr",
-          "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&v=4"
-        },
-        {
-          "name": "@nixpulvis",
-          "avatar": "https://avatars.githubusercontent.com/u/715947?s=40&v=4"
-        }
-      ],
-      "starsToday": "21"
-    },
-    {
-      "author": "ErikCH",
-      "repo": "DevYouTubeList",
-      "description": "List of Development YouTube Channels",
-      "language": "",
-      "url": "https://github.com/ErikCH/DevYouTubeList",
-      "stars": "4,025",
-      "forked": "610",
-      "builtBy": [
-        {
-          "name": "@ErikCH",
-          "avatar": "https://avatars.githubusercontent.com/u/65630?s=40&v=4"
-        },
-        {
-          "name": "@KulkarniSuraj",
-          "avatar": "https://avatars.githubusercontent.com/u/30728951?s=40&v=4"
-        },
-        {
-          "name": "@xmac11",
-          "avatar": "https://avatars.githubusercontent.com/u/55348322?s=40&v=4"
-        },
-        {
-          "name": "@IAmFrosbyte",
-          "avatar": "https://avatars.githubusercontent.com/u/33420975?s=40&v=4"
-        },
-        {
-          "name": "@iamrubayet",
-          "avatar": "https://avatars.githubusercontent.com/u/35176093?s=40&v=4"
-        }
-      ],
-      "starsToday": "14"
-    },
-    {
-      "author": "godotengine",
-      "repo": "godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "url": "https://github.com/godotengine/godot",
-      "stars": "44,649",
-      "forked": "8,065",
-      "builtBy": [
-        {
-          "name": "@akien-mga",
-          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4"
-        },
-        {
-          "name": "@reduz",
-          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4"
-        },
-        {
-          "name": "@Calinou",
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4"
-        },
-        {
-          "name": "@Chaosus",
-          "avatar": "https://avatars.githubusercontent.com/u/3036176?s=40&v=4"
-        },
-        {
-          "name": "@neikeq",
-          "avatar": "https://avatars.githubusercontent.com/u/7718100?s=40&v=4"
-        }
-      ],
-      "starsToday": "62"
-    },
-    {
-      "author": "LianjiaTech",
-      "repo": "bruno",
-      "description": "Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.",
-      "language": "Dart",
-      "url": "https://github.com/LianjiaTech/bruno",
-      "stars": "647",
-      "forked": "114",
-      "builtBy": [
-        {
-          "name": "@zhoujuanjuan",
-          "avatar": "https://avatars.githubusercontent.com/u/4566284?s=40&v=4"
-        },
-        {
-          "name": "@Nayuta403",
-          "avatar": "https://avatars.githubusercontent.com/u/40540394?s=40&v=4"
-        },
-        {
-          "name": "@hexintao",
-          "avatar": "https://avatars.githubusercontent.com/u/15339683?s=40&v=4"
-        },
-        {
-          "name": "@violinday",
-          "avatar": "https://avatars.githubusercontent.com/u/9434515?s=40&v=4"
-        },
-        {
-          "name": "@chenglu",
-          "avatar": "https://avatars.githubusercontent.com/u/2258420?s=40&v=4"
-        }
-      ],
-      "starsToday": "83"
-    },
-    {
-      "author": "freqtrade",
-      "repo": "freqtrade",
-      "description": "Free, open source crypto trading bot",
-      "language": "Python",
-      "url": "https://github.com/freqtrade/freqtrade",
-      "stars": "14,150",
-      "forked": "3,122",
-      "builtBy": [
-        {
-          "name": "@xmatthias",
-          "avatar": "https://avatars.githubusercontent.com/u/5024695?s=40&v=4"
-        },
-        {
-          "name": "@hroff-1902",
-          "avatar": "https://avatars.githubusercontent.com/u/47309513?s=40&v=4"
-        },
-        {
-          "name": "@mishaker",
-          "avatar": "https://avatars.githubusercontent.com/u/939309?s=40&v=4"
-        },
-        {
-          "name": "@pyup-bot",
-          "avatar": "https://avatars.githubusercontent.com/u/16239342?s=40&v=4"
-        },
-        {
-          "name": "@vertti",
-          "avatar": "https://avatars.githubusercontent.com/u/557751?s=40&v=4"
-        }
-      ],
-      "starsToday": "17"
-    }
-  ],
-  "javascript": [
-    {
-      "author": "github",
-      "repo": "docs",
-      "description": "The open-source repo for docs.github.com",
-      "language": "JavaScript",
-      "url": "https://github.com/github/docs",
-      "stars": "7,587",
-      "forked": "34,954",
+      "stars": "7,584",
+      "forked": "34,955",
       "builtBy": [
         {
           "name": "@Octomerger",
@@ -792,7 +174,7 @@
       "description": "Claim available free game promotions from the Epic Games Store.",
       "language": "JavaScript",
       "url": "https://github.com/Revadike/epicgames-freebies-claimer",
-      "stars": "1,282",
+      "stars": "1,291",
       "forked": "239",
       "builtBy": [
         {
@@ -824,15 +206,15 @@
       "description": "A tool for finding memory leaks in web apps",
       "language": "JavaScript",
       "url": "https://github.com/nolanlawson/fuite",
-      "stars": "607",
-      "forked": "10",
+      "stars": "643",
+      "forked": "12",
       "builtBy": [
         {
           "name": "@nolanlawson",
           "avatar": "https://avatars.githubusercontent.com/u/283842?s=40&v=4"
         }
       ],
-      "starsToday": "172"
+      "starsToday": "167"
     },
     {
       "author": "danielyxie",
@@ -840,8 +222,8 @@
       "description": "Bitburner Game",
       "language": "JavaScript",
       "url": "https://github.com/danielyxie/bitburner",
-      "stars": "447",
-      "forked": "165",
+      "stars": "453",
+      "forked": "166",
       "builtBy": [
         {
           "name": "@hydroflame",
@@ -864,7 +246,103 @@
           "avatar": "https://avatars.githubusercontent.com/u/1399894?s=40&v=4"
         }
       ],
-      "starsToday": "90"
+      "starsToday": "95"
+    },
+    {
+      "author": "xinntao",
+      "repo": "Real-ESRGAN",
+      "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+      "language": "Python",
+      "url": "https://github.com/xinntao/Real-ESRGAN",
+      "stars": "7,783",
+      "forked": "719",
+      "builtBy": [
+        {
+          "name": "@xinntao",
+          "avatar": "https://avatars.githubusercontent.com/u/17445847?s=40&v=4"
+        },
+        {
+          "name": "@AK391",
+          "avatar": "https://avatars.githubusercontent.com/u/81195143?s=40&v=4"
+        },
+        {
+          "name": "@Asiimoviet",
+          "avatar": "https://avatars.githubusercontent.com/u/66727875?s=40&v=4"
+        },
+        {
+          "name": "@cclauss",
+          "avatar": "https://avatars.githubusercontent.com/u/3709715?s=40&v=4"
+        },
+        {
+          "name": "@pratikgl",
+          "avatar": "https://avatars.githubusercontent.com/u/43725022?s=40&v=4"
+        }
+      ],
+      "starsToday": "48"
+    },
+    {
+      "author": "EbookFoundation",
+      "repo": "free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "stars": "216,226",
+      "forked": "46,479",
+      "builtBy": [
+        {
+          "name": "@vhf",
+          "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&v=4"
+        },
+        {
+          "name": "@MHM5000",
+          "avatar": "https://avatars.githubusercontent.com/u/2694949?s=40&v=4"
+        },
+        {
+          "name": "@alexanderfefelov",
+          "avatar": "https://avatars.githubusercontent.com/u/5790321?s=40&v=4"
+        },
+        {
+          "name": "@MrS4w",
+          "avatar": "https://avatars.githubusercontent.com/u/32140289?s=40&v=4"
+        },
+        {
+          "name": "@esparta",
+          "avatar": "https://avatars.githubusercontent.com/u/1037088?s=40&v=4"
+        }
+      ],
+      "starsToday": "115"
+    },
+    {
+      "author": "bottlesdevs",
+      "repo": "Bottles",
+      "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
+      "language": "Python",
+      "url": "https://github.com/bottlesdevs/Bottles",
+      "stars": "1,095",
+      "forked": "53",
+      "builtBy": [
+        {
+          "name": "@mirkobrombin",
+          "avatar": "https://avatars.githubusercontent.com/u/9479903?s=40&v=4"
+        },
+        {
+          "name": "@weblate",
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4"
+        },
+        {
+          "name": "@hthre7",
+          "avatar": "https://avatars.githubusercontent.com/u/64407362?s=40&v=4"
+        },
+        {
+          "name": "@francescomasala",
+          "avatar": "https://avatars.githubusercontent.com/u/25754886?s=40&v=4"
+        },
+        {
+          "name": "@comradekingu",
+          "avatar": "https://avatars.githubusercontent.com/u/13802408?s=40&v=4"
+        }
+      ],
+      "starsToday": "339"
     },
     {
       "author": "qier222",
@@ -872,8 +350,8 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "JavaScript",
       "url": "https://github.com/qier222/YesPlayMusic",
-      "stars": "13,040",
-      "forked": "1,789",
+      "stars": "13,048",
+      "forked": "1,791",
       "builtBy": [
         {
           "name": "@qier222",
@@ -896,7 +374,529 @@
           "avatar": "https://avatars.githubusercontent.com/u/34763046?s=40&v=4"
         }
       ],
-      "starsToday": "43"
+      "starsToday": "41"
+    },
+    {
+      "author": "ossu",
+      "repo": "data-science",
+      "description": "📊 Path to a free self-taught education in Data Science!",
+      "language": "",
+      "url": "https://github.com/ossu/data-science",
+      "stars": "13,285",
+      "forked": "2,327",
+      "builtBy": [
+        {
+          "name": "@royshouvik",
+          "avatar": "https://avatars.githubusercontent.com/u/5521768?s=40&v=4"
+        },
+        {
+          "name": "@waciumawanjohi",
+          "avatar": "https://avatars.githubusercontent.com/u/18407643?s=40&v=4"
+        },
+        {
+          "name": "@ericdouglas",
+          "avatar": "https://avatars.githubusercontent.com/u/4119931?s=40&v=4"
+        },
+        {
+          "name": "@attackgnome",
+          "avatar": "https://avatars.githubusercontent.com/u/26752255?s=40&v=4"
+        },
+        {
+          "name": "@Torrontogosh",
+          "avatar": "https://avatars.githubusercontent.com/u/17753309?s=40&v=4"
+        }
+      ],
+      "starsToday": "132"
+    },
+    {
+      "author": "CollabCodeTech",
+      "repo": "backend-challenges",
+      "description": "A public list of open-source challenges from jobs around the world",
+      "language": "",
+      "url": "https://github.com/CollabCodeTech/backend-challenges",
+      "stars": "2,521",
+      "forked": "229",
+      "builtBy": [
+        {
+          "name": "@joviane",
+          "avatar": "https://avatars.githubusercontent.com/u/2012952?s=40&v=4"
+        },
+        {
+          "name": "@vinigmoraes",
+          "avatar": "https://avatars.githubusercontent.com/u/11817331?s=40&v=4"
+        },
+        {
+          "name": "@gabriel19913",
+          "avatar": "https://avatars.githubusercontent.com/u/34484482?s=40&v=4"
+        },
+        {
+          "name": "@Liques",
+          "avatar": "https://avatars.githubusercontent.com/u/2924535?s=40&v=4"
+        },
+        {
+          "name": "@thiamsantos",
+          "avatar": "https://avatars.githubusercontent.com/u/13632762?s=40&v=4"
+        }
+      ],
+      "starsToday": "194"
+    },
+    {
+      "author": "signalapp",
+      "repo": "Signal-Android",
+      "description": "A private messenger for Android.",
+      "language": "Java",
+      "url": "https://github.com/signalapp/Signal-Android",
+      "stars": "21,641",
+      "forked": "5,231",
+      "builtBy": [
+        {
+          "name": "@greyson-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/37311915?s=40&v=4"
+        },
+        {
+          "name": "@moxie0",
+          "avatar": "https://avatars.githubusercontent.com/u/512439?s=40&v=4"
+        },
+        {
+          "name": "@alex-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/54450162?s=40&v=4"
+        },
+        {
+          "name": "@alan-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/48254818?s=40&v=4"
+        },
+        {
+          "name": "@cody-signal",
+          "avatar": "https://avatars.githubusercontent.com/u/66265416?s=40&v=4"
+        }
+      ],
+      "starsToday": "9"
+    },
+    {
+      "author": "wez",
+      "repo": "wezterm",
+      "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+      "language": "Rust",
+      "url": "https://github.com/wez/wezterm",
+      "stars": "2,859",
+      "forked": "151",
+      "builtBy": [
+        {
+          "name": "@wez",
+          "avatar": "https://avatars.githubusercontent.com/u/117777?s=40&v=4"
+        },
+        {
+          "name": "@bew",
+          "avatar": "https://avatars.githubusercontent.com/u/9730330?s=40&v=4"
+        },
+        {
+          "name": "@chipsenkbeil",
+          "avatar": "https://avatars.githubusercontent.com/u/2481802?s=40&v=4"
+        },
+        {
+          "name": "@jsgf",
+          "avatar": "https://avatars.githubusercontent.com/u/147966?s=40&v=4"
+        },
+        {
+          "name": "@markbt",
+          "avatar": "https://avatars.githubusercontent.com/u/5471678?s=40&v=4"
+        }
+      ],
+      "starsToday": "50"
+    },
+    {
+      "author": "Stephan-S",
+      "repo": "FS22_AutoDrive",
+      "description": "FS22 version of the AutoDrive mod",
+      "language": "Lua",
+      "url": "https://github.com/Stephan-S/FS22_AutoDrive",
+      "stars": "65",
+      "forked": "5",
+      "builtBy": [
+        {
+          "name": "@Stephan-S",
+          "avatar": "https://avatars.githubusercontent.com/u/5493976?s=40&v=4"
+        },
+        {
+          "name": "@Axel32019",
+          "avatar": "https://avatars.githubusercontent.com/u/52026009?s=40&v=4"
+        },
+        {
+          "name": "@Iwan1803",
+          "avatar": "https://avatars.githubusercontent.com/u/47528836?s=40&v=4"
+        }
+      ],
+      "starsToday": "13"
+    },
+    {
+      "author": "laurent22",
+      "repo": "joplin",
+      "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+      "language": "TypeScript",
+      "url": "https://github.com/laurent22/joplin",
+      "stars": "27,047",
+      "forked": "2,981",
+      "builtBy": [
+        {
+          "name": "@laurent22",
+          "avatar": "https://avatars.githubusercontent.com/u/1285584?s=40&v=4"
+        },
+        {
+          "name": "@tessus",
+          "avatar": "https://avatars.githubusercontent.com/u/223439?s=40&v=4"
+        },
+        {
+          "name": "@CalebJohn",
+          "avatar": "https://avatars.githubusercontent.com/u/2179547?s=40&v=4"
+        },
+        {
+          "name": "@roman-r-m",
+          "avatar": "https://avatars.githubusercontent.com/u/995612?s=40&v=4"
+        },
+        {
+          "name": "@mizimno",
+          "avatar": "https://avatars.githubusercontent.com/u/1732810?s=40&v=4"
+        }
+      ],
+      "starsToday": "68"
+    },
+    {
+      "author": "521xueweihan",
+      "repo": "HelloGitHub",
+      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "language": "Python",
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "stars": "49,838",
+      "forked": "7,197",
+      "builtBy": [
+        {
+          "name": "@521xueweihan",
+          "avatar": "https://avatars.githubusercontent.com/u/8255800?s=40&v=4"
+        },
+        {
+          "name": "@daixiang0",
+          "avatar": "https://avatars.githubusercontent.com/u/26538619?s=40&v=4"
+        },
+        {
+          "name": "@yaowenqiang",
+          "avatar": "https://avatars.githubusercontent.com/u/994371?s=40&v=4"
+        },
+        {
+          "name": "@FradSer",
+          "avatar": "https://avatars.githubusercontent.com/u/1439628?s=40&v=4"
+        },
+        {
+          "name": "@ChungZH",
+          "avatar": "https://avatars.githubusercontent.com/u/42088872?s=40&v=4"
+        }
+      ],
+      "starsToday": "74"
+    },
+    {
+      "author": "alacritty",
+      "repo": "alacritty",
+      "description": "A cross-platform, OpenGL terminal emulator.",
+      "language": "Rust",
+      "url": "https://github.com/alacritty/alacritty",
+      "stars": "36,317",
+      "forked": "2,034",
+      "builtBy": [
+        {
+          "name": "@chrisduerr",
+          "avatar": "https://avatars.githubusercontent.com/u/8886672?s=40&v=4"
+        },
+        {
+          "name": "@jwilm",
+          "avatar": "https://avatars.githubusercontent.com/u/4285147?s=40&v=4"
+        },
+        {
+          "name": "@kchibisov",
+          "avatar": "https://avatars.githubusercontent.com/u/27620401?s=40&v=4"
+        },
+        {
+          "name": "@matthiaskrgr",
+          "avatar": "https://avatars.githubusercontent.com/u/476013?s=40&v=4"
+        },
+        {
+          "name": "@nixpulvis",
+          "avatar": "https://avatars.githubusercontent.com/u/715947?s=40&v=4"
+        }
+      ],
+      "starsToday": "22"
+    },
+    {
+      "author": "ErikCH",
+      "repo": "DevYouTubeList",
+      "description": "List of Development YouTube Channels",
+      "language": "",
+      "url": "https://github.com/ErikCH/DevYouTubeList",
+      "stars": "4,033",
+      "forked": "610",
+      "builtBy": [
+        {
+          "name": "@ErikCH",
+          "avatar": "https://avatars.githubusercontent.com/u/65630?s=40&v=4"
+        },
+        {
+          "name": "@KulkarniSuraj",
+          "avatar": "https://avatars.githubusercontent.com/u/30728951?s=40&v=4"
+        },
+        {
+          "name": "@xmac11",
+          "avatar": "https://avatars.githubusercontent.com/u/55348322?s=40&v=4"
+        },
+        {
+          "name": "@IAmFrosbyte",
+          "avatar": "https://avatars.githubusercontent.com/u/33420975?s=40&v=4"
+        },
+        {
+          "name": "@iamrubayet",
+          "avatar": "https://avatars.githubusercontent.com/u/35176093?s=40&v=4"
+        }
+      ],
+      "starsToday": "14"
+    },
+    {
+      "author": "godotengine",
+      "repo": "godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "url": "https://github.com/godotengine/godot",
+      "stars": "44,650",
+      "forked": "8,065",
+      "builtBy": [
+        {
+          "name": "@akien-mga",
+          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4"
+        },
+        {
+          "name": "@reduz",
+          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4"
+        },
+        {
+          "name": "@Calinou",
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4"
+        },
+        {
+          "name": "@Chaosus",
+          "avatar": "https://avatars.githubusercontent.com/u/3036176?s=40&v=4"
+        },
+        {
+          "name": "@neikeq",
+          "avatar": "https://avatars.githubusercontent.com/u/7718100?s=40&v=4"
+        }
+      ],
+      "starsToday": "64"
+    },
+    {
+      "author": "LianjiaTech",
+      "repo": "bruno",
+      "description": "Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.",
+      "language": "Dart",
+      "url": "https://github.com/LianjiaTech/bruno",
+      "stars": "655",
+      "forked": "115",
+      "builtBy": [
+        {
+          "name": "@zhoujuanjuan",
+          "avatar": "https://avatars.githubusercontent.com/u/4566284?s=40&v=4"
+        },
+        {
+          "name": "@Nayuta403",
+          "avatar": "https://avatars.githubusercontent.com/u/40540394?s=40&v=4"
+        },
+        {
+          "name": "@hexintao",
+          "avatar": "https://avatars.githubusercontent.com/u/15339683?s=40&v=4"
+        },
+        {
+          "name": "@violinday",
+          "avatar": "https://avatars.githubusercontent.com/u/9434515?s=40&v=4"
+        },
+        {
+          "name": "@chenglu",
+          "avatar": "https://avatars.githubusercontent.com/u/2258420?s=40&v=4"
+        }
+      ],
+      "starsToday": "83"
+    },
+    {
+      "author": "freqtrade",
+      "repo": "freqtrade",
+      "description": "Free, open source crypto trading bot",
+      "language": "Python",
+      "url": "https://github.com/freqtrade/freqtrade",
+      "stars": "14,162",
+      "forked": "3,122",
+      "builtBy": [
+        {
+          "name": "@xmatthias",
+          "avatar": "https://avatars.githubusercontent.com/u/5024695?s=40&v=4"
+        },
+        {
+          "name": "@hroff-1902",
+          "avatar": "https://avatars.githubusercontent.com/u/47309513?s=40&v=4"
+        },
+        {
+          "name": "@mishaker",
+          "avatar": "https://avatars.githubusercontent.com/u/939309?s=40&v=4"
+        },
+        {
+          "name": "@pyup-bot",
+          "avatar": "https://avatars.githubusercontent.com/u/16239342?s=40&v=4"
+        },
+        {
+          "name": "@vertti",
+          "avatar": "https://avatars.githubusercontent.com/u/557751?s=40&v=4"
+        }
+      ],
+      "starsToday": "18"
+    }
+  ],
+  "javascript": [
+    {
+      "author": "github",
+      "repo": "docs",
+      "description": "The open-source repo for docs.github.com",
+      "language": "JavaScript",
+      "url": "https://github.com/github/docs",
+      "stars": "7,584",
+      "forked": "34,955",
+      "builtBy": [
+        {
+          "name": "@Octomerger",
+          "avatar": "https://avatars.githubusercontent.com/u/63058869?s=40&v=4"
+        },
+        {
+          "name": "@sarahs",
+          "avatar": "https://avatars.githubusercontent.com/u/821071?s=40&v=4"
+        },
+        {
+          "name": "@janiceilene",
+          "avatar": "https://avatars.githubusercontent.com/u/9817819?s=40&v=4"
+        },
+        {
+          "name": "@ramyaparimi",
+          "avatar": "https://avatars.githubusercontent.com/u/33761166?s=40&v=4"
+        },
+        {
+          "name": "@mchammer01",
+          "avatar": "https://avatars.githubusercontent.com/u/42146119?s=40&v=4"
+        }
+      ],
+      "starsToday": "48"
+    },
+    {
+      "author": "Revadike",
+      "repo": "epicgames-freebies-claimer",
+      "description": "Claim available free game promotions from the Epic Games Store.",
+      "language": "JavaScript",
+      "url": "https://github.com/Revadike/epicgames-freebies-claimer",
+      "stars": "1,291",
+      "forked": "239",
+      "builtBy": [
+        {
+          "name": "@Revadike",
+          "avatar": "https://avatars.githubusercontent.com/u/4411977?s=40&v=4"
+        },
+        {
+          "name": "@jackblk",
+          "avatar": "https://avatars.githubusercontent.com/u/12843654?s=40&v=4"
+        },
+        {
+          "name": "@davispuh",
+          "avatar": "https://avatars.githubusercontent.com/u/651800?s=40&v=4"
+        },
+        {
+          "name": "@MusTangLee",
+          "avatar": "https://avatars.githubusercontent.com/u/20220182?s=40&v=4"
+        },
+        {
+          "name": "@lupohan44",
+          "avatar": "https://avatars.githubusercontent.com/u/23133361?s=40&v=4"
+        }
+      ],
+      "starsToday": "238"
+    },
+    {
+      "author": "nolanlawson",
+      "repo": "fuite",
+      "description": "A tool for finding memory leaks in web apps",
+      "language": "JavaScript",
+      "url": "https://github.com/nolanlawson/fuite",
+      "stars": "644",
+      "forked": "12",
+      "builtBy": [
+        {
+          "name": "@nolanlawson",
+          "avatar": "https://avatars.githubusercontent.com/u/283842?s=40&v=4"
+        }
+      ],
+      "starsToday": "166"
+    },
+    {
+      "author": "danielyxie",
+      "repo": "bitburner",
+      "description": "Bitburner Game",
+      "language": "JavaScript",
+      "url": "https://github.com/danielyxie/bitburner",
+      "stars": "453",
+      "forked": "166",
+      "builtBy": [
+        {
+          "name": "@hydroflame",
+          "avatar": "https://avatars.githubusercontent.com/u/79246165?s=40&v=4"
+        },
+        {
+          "name": "@danielyxie",
+          "avatar": "https://avatars.githubusercontent.com/u/10609073?s=40&v=4"
+        },
+        {
+          "name": "@kopelli",
+          "avatar": "https://avatars.githubusercontent.com/u/137568?s=40&v=4"
+        },
+        {
+          "name": "@Tesseract1234567890",
+          "avatar": "https://avatars.githubusercontent.com/u/6662704?s=40&v=4"
+        },
+        {
+          "name": "@threehams",
+          "avatar": "https://avatars.githubusercontent.com/u/1399894?s=40&v=4"
+        }
+      ],
+      "starsToday": "91"
+    },
+    {
+      "author": "qier222",
+      "repo": "YesPlayMusic",
+      "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+      "language": "JavaScript",
+      "url": "https://github.com/qier222/YesPlayMusic",
+      "stars": "13,048",
+      "forked": "1,791",
+      "builtBy": [
+        {
+          "name": "@qier222",
+          "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4"
+        },
+        {
+          "name": "@hawtim",
+          "avatar": "https://avatars.githubusercontent.com/u/11072796?s=40&v=4"
+        },
+        {
+          "name": "@VidocqH",
+          "avatar": "https://avatars.githubusercontent.com/u/16725418?s=40&v=4"
+        },
+        {
+          "name": "@Map1en",
+          "avatar": "https://avatars.githubusercontent.com/u/42372070?s=40&v=4"
+        },
+        {
+          "name": "@memorydream",
+          "avatar": "https://avatars.githubusercontent.com/u/34763046?s=40&v=4"
+        }
+      ],
+      "starsToday": "41"
     },
     {
       "author": "OpenZeppelin",
@@ -904,7 +904,7 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "JavaScript",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-      "stars": "14,338",
+      "stars": "14,341",
       "forked": "7,251",
       "builtBy": [
         {
@@ -936,7 +936,7 @@
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
       "language": "JavaScript",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
-      "stars": "6,932",
+      "stars": "6,931",
       "forked": "9,495",
       "builtBy": [
         {
@@ -992,7 +992,7 @@
       "description": "LuCI - OpenWrt Configuration Interface",
       "language": "JavaScript",
       "url": "https://github.com/openwrt/luci",
-      "stars": "3,923",
+      "stars": "3,924",
       "forked": "1,828",
       "builtBy": [
         {
@@ -1024,7 +1024,7 @@
       "description": "💯 Curated interview preparation materials for busy engineers",
       "language": "JavaScript",
       "url": "https://github.com/yangshun/tech-interview-handbook",
-      "stars": "62,548",
+      "stars": "62,549",
       "forked": "8,734",
       "builtBy": [
         {
@@ -1048,7 +1048,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12901172?s=40&v=4"
         }
       ],
-      "starsToday": "102"
+      "starsToday": "100"
     },
     {
       "author": "flybywiresim",
@@ -1056,7 +1056,7 @@
       "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.",
       "language": "JavaScript",
       "url": "https://github.com/flybywiresim/a32nx",
-      "stars": "3,851",
+      "stars": "3,852",
       "forked": "706",
       "builtBy": [
         {
@@ -1088,7 +1088,7 @@
       "description": "",
       "language": "JavaScript",
       "url": "https://github.com/john-smilga/node-express-course",
-      "stars": "923",
+      "stars": "924",
       "forked": "865",
       "builtBy": [
         {
@@ -1104,7 +1104,7 @@
       "description": "A curated list of leetcode questions grouped by their common patterns",
       "language": "JavaScript",
       "url": "https://github.com/seanprashad/leetcode-patterns",
-      "stars": "3,755",
+      "stars": "3,756",
       "forked": "675",
       "builtBy": [
         {
@@ -1169,7 +1169,7 @@
       "language": "JavaScript",
       "url": "https://github.com/github/india",
       "stars": "1,361",
-      "forked": "195",
+      "forked": "196",
       "builtBy": [
         {
           "name": "@mvkaran",
@@ -1192,7 +1192,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/64480043?s=40&v=4"
         }
       ],
-      "starsToday": "15"
+      "starsToday": "12"
     },
     {
       "author": "jc21",
@@ -1200,7 +1200,7 @@
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "language": "JavaScript",
       "url": "https://github.com/jc21/nginx-proxy-manager",
-      "stars": "5,233",
+      "stars": "5,234",
       "forked": "713",
       "builtBy": [
         {
@@ -1224,7 +1224,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/15570570?s=40&v=4"
         }
       ],
-      "starsToday": "30"
+      "starsToday": "32"
     },
     {
       "author": "brave",
@@ -1232,8 +1232,8 @@
       "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
       "language": "JavaScript",
       "url": "https://github.com/brave/brave-browser",
-      "stars": "11,591",
-      "forked": "1,243",
+      "stars": "11,592",
+      "forked": "1,244",
       "builtBy": [
         {
           "name": "@brave-browser-releases",
@@ -1264,7 +1264,7 @@
       "description": "Bitcoin thin client for iOS & Android. Built with React Native",
       "language": "JavaScript",
       "url": "https://github.com/BlueWallet/BlueWallet",
-      "stars": "1,285",
+      "stars": "1,286",
       "forked": "485",
       "builtBy": [
         {
@@ -1360,7 +1360,7 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "JavaScript",
       "url": "https://github.com/iptv-org/iptv",
-      "stars": "43,392",
+      "stars": "43,395",
       "forked": "4,222",
       "builtBy": [
         {
@@ -1392,7 +1392,7 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "language": "JavaScript",
       "url": "https://github.com/facebook/react",
-      "stars": "179,438",
+      "stars": "179,442",
       "forked": "36,403",
       "builtBy": [
         {
@@ -1424,8 +1424,8 @@
       "description": "⚡ Dynamically generated stats for your github readmes",
       "language": "JavaScript",
       "url": "https://github.com/anuraghazra/github-readme-stats",
-      "stars": "34,998",
-      "forked": "7,919",
+      "stars": "34,999",
+      "forked": "7,918",
       "builtBy": [
         {
           "name": "@anuraghazra",
@@ -1448,7 +1448,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8777948?s=40&v=4"
         }
       ],
-      "starsToday": "39"
+      "starsToday": "38"
     },
     {
       "author": "jonasschmedtmann",
@@ -1456,8 +1456,8 @@
       "description": "Starter files, final projects, and FAQ for my Complete JavaScript course",
       "language": "JavaScript",
       "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
-      "stars": "7,891",
-      "forked": "9,839",
+      "stars": "7,892",
+      "forked": "9,838",
       "builtBy": [
         {
           "name": "@jonasschmedtmann",
@@ -1472,7 +1472,7 @@
       "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
       "language": "JavaScript",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "stars": "11,700",
+      "stars": "11,701",
       "forked": "3,033",
       "builtBy": [
         {
@@ -1506,7 +1506,7 @@
       "description": "A youtube-dl fork with additional features and fixes",
       "language": "Python",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "stars": "13,875",
+      "stars": "13,889",
       "forked": "903",
       "builtBy": [
         {
@@ -1530,7 +1530,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1937689?s=40&v=4"
         }
       ],
-      "starsToday": "338"
+      "starsToday": "407"
     },
     {
       "author": "xinntao",
@@ -1538,7 +1538,7 @@
       "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
       "language": "Python",
       "url": "https://github.com/xinntao/Real-ESRGAN",
-      "stars": "7,778",
+      "stars": "7,783",
       "forked": "719",
       "builtBy": [
         {
@@ -1570,7 +1570,7 @@
       "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
       "language": "Python",
       "url": "https://github.com/bottlesdevs/Bottles",
-      "stars": "1,080",
+      "stars": "1,095",
       "forked": "53",
       "builtBy": [
         {
@@ -1602,7 +1602,7 @@
       "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "language": "Python",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "stars": "49,832",
+      "stars": "49,838",
       "forked": "7,197",
       "builtBy": [
         {
@@ -1626,7 +1626,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/42088872?s=40&v=4"
         }
       ],
-      "starsToday": "74"
+      "starsToday": "79"
     },
     {
       "author": "freqtrade",
@@ -1634,7 +1634,7 @@
       "description": "Free, open source crypto trading bot",
       "language": "Python",
       "url": "https://github.com/freqtrade/freqtrade",
-      "stars": "14,150",
+      "stars": "14,162",
       "forked": "3,122",
       "builtBy": [
         {
@@ -1666,7 +1666,7 @@
       "description": "Command-line program to download videos from YouTube.com and other video sites",
       "language": "Python",
       "url": "https://github.com/ytdl-org/youtube-dl",
-      "stars": "103,746",
+      "stars": "103,749",
       "forked": "6,594",
       "builtBy": [
         {
@@ -1698,7 +1698,7 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "url": "https://github.com/tiangolo/fastapi",
-      "stars": "39,687",
+      "stars": "39,690",
       "forked": "2,944",
       "builtBy": [
         {
@@ -1730,7 +1730,7 @@
       "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
       "language": "Python",
       "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
-      "stars": "5,622",
+      "stars": "5,623",
       "forked": "838",
       "builtBy": [
         {
@@ -1750,7 +1750,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10173487?s=40&v=4"
         }
       ],
-      "starsToday": "28"
+      "starsToday": "17"
     },
     {
       "author": "home-assistant",
@@ -1814,7 +1814,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/14029133?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "9"
     },
     {
       "author": "isocpp",
@@ -1822,8 +1822,8 @@
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "Python",
       "url": "https://github.com/isocpp/CppCoreGuidelines",
-      "stars": "32,640",
-      "forked": "4,426",
+      "stars": "32,641",
+      "forked": "4,427",
       "builtBy": [
         {
           "name": "@gdr-at-ms",
@@ -1846,7 +1846,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9937771?s=40&v=4"
         }
       ],
-      "starsToday": "20"
+      "starsToday": "19"
     },
     {
       "author": "DIGITALCRIMINAL",
@@ -1854,8 +1854,8 @@
       "description": "Scrape all the media from an OnlyFans account - Updated regularly",
       "language": "Python",
       "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
-      "stars": "2,720",
-      "forked": "402",
+      "stars": "2,719",
+      "forked": "403",
       "builtBy": [
         {
           "name": "@DIGITALCRIMINAL",
@@ -1886,7 +1886,7 @@
       "description": "Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.",
       "language": "Python",
       "url": "https://github.com/Music-and-Culture-Technology-Lab/omnizart",
-      "stars": "846",
+      "stars": "849",
       "forked": "43",
       "builtBy": [
         {
@@ -1918,15 +1918,15 @@
       "description": "使用python的turtle画樱花树，玫瑰，圣诞树，小猪佩奇，蛋糕，小黄人，贪吃蛇游戏61行代码",
       "language": "Python",
       "url": "https://github.com/niubiqigai/turtle",
-      "stars": "130",
-      "forked": "91",
+      "stars": "131",
+      "forked": "92",
       "builtBy": [
         {
           "name": "@niubiqigai",
           "avatar": "https://avatars.githubusercontent.com/u/38824641?s=40&v=4"
         }
       ],
-      "starsToday": "49"
+      "starsToday": "36"
     },
     {
       "author": "luminoleon",
@@ -1934,7 +1934,7 @@
       "description": "自动领取Epic游戏商城每周免费游戏。",
       "language": "Python",
       "url": "https://github.com/luminoleon/epicgames-claimer",
-      "stars": "536",
+      "stars": "540",
       "forked": "107",
       "builtBy": [
         {
@@ -1950,7 +1950,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/27717518?s=40&v=4"
         }
       ],
-      "starsToday": "36"
+      "starsToday": "40"
     },
     {
       "author": "rentruewang",
@@ -1958,7 +1958,7 @@
       "description": "Prevent PyTorch's `CUDA error: out of memory` in just 1 line of code.",
       "language": "Python",
       "url": "https://github.com/rentruewang/koila",
-      "stars": "1,386",
+      "stars": "1,387",
       "forked": "44",
       "builtBy": [
         {
@@ -1974,7 +1974,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5120717?s=40&v=4"
         }
       ],
-      "starsToday": "40"
+      "starsToday": "41"
     },
     {
       "author": "wjf5203",
@@ -1982,7 +1982,7 @@
       "description": "SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation",
       "language": "Python",
       "url": "https://github.com/wjf5203/SeqFormer",
-      "stars": "127",
+      "stars": "129",
       "forked": "5",
       "builtBy": [
         {
@@ -2014,7 +2014,7 @@
       "description": "Anki for desktop computers",
       "language": "Python",
       "url": "https://github.com/ankitects/anki",
-      "stars": "9,968",
+      "stars": "9,969",
       "forked": "1,389",
       "builtBy": [
         {
@@ -2078,7 +2078,7 @@
       "description": "QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案",
       "language": "Python",
       "url": "https://github.com/QUANTAXIS/QUANTAXIS",
-      "stars": "6,144",
+      "stars": "6,145",
       "forked": "2,442",
       "builtBy": [
         {
@@ -2102,7 +2102,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "7"
     },
     {
       "author": "davidbombal",
@@ -2126,7 +2126,7 @@
       "description": "changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change det…",
       "language": "Python",
       "url": "https://github.com/dgtlmoon/changedetection.io",
-      "stars": "1,632",
+      "stars": "1,633",
       "forked": "104",
       "builtBy": [
         {
@@ -2190,7 +2190,7 @@
       "description": "Python Telegram bot api.",
       "language": "Python",
       "url": "https://github.com/eternnoir/pyTelegramBotAPI",
-      "stars": "4,995",
+      "stars": "4,996",
       "forked": "1,358",
       "builtBy": [
         {
@@ -2224,7 +2224,7 @@
       "description": "High-performance React Native Graphics using Skia",
       "language": "TypeScript",
       "url": "https://github.com/Shopify/react-native-skia",
-      "stars": "1,100",
+      "stars": "1,122",
       "forked": "42",
       "builtBy": [
         {
@@ -2240,7 +2240,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/27570?s=40&v=4"
         }
       ],
-      "starsToday": "227"
+      "starsToday": "284"
     },
     {
       "author": "laurent22",
@@ -2248,7 +2248,7 @@
       "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
       "language": "TypeScript",
       "url": "https://github.com/laurent22/joplin",
-      "stars": "27,041",
+      "stars": "27,047",
       "forked": "2,981",
       "builtBy": [
         {
@@ -2272,7 +2272,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1732810?s=40&v=4"
         }
       ],
-      "starsToday": "92"
+      "starsToday": "68"
     },
     {
       "author": "trustwallet",
@@ -2280,7 +2280,7 @@
       "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
       "language": "TypeScript",
       "url": "https://github.com/trustwallet/assets",
-      "stars": "1,800",
+      "stars": "1,799",
       "forked": "10,021",
       "builtBy": [
         {
@@ -2304,7 +2304,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/35627271?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "10"
     },
     {
       "author": "desktop",
@@ -2313,7 +2313,7 @@
       "language": "TypeScript",
       "url": "https://github.com/desktop/desktop",
       "stars": "13,717",
-      "forked": "7,305",
+      "forked": "7,306",
       "builtBy": [
         {
           "name": "@niik",
@@ -2336,7 +2336,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/964912?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "9"
     },
     {
       "author": "prisma",
@@ -2377,7 +2377,7 @@
       "language": "TypeScript",
       "url": "https://github.com/metaplex-foundation/metaplex",
       "stars": "2,216",
-      "forked": "4,240",
+      "forked": "4,239",
       "builtBy": [
         {
           "name": "@yamijuan",
@@ -2432,7 +2432,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61798668?s=40&v=4"
         }
       ],
-      "starsToday": "18"
+      "starsToday": "20"
     },
     {
       "author": "sveltejs",
@@ -2472,7 +2472,7 @@
       "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
       "language": "TypeScript",
       "url": "https://github.com/outline/outline",
-      "stars": "13,844",
+      "stars": "13,845",
       "forked": "1,106",
       "builtBy": [
         {
@@ -2504,7 +2504,7 @@
       "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
       "language": "TypeScript",
       "url": "https://github.com/unlock-music/unlock-music",
-      "stars": "10,462",
+      "stars": "10,463",
       "forked": "212",
       "builtBy": [
         {
@@ -2528,7 +2528,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/47095648?s=40&v=4"
         }
       ],
-      "starsToday": "28"
+      "starsToday": "26"
     },
     {
       "author": "yeemachine",
@@ -2536,7 +2536,7 @@
       "description": "Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.",
       "language": "TypeScript",
       "url": "https://github.com/yeemachine/kalidokit",
-      "stars": "2,821",
+      "stars": "2,822",
       "forked": "245",
       "builtBy": [
         {
@@ -2568,7 +2568,7 @@
       "description": "🥞 Pancake main features (farms, pools, IFO, lottery, profiles)",
       "language": "TypeScript",
       "url": "https://github.com/pancakeswap/pancake-frontend",
-      "stars": "1,331",
+      "stars": "1,330",
       "forked": "2,050",
       "builtBy": [
         {
@@ -2632,7 +2632,7 @@
       "description": "The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:",
       "language": "TypeScript",
       "url": "https://github.com/outline/rich-markdown-editor",
-      "stars": "2,482",
+      "stars": "2,485",
       "forked": "424",
       "builtBy": [
         {
@@ -2656,7 +2656,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/427579?s=40&v=4"
         }
       ],
-      "starsToday": "25"
+      "starsToday": "29"
     },
     {
       "author": "exiled-apes",
@@ -2832,7 +2832,7 @@
       "description": "Official Discord API Documentation",
       "language": "TypeScript",
       "url": "https://github.com/discord/discord-api-docs",
-      "stars": "3,859",
+      "stars": "3,858",
       "forked": "987",
       "builtBy": [
         {
@@ -2856,7 +2856,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5489149?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "4"
     },
     {
       "author": "supabase",
@@ -2864,7 +2864,7 @@
       "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
       "language": "TypeScript",
       "url": "https://github.com/supabase/supabase",
-      "stars": "25,222",
+      "stars": "25,221",
       "forked": "1,311",
       "builtBy": [
         {
@@ -2888,7 +2888,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4"
         }
       ],
-      "starsToday": "54"
+      "starsToday": "61"
     },
     {
       "author": "hotwired",
@@ -3018,7 +3018,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11305?s=40&v=4"
         }
       ],
-      "starsToday": "382"
+      "starsToday": "396"
     },
     {
       "author": "palantir",
@@ -3026,7 +3026,7 @@
       "description": "A tool that scans archives to check for vulnerable log4j versions",
       "language": "Go",
       "url": "https://github.com/palantir/log4j-sniffer",
-      "stars": "104",
+      "stars": "105",
       "forked": "9",
       "builtBy": [
         {
@@ -3050,7 +3050,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/51718346?s=40&v=4"
         }
       ],
-      "starsToday": "30"
+      "starsToday": "28"
     },
     {
       "author": "bettercap",
@@ -3090,8 +3090,8 @@
       "description": "A platform for building proxies to bypass network restrictions.",
       "language": "Go",
       "url": "https://github.com/v2ray/v2ray-core",
-      "stars": "38,787",
-      "forked": "8,312",
+      "stars": "38,789",
+      "forked": "8,311",
       "builtBy": [
         {
           "name": "@DarienRaymond",
@@ -3122,7 +3122,7 @@
       "description": "Ethereum implementation on the efficiency frontier",
       "language": "Go",
       "url": "https://github.com/ledgerwatch/erigon",
-      "stars": "908",
+      "stars": "909",
       "forked": "224",
       "builtBy": [
         {
@@ -3154,7 +3154,7 @@
       "description": "",
       "language": "Go",
       "url": "https://github.com/proferosec/log4jScanner",
-      "stars": "228",
+      "stars": "229",
       "forked": "21",
       "builtBy": [
         {
@@ -3178,7 +3178,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13978578?s=40&v=4"
         }
       ],
-      "starsToday": "59"
+      "starsToday": "57"
     },
     {
       "author": "keybase",
@@ -3218,7 +3218,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "url": "https://github.com/hashicorp/terraform",
-      "stars": "30,497",
+      "stars": "30,498",
       "forked": "7,158",
       "builtBy": [
         {
@@ -3242,7 +3242,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61721?s=40&v=4"
         }
       ],
-      "starsToday": "12"
+      "starsToday": "14"
     },
     {
       "author": "naiba",
@@ -3250,7 +3250,7 @@
       "description": "哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。",
       "language": "Go",
       "url": "https://github.com/naiba/nezha",
-      "stars": "1,840",
+      "stars": "1,842",
       "forked": "522",
       "builtBy": [
         {
@@ -3274,7 +3274,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18618627?s=40&v=4"
         }
       ],
-      "starsToday": "19"
+      "starsToday": "15"
     },
     {
       "author": "wailsapp",
@@ -3282,7 +3282,7 @@
       "description": "Create desktop apps using Go and Web Technologies.",
       "language": "Go",
       "url": "https://github.com/wailsapp/wails",
-      "stars": "4,932",
+      "stars": "4,933",
       "forked": "250",
       "builtBy": [
         {
@@ -3306,7 +3306,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9464631?s=40&v=4"
         }
       ],
-      "starsToday": "21"
+      "starsToday": "18"
     },
     {
       "author": "ory",
@@ -3346,7 +3346,7 @@
       "description": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
       "language": "Go",
       "url": "https://github.com/Shopify/toxiproxy",
-      "stars": "7,564",
+      "stars": "7,565",
       "forked": "350",
       "builtBy": [
         {
@@ -3379,7 +3379,7 @@
       "language": "Go",
       "url": "https://github.com/solana-labs/token-list",
       "stars": "588",
-      "forked": "3,841",
+      "forked": "3,846",
       "builtBy": [
         {
           "name": "@token-list-automerger",
@@ -3402,7 +3402,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/323982?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "6"
     },
     {
       "author": "filebrowser",
@@ -3410,7 +3410,7 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "url": "https://github.com/filebrowser/filebrowser",
-      "stars": "13,895",
+      "stars": "13,894",
       "forked": "1,777",
       "builtBy": [
         {
@@ -3434,7 +3434,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "starsToday": "38"
+      "starsToday": "39"
     },
     {
       "author": "v2fly",
@@ -3466,7 +3466,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/63339210?s=40&v=4"
         }
       ],
-      "starsToday": "17"
+      "starsToday": "16"
     },
     {
       "author": "XTLS",
@@ -3498,7 +3498,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/82594500?s=40&v=4"
         }
       ],
-      "starsToday": "21"
+      "starsToday": "17"
     },
     {
       "author": "lucas-clemente",
@@ -3506,7 +3506,7 @@
       "description": "A QUIC implementation in pure go",
       "language": "Go",
       "url": "https://github.com/lucas-clemente/quic-go",
-      "stars": "6,091",
+      "stars": "6,092",
       "forked": "814",
       "builtBy": [
         {
@@ -3530,7 +3530,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/195661?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "6"
     },
     {
       "author": "gohugoio",
@@ -3538,7 +3538,7 @@
       "description": "The world’s fastest framework for building websites.",
       "language": "Go",
       "url": "https://github.com/gohugoio/hugo",
-      "stars": "55,911",
+      "stars": "55,910",
       "forked": "6,341",
       "builtBy": [
         {
@@ -3562,7 +3562,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7010165?s=40&v=4"
         }
       ],
-      "starsToday": "24"
+      "starsToday": "23"
     },
     {
       "author": "avelino",
@@ -3570,8 +3570,8 @@
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": "72,438",
-      "forked": "9,300",
+      "stars": "72,437",
+      "forked": "9,302",
       "builtBy": [
         {
           "name": "@mholt",
@@ -3666,8 +3666,8 @@
       "description": "Official Go implementation of the Ethereum protocol",
       "language": "Go",
       "url": "https://github.com/ethereum/go-ethereum",
-      "stars": "34,205",
-      "forked": "12,646",
+      "stars": "34,204",
+      "forked": "12,647",
       "builtBy": [
         {
           "name": "@obscuren",
@@ -3722,7 +3722,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1008879?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "4"
     },
     {
       "author": "megaease",
@@ -3786,7 +3786,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/68368?s=40&v=4"
         }
       ],
-      "starsToday": "19"
+      "starsToday": "20"
     }
   ],
   "java": [
@@ -3796,7 +3796,7 @@
       "description": "A private messenger for Android.",
       "language": "Java",
       "url": "https://github.com/signalapp/Signal-Android",
-      "stars": "21,638",
+      "stars": "21,641",
       "forked": "5,231",
       "builtBy": [
         {
@@ -3860,7 +3860,7 @@
       "description": "Multi-platform transparent client-side encryption of your files in the cloud",
       "language": "Java",
       "url": "https://github.com/cryptomator/cryptomator",
-      "stars": "6,655",
+      "stars": "6,657",
       "forked": "569",
       "builtBy": [
         {
@@ -3884,7 +3884,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1536532?s=40&v=4"
         }
       ],
-      "starsToday": "31"
+      "starsToday": "33"
     },
     {
       "author": "MinecraftForge",
@@ -3892,7 +3892,7 @@
       "description": "Modifications to the Minecraft base files to assist in compatibility between mods.",
       "language": "Java",
       "url": "https://github.com/MinecraftForge/MinecraftForge",
-      "stars": "5,132",
+      "stars": "5,133",
       "forked": "2,259",
       "builtBy": [
         {
@@ -3948,7 +3948,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4346114?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "3"
     },
     {
       "author": "google",
@@ -3956,7 +3956,7 @@
       "description": "Google core libraries for Java",
       "language": "Java",
       "url": "https://github.com/google/guava",
-      "stars": "43,174",
+      "stars": "43,176",
       "forked": "9,599",
       "builtBy": [
         {
@@ -3980,7 +3980,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6324883?s=40&v=4"
         }
       ],
-      "starsToday": "12"
+      "starsToday": "13"
     },
     {
       "author": "LawnchairLauncher",
@@ -4012,7 +4012,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1196024?s=40&v=4"
         }
       ],
-      "starsToday": "10"
+      "starsToday": "9"
     },
     {
       "author": "Anuken",
@@ -4044,7 +4044,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/54301439?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "9"
     },
     {
       "author": "iluwatar",
@@ -4053,7 +4053,7 @@
       "language": "Java",
       "url": "https://github.com/iluwatar/java-design-patterns",
       "stars": "71,941",
-      "forked": "22,401",
+      "forked": "22,402",
       "builtBy": [
         {
           "name": "@iluwatar",
@@ -4076,7 +4076,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1545460?s=40&v=4"
         }
       ],
-      "starsToday": "18"
+      "starsToday": "17"
     },
     {
       "author": "CaffeineMC",
@@ -4084,7 +4084,7 @@
       "description": "A Fabric mod designed to improve frame rates and reduce micro-stutter",
       "language": "Java",
       "url": "https://github.com/CaffeineMC/sodium-fabric",
-      "stars": "3,001",
+      "stars": "3,002",
       "forked": "528",
       "builtBy": [
         {
@@ -4108,7 +4108,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30311066?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "12"
     },
     {
       "author": "cabaletta",
@@ -4172,7 +4172,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/35617595?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "9"
     },
     {
       "author": "Querz",
@@ -4212,7 +4212,7 @@
       "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
       "language": "Java",
       "url": "https://github.com/ssssssss-team/spider-flow",
-      "stars": "2,789",
+      "stars": "2,791",
       "forked": "495",
       "builtBy": [
         {
@@ -4236,7 +4236,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/42330488?s=40&v=4"
         }
       ],
-      "starsToday": "58"
+      "starsToday": "55"
     },
     {
       "author": "AntennaPod",
@@ -4300,7 +4300,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25458773?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "4"
     },
     {
       "author": "openhab",
@@ -4340,15 +4340,15 @@
       "description": "🇨🇳 GitHub中文排行榜，帮助你发现优秀中文项目，无语言障碍地、更高效地吸收优秀经验成果。",
       "language": "Java",
       "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
-      "stars": "41,956",
-      "forked": "5,965",
+      "stars": "41,964",
+      "forked": "5,968",
       "builtBy": [
         {
           "name": "@kon9chunkit",
           "avatar": "https://avatars.githubusercontent.com/u/21018904?s=40&v=4"
         }
       ],
-      "starsToday": "286"
+      "starsToday": "296"
     },
     {
       "author": "Creators-of-Create",
@@ -4412,7 +4412,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/10731363?s=40&v=4"
         }
       ],
-      "starsToday": "3"
+      "starsToday": "4"
     },
     {
       "author": "ankidroid",
@@ -4420,7 +4420,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "language": "Java",
       "url": "https://github.com/ankidroid/Anki-Android",
-      "stars": "4,428",
+      "stars": "4,429",
       "forked": "1,442",
       "builtBy": [
         {
@@ -4516,7 +4516,7 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "url": "https://github.com/DrKLO/Telegram",
-      "stars": "18,854",
+      "stars": "18,853",
       "forked": "6,535",
       "builtBy": [
         {
@@ -4540,7 +4540,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/775173?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "6"
     },
     {
       "author": "apache",
@@ -4548,7 +4548,7 @@
       "description": "Apache Maven Wrapper",
       "language": "Java",
       "url": "https://github.com/apache/maven-wrapper",
-      "stars": "49",
+      "stars": "52",
       "forked": "3",
       "builtBy": [
         {
@@ -4572,7 +4572,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/975267?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "8"
     }
   ]
 }
