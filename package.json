@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "pm2 start src/index.js --time --name news -i 0",
-    "stop": "pm2 stop news",
-    "lint": "eslint 'src/**/*.js' --cache --fix",
-    "server": "nodemon server/index.js"
+    "scrape": "pm2 start src/index.js --time --name news -i 0",
+    "server": "nodemon server/index.js",
+    "server:pm2": "pm2 start server/index.js --time --name news-server -i 0",
+    "build": "yarn scrape && yarn server:pm2",
+    "stop": "pm2 stop news && pm2 stop news-server",
+    "lint": "eslint 'src/**/*.js' --cache --fix"
   },
   "repository": {
     "type": "git",
