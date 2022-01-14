@@ -6,7 +6,8 @@
   "scripts": {
     "build": "pm2 start src/index.js --time --name news -i 0",
     "stop": "pm2 stop news",
-    "lint": "eslint 'src/**/*.js' --cache --fix"
+    "lint": "eslint 'src/**/*.js' --cache --fix",
+    "server": "nodemon server/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,12 +23,14 @@
   "dependencies": {
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
     "moment": "^2.29.1",
     "node-cron": "^3.0.0",
     "pm2": "^5.1.2",
     "simple-git": "^2.47.0"
   },
   "devDependencies": {
-    "eslint": "^8.3.0"
+    "eslint": "^8.3.0",
+    "nodemon": "^2.0.15"
   }
 }
