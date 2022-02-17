@@ -6,8 +6,8 @@
       "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
       "language": "JavaScript",
       "url": "https://github.com/mermaid-js/mermaid",
-      "stars": "42,615",
-      "forked": "3,082",
+      "stars": "42,662",
+      "forked": "3,086",
       "builtBy": [
         {
           "name": "@knsv",
@@ -30,15 +30,15 @@
           "avatar": "https://avatars.githubusercontent.com/u/16836093?s=40&v=4"
         }
       ],
-      "starsToday": "630"
+      "starsToday": "779"
     },
     {
       "author": "heiyeluren",
       "repo": "XMM",
-      "description": "XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。",
+      "description": "XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。",
       "language": "Go",
       "url": "https://github.com/heiyeluren/XMM",
-      "stars": "474",
+      "stars": "485",
       "forked": "54",
       "builtBy": [
         {
@@ -62,7 +62,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8529452?s=40&v=4"
         }
       ],
-      "starsToday": "176"
+      "starsToday": "82"
     },
     {
       "author": "Azure",
@@ -70,7 +70,7 @@
       "description": "The source for REST API specifications for Microsoft Azure.",
       "language": "TypeScript",
       "url": "https://github.com/Azure/azure-rest-api-specs",
-      "stars": "1,413",
+      "stars": "1,414",
       "forked": "3,426",
       "builtBy": [
         {
@@ -94,7 +94,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/70930885?s=40&v=4"
         }
       ],
-      "starsToday": "37"
+      "starsToday": "27"
     },
     {
       "author": "ethereumbook",
@@ -102,8 +102,8 @@
       "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
       "language": "JavaScript",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "stars": "13,235",
-      "forked": "3,304",
+      "stars": "13,246",
+      "forked": "3,305",
       "builtBy": [
         {
           "name": "@aantonop",
@@ -126,7 +126,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5104824?s=40&v=4"
         }
       ],
-      "starsToday": "68"
+      "starsToday": "66"
     },
     {
       "author": "cube0x0",
@@ -134,10 +134,10 @@
       "description": "Framework for Kerberos relaying",
       "language": "C#",
       "url": "https://github.com/cube0x0/KrbRelay",
-      "stars": "404",
-      "forked": "47",
+      "stars": "406",
+      "forked": "48",
       "builtBy": [],
-      "starsToday": "57"
+      "starsToday": "68"
     },
     {
       "author": "penk",
@@ -145,7 +145,7 @@
       "description": "Penkesu Computer - A Homebrew Retro-style Handheld PC",
       "language": "",
       "url": "https://github.com/penk/penkesu",
-      "stars": "885",
+      "stars": "894",
       "forked": "28",
       "builtBy": [
         {
@@ -153,7 +153,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/61878?s=40&v=4"
         }
       ],
-      "starsToday": "224"
+      "starsToday": "216"
     },
     {
       "author": "italiaremote",
@@ -161,7 +161,7 @@
       "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
       "language": "Go",
       "url": "https://github.com/italiaremote/awesome-italia-remote",
-      "stars": "245",
+      "stars": "255",
       "forked": "44",
       "builtBy": [
         {
@@ -185,7 +185,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11404065?s=40&v=4"
         }
       ],
-      "starsToday": "37"
+      "starsToday": "61"
     },
     {
       "author": "novak-99",
@@ -193,7 +193,7 @@
       "description": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
       "language": "C++",
       "url": "https://github.com/novak-99/MLPP",
-      "stars": "691",
+      "stars": "695",
       "forked": "74",
       "builtBy": [
         {
@@ -205,7 +205,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/72196131?s=40&v=4"
         }
       ],
-      "starsToday": "151"
+      "starsToday": "152"
     },
     {
       "author": "JonathanSalwan",
@@ -213,7 +213,7 @@
       "description": "Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.",
       "language": "Roff",
       "url": "https://github.com/JonathanSalwan/VMProtect-devirtualization",
-      "stars": "300",
+      "stars": "306",
       "forked": "49",
       "builtBy": [
         {
@@ -221,7 +221,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/991046?s=40&v=4"
         }
       ],
-      "starsToday": "58"
+      "starsToday": "47"
     },
     {
       "author": "OffcierCia",
@@ -229,7 +229,7 @@
       "description": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
       "language": "",
       "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
-      "stars": "3,993",
+      "stars": "4,006",
       "forked": "433",
       "builtBy": [
         {
@@ -253,7 +253,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3520021?s=40&v=4"
         }
       ],
-      "starsToday": "129"
+      "starsToday": "127"
     },
     {
       "author": "bilibili",
@@ -261,8 +261,8 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/bilibili/ailab",
-      "stars": "2,318",
-      "forked": "223",
+      "stars": "2,335",
+      "forked": "225",
       "builtBy": [
         {
           "name": "@lj1995-computer-vision",
@@ -285,7 +285,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89348590?s=40&v=4"
         }
       ],
-      "starsToday": "257"
+      "starsToday": "258"
     },
     {
       "author": "trickest",
@@ -293,8 +293,8 @@
       "description": "Gather and update all available and newest CVEs with their PoC.",
       "language": "",
       "url": "https://github.com/trickest/cve",
-      "stars": "1,328",
-      "forked": "143",
+      "stars": "1,355",
+      "forked": "145",
       "builtBy": [
         {
           "name": "@trickest-workflows",
@@ -313,7 +313,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/19687798?s=40&v=4"
         }
       ],
-      "starsToday": "489"
+      "starsToday": "481"
     },
     {
       "author": "alan2207",
@@ -321,7 +321,7 @@
       "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
       "language": "TypeScript",
       "url": "https://github.com/alan2207/bulletproof-react",
-      "stars": "8,831",
+      "stars": "8,833",
       "forked": "586",
       "builtBy": [
         {
@@ -353,8 +353,8 @@
       "description": "打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作",
       "language": "Python",
       "url": "https://github.com/4ra1n/JavaSecInterview",
-      "stars": "458",
-      "forked": "65",
+      "stars": "473",
+      "forked": "69",
       "builtBy": [
         {
           "name": "@4ra1n",
@@ -369,7 +369,7 @@
       "description": "💥 Listing some playful open-source's challenges of companies to test your knowledge",
       "language": "",
       "url": "https://github.com/felipefialho/frontend-challenges",
-      "stars": "7,912",
+      "stars": "7,919",
       "forked": "886",
       "builtBy": [
         {
@@ -393,7 +393,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/20663031?s=40&v=4"
         }
       ],
-      "starsToday": "186"
+      "starsToday": "158"
     },
     {
       "author": "pen4uin",
@@ -401,7 +401,7 @@
       "description": "list of bug bounty writeups",
       "language": "",
       "url": "https://github.com/pen4uin/bug-bounty",
-      "stars": "215",
+      "stars": "218",
       "forked": "47",
       "builtBy": [
         {
@@ -409,7 +409,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/55024146?s=40&v=4"
         }
       ],
-      "starsToday": "15"
+      "starsToday": "48"
     },
     {
       "author": "AMAI-GmbH",
@@ -417,8 +417,8 @@
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
       "language": "JavaScript",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-      "stars": "18,155",
-      "forked": "1,555",
+      "stars": "18,163",
+      "forked": "1,556",
       "builtBy": [
         {
           "name": "@JStumpp",
@@ -441,7 +441,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8591478?s=40&v=4"
         }
       ],
-      "starsToday": "294"
+      "starsToday": "315"
     },
     {
       "author": "dtm-php",
@@ -449,8 +449,8 @@
       "description": "A PHP coroutine client for distributed transaction manager DTM. 分布式事务管理器 DTM 的 PHP 协程客户端",
       "language": "PHP",
       "url": "https://github.com/dtm-php/dtm-client",
-      "stars": "207",
-      "forked": "13",
+      "stars": "208",
+      "forked": "14",
       "builtBy": [
         {
           "name": "@huangzhhui",
@@ -473,7 +473,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/25758236?s=40&v=4"
         }
       ],
-      "starsToday": "36"
+      "starsToday": "29"
     },
     {
       "author": "mqyqingfeng",
@@ -481,7 +481,7 @@
       "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
       "language": "",
       "url": "https://github.com/mqyqingfeng/Blog",
-      "stars": "25,735",
+      "stars": "25,743",
       "forked": "4,270",
       "builtBy": [
         {
@@ -501,8 +501,8 @@
       "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
       "language": "Java",
       "url": "https://github.com/qiurunze123/miaosha",
-      "stars": "23,607",
-      "forked": "6,118",
+      "stars": "23,616",
+      "forked": "6,120",
       "builtBy": [
         {
           "name": "@qiurunze123",
@@ -534,7 +534,7 @@
       "language": "Go",
       "url": "https://github.com/aws/aws-sdk-go",
       "stars": "7,426",
-      "forked": "1,805",
+      "forked": "1,806",
       "builtBy": [
         {
           "name": "@jasdel",
@@ -557,7 +557,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8496417?s=40&v=4"
         }
       ],
-      "starsToday": "39"
+      "starsToday": "19"
     },
     {
       "author": "saadeghi",
@@ -565,7 +565,7 @@
       "description": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
       "language": "Svelte",
       "url": "https://github.com/saadeghi/daisyui",
-      "stars": "7,948",
+      "stars": "7,967",
       "forked": "310",
       "builtBy": [
         {
@@ -589,7 +589,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/53663762?s=40&v=4"
         }
       ],
-      "starsToday": "259"
+      "starsToday": "112"
     },
     {
       "author": "NVlabs",
@@ -597,7 +597,7 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "url": "https://github.com/NVlabs/instant-ngp",
-      "stars": "2,672",
+      "stars": "2,681",
       "forked": "246",
       "builtBy": [
         {
@@ -621,7 +621,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4563753?s=40&v=4"
         }
       ],
-      "starsToday": "181"
+      "starsToday": "75"
     },
     {
       "author": "NVlabs",
@@ -629,7 +629,7 @@
       "description": "Lightning fast & tiny C++/CUDA neural network framework",
       "language": "C++",
       "url": "https://github.com/NVlabs/tiny-cuda-nn",
-      "stars": "888",
+      "stars": "892",
       "forked": "59",
       "builtBy": [
         {
@@ -649,8 +649,8 @@
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms",
-      "stars": "135,121",
-      "forked": "22,286",
+      "stars": "135,130",
+      "forked": "22,288",
       "builtBy": [
         {
           "name": "@trekhleb",
@@ -673,7 +673,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29892368?s=40&v=4"
         }
       ],
-      "starsToday": "119"
+      "starsToday": "149"
     }
   ],
   "javascript": [
@@ -683,8 +683,8 @@
       "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
       "language": "JavaScript",
       "url": "https://github.com/mermaid-js/mermaid",
-      "stars": "42,615",
-      "forked": "3,082",
+      "stars": "42,662",
+      "forked": "3,086",
       "builtBy": [
         {
           "name": "@knsv",
@@ -715,8 +715,8 @@
       "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
       "language": "JavaScript",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "stars": "13,235",
-      "forked": "3,304",
+      "stars": "13,246",
+      "forked": "3,305",
       "builtBy": [
         {
           "name": "@aantonop",
@@ -747,8 +747,8 @@
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
       "language": "JavaScript",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-      "stars": "18,155",
-      "forked": "1,555",
+      "stars": "18,163",
+      "forked": "1,556",
       "builtBy": [
         {
           "name": "@JStumpp",
@@ -779,8 +779,8 @@
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms",
-      "stars": "135,121",
-      "forked": "22,286",
+      "stars": "135,130",
+      "forked": "22,288",
       "builtBy": [
         {
           "name": "@trekhleb",
@@ -812,7 +812,7 @@
       "language": "JavaScript",
       "url": "https://github.com/glixzzy/blooket-hack",
       "stars": "457",
-      "forked": "1,562",
+      "forked": "1,563",
       "builtBy": [
         {
           "name": "@glixzzy",
@@ -908,7 +908,7 @@
       "language": "JavaScript",
       "url": "https://github.com/fabricjs/fabric.js",
       "stars": "21,072",
-      "forked": "2,982",
+      "forked": "2,983",
       "builtBy": [
         {
           "name": "@kangax",
@@ -939,7 +939,7 @@
       "description": "📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
       "language": "JavaScript",
       "url": "https://github.com/lowlighter/metrics",
-      "stars": "5,238",
+      "stars": "5,239",
       "forked": "485",
       "builtBy": [
         {
@@ -971,7 +971,7 @@
       "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product.",
       "language": "JavaScript",
       "url": "https://github.com/sw-yx/spark-joy",
-      "stars": "6,674",
+      "stars": "6,675",
       "forked": "243",
       "builtBy": [
         {
@@ -1003,7 +1003,7 @@
       "description": "📜 33 JavaScript concepts every developer should know.",
       "language": "JavaScript",
       "url": "https://github.com/leonardomso/33-js-concepts",
-      "stars": "46,772",
+      "stars": "46,775",
       "forked": "6,282",
       "builtBy": [
         {
@@ -1067,7 +1067,7 @@
       "description": "🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
       "language": "JavaScript",
       "url": "https://github.com/lgwebdream/FE-Interview",
-      "stars": "4,876",
+      "stars": "4,879",
       "forked": "692",
       "builtBy": [
         {
@@ -1091,8 +1091,8 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js",
-      "stars": "81,522",
-      "forked": "16,787",
+      "stars": "81,528",
+      "forked": "16,788",
       "builtBy": [
         {
           "name": "@ijjk",
@@ -1123,8 +1123,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "url": "https://github.com/louislam/uptime-kuma",
-      "stars": "13,061",
-      "forked": "874",
+      "stars": "13,064",
+      "forked": "877",
       "builtBy": [
         {
           "name": "@louislam",
@@ -1203,8 +1203,8 @@
       "description": "The OpenAPI Specification Repository",
       "language": "JavaScript",
       "url": "https://github.com/OAI/OpenAPI-Specification",
-      "stars": "23,125",
-      "forked": "8,086",
+      "stars": "23,126",
+      "forked": "8,087",
       "builtBy": [
         {
           "name": "@webron",
@@ -1235,7 +1235,7 @@
       "description": "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
       "language": "JavaScript",
       "url": "https://github.com/dropzone/dropzone",
-      "stars": "16,276",
+      "stars": "16,278",
       "forked": "3,273",
       "builtBy": [
         {
@@ -1267,7 +1267,7 @@
       "description": "UI-Lovelace-Minimalist is a \"theme\" for HomeAssistant",
       "language": "JavaScript",
       "url": "https://github.com/UI-Lovelace-Minimalist/UI",
-      "stars": "378",
+      "stars": "379",
       "forked": "113",
       "builtBy": [
         {
@@ -1299,8 +1299,8 @@
       "description": "Generates an image from a DOM node using HTML5 canvas",
       "language": "JavaScript",
       "url": "https://github.com/tsayen/dom-to-image",
-      "stars": "8,217",
-      "forked": "1,492",
+      "stars": "8,218",
+      "forked": "1,493",
       "builtBy": [
         {
           "name": "@tsayen",
@@ -1332,7 +1332,7 @@
       "language": "JavaScript",
       "url": "https://github.com/CodingTrain/website",
       "stars": "5,386",
-      "forked": "5,909",
+      "forked": "5,910",
       "builtBy": [
         {
           "name": "@gruselhaus",
@@ -1363,7 +1363,7 @@
       "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
       "language": "JavaScript",
       "url": "https://github.com/ascoders/weekly",
-      "stars": "17,982",
+      "stars": "17,984",
       "forked": "2,128",
       "builtBy": [
         {
@@ -1395,7 +1395,7 @@
       "description": "GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。",
       "language": "JavaScript",
       "url": "https://github.com/ineo6/hosts",
-      "stars": "1,010",
+      "stars": "1,013",
       "forked": "110",
       "builtBy": [
         {
@@ -1415,7 +1415,7 @@
       "description": "Simple HTML5 Charts using the <canvas> tag",
       "language": "JavaScript",
       "url": "https://github.com/chartjs/Chart.js",
-      "stars": "56,188",
+      "stars": "56,189",
       "forked": "11,375",
       "builtBy": [
         {
@@ -1449,8 +1449,8 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/bilibili/ailab",
-      "stars": "2,318",
-      "forked": "223",
+      "stars": "2,335",
+      "forked": "225",
       "builtBy": [
         {
           "name": "@lj1995-computer-vision",
@@ -1473,7 +1473,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/89348590?s=40&v=4"
         }
       ],
-      "starsToday": "258"
+      "starsToday": "257"
     },
     {
       "author": "4ra1n",
@@ -1481,8 +1481,8 @@
       "description": "打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作",
       "language": "Python",
       "url": "https://github.com/4ra1n/JavaSecInterview",
-      "stars": "458",
-      "forked": "65",
+      "stars": "473",
+      "forked": "69",
       "builtBy": [
         {
           "name": "@4ra1n",
@@ -1497,7 +1497,7 @@
       "description": "OpenMMLab Computer Vision Foundation",
       "language": "Python",
       "url": "https://github.com/open-mmlab/mmcv",
-      "stars": "3,488",
+      "stars": "3,490",
       "forked": "973",
       "builtBy": [
         {
@@ -1521,7 +1521,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/33949370?s=40&v=4"
         }
       ],
-      "starsToday": "17"
+      "starsToday": "20"
     },
     {
       "author": "samuelcolvin",
@@ -1529,7 +1529,7 @@
       "description": "Data parsing and validation using Python type hints",
       "language": "Python",
       "url": "https://github.com/samuelcolvin/pydantic",
-      "stars": "9,160",
+      "stars": "9,161",
       "forked": "851",
       "builtBy": [
         {
@@ -1553,7 +1553,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16239342?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "20"
     },
     {
       "author": "XanaduAI",
@@ -1561,7 +1561,7 @@
       "description": "QHack—The one-of-a-kind quantum computing hackathon",
       "language": "Python",
       "url": "https://github.com/XanaduAI/QHack",
-      "stars": "53",
+      "stars": "54",
       "forked": "91",
       "builtBy": [
         {
@@ -1617,7 +1617,7 @@
       "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
       "language": "Python",
       "url": "https://github.com/commaai/openpilot",
-      "stars": "32,471",
+      "stars": "32,473",
       "forked": "6,034",
       "builtBy": [
         {
@@ -1649,7 +1649,7 @@
       "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
       "language": "Python",
       "url": "https://github.com/Asabeneh/30-Days-Of-Python",
-      "stars": "8,922",
+      "stars": "8,923",
       "forked": "2,088",
       "builtBy": [
         {
@@ -1673,7 +1673,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/30266724?s=40&v=4"
         }
       ],
-      "starsToday": "16"
+      "starsToday": "19"
     },
     {
       "author": "google-research",
@@ -1681,7 +1681,7 @@
       "description": "FILM: Frame Interpolation for Large Motion, In arXiv 2022.",
       "language": "Python",
       "url": "https://github.com/google-research/frame-interpolation",
-      "stars": "217",
+      "stars": "218",
       "forked": "26",
       "builtBy": [
         {
@@ -1693,7 +1693,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/70536672?s=40&v=4"
         }
       ],
-      "starsToday": "24"
+      "starsToday": "25"
     },
     {
       "author": "521xueweihan",
@@ -1701,8 +1701,8 @@
       "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "language": "Python",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "stars": "52,417",
-      "forked": "7,528",
+      "stars": "52,424",
+      "forked": "7,530",
       "builtBy": [
         {
           "name": "@521xueweihan",
@@ -1725,7 +1725,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1235073?s=40&v=4"
         }
       ],
-      "starsToday": "35"
+      "starsToday": "41"
     },
     {
       "author": "sqlfluff",
@@ -1733,7 +1733,7 @@
       "description": "A SQL linter and auto-formatter for Humans",
       "language": "Python",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": "3,375",
+      "stars": "3,376",
       "forked": "257",
       "builtBy": [
         {
@@ -1765,8 +1765,8 @@
       "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "language": "Python",
       "url": "https://github.com/dbt-labs/dbt-core",
-      "stars": "4,203",
-      "forked": "780",
+      "stars": "4,204",
+      "forked": "781",
       "builtBy": [
         {
           "name": "@drewbanin",
@@ -1797,7 +1797,7 @@
       "description": "A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)",
       "language": "Python",
       "url": "https://github.com/public-api-lists/public-api-lists",
-      "stars": "4,287",
+      "stars": "4,290",
       "forked": "261",
       "builtBy": [
         {
@@ -1821,7 +1821,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1114824?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "14"
     },
     {
       "author": "kubeflow",
@@ -1893,8 +1893,8 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "url": "https://github.com/tiangolo/fastapi",
-      "stars": "41,814",
-      "forked": "3,169",
+      "stars": "41,815",
+      "forked": "3,170",
       "builtBy": [
         {
           "name": "@tiangolo",
@@ -1917,7 +1917,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/35119617?s=40&v=4"
         }
       ],
-      "starsToday": "45"
+      "starsToday": "44"
     },
     {
       "author": "pytorch",
@@ -1925,7 +1925,7 @@
       "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
       "language": "Python",
       "url": "https://github.com/pytorch/examples",
-      "stars": "17,810",
+      "stars": "17,811",
       "forked": "8,352",
       "builtBy": [
         {
@@ -1949,7 +1949,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4685384?s=40&v=4"
         }
       ],
-      "starsToday": "9"
+      "starsToday": "10"
     },
     {
       "author": "pytorch",
@@ -1989,8 +1989,8 @@
       "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
       "language": "Python",
       "url": "https://github.com/facebookresearch/detectron2",
-      "stars": "19,879",
-      "forked": "5,408",
+      "stars": "19,882",
+      "forked": "5,411",
       "builtBy": [
         {
           "name": "@ppwwyyxx",
@@ -2021,7 +2021,7 @@
       "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
       "language": "Python",
       "url": "https://github.com/PaddlePaddle/Paddle",
-      "stars": "17,612",
+      "stars": "17,613",
       "forked": "4,282",
       "builtBy": [
         {
@@ -2045,7 +2045,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21351065?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "11"
     },
     {
       "author": "ansible",
@@ -2085,7 +2085,7 @@
       "description": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
       "language": "Python",
       "url": "https://github.com/owid/covid-19-data",
-      "stars": "5,026",
+      "stars": "5,027",
       "forked": "3,175",
       "builtBy": [
         {
@@ -2109,7 +2109,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16787454?s=40&v=4"
         }
       ],
-      "starsToday": "47"
+      "starsToday": "35"
     },
     {
       "author": "NATSpeech",
@@ -2117,7 +2117,7 @@
       "description": "A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)",
       "language": "Python",
       "url": "https://github.com/NATSpeech/NATSpeech",
-      "stars": "179",
+      "stars": "197",
       "forked": "25",
       "builtBy": [
         {
@@ -2129,7 +2129,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/32165188?s=40&v=4"
         }
       ],
-      "starsToday": "22"
+      "starsToday": "23"
     },
     {
       "author": "JingyunLiang",
@@ -2195,7 +2195,7 @@
       "description": "The source for REST API specifications for Microsoft Azure.",
       "language": "TypeScript",
       "url": "https://github.com/Azure/azure-rest-api-specs",
-      "stars": "1,413",
+      "stars": "1,414",
       "forked": "3,426",
       "builtBy": [
         {
@@ -2227,7 +2227,7 @@
       "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
       "language": "TypeScript",
       "url": "https://github.com/alan2207/bulletproof-react",
-      "stars": "8,831",
+      "stars": "8,833",
       "forked": "586",
       "builtBy": [
         {
@@ -2259,7 +2259,7 @@
       "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
       "language": "TypeScript",
       "url": "https://github.com/apache/superset",
-      "stars": "44,448",
+      "stars": "44,450",
       "forked": "8,596",
       "builtBy": [
         {
@@ -2291,7 +2291,7 @@
       "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
       "language": "TypeScript",
       "url": "https://github.com/nestjs/nest",
-      "stars": "44,610",
+      "stars": "44,611",
       "forked": "4,857",
       "builtBy": [
         {
@@ -2323,8 +2323,8 @@
       "description": "🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具",
       "language": "TypeScript",
       "url": "https://github.com/imcuttle/mometa",
-      "stars": "2,291",
-      "forked": "318",
+      "stars": "2,292",
+      "forked": "319",
       "builtBy": [
         {
           "name": "@imcuttle",
@@ -2419,7 +2419,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26026850?s=40&v=4"
         }
       ],
-      "starsToday": "12"
+      "starsToday": "10"
     },
     {
       "author": "mantinedev",
@@ -2427,7 +2427,7 @@
       "description": "React components library with native dark theme support",
       "language": "TypeScript",
       "url": "https://github.com/mantinedev/mantine",
-      "stars": "5,816",
+      "stars": "5,822",
       "forked": "291",
       "builtBy": [
         {
@@ -2459,7 +2459,7 @@
       "description": "The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",
       "language": "TypeScript",
       "url": "https://github.com/tinymce/tinymce",
-      "stars": "10,850",
+      "stars": "10,851",
       "forked": "1,896",
       "builtBy": [
         {
@@ -2483,7 +2483,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/298292?s=40&v=4"
         }
       ],
-      "starsToday": "43"
+      "starsToday": "38"
     },
     {
       "author": "storybookjs",
@@ -2492,7 +2492,7 @@
       "language": "TypeScript",
       "url": "https://github.com/storybookjs/storybook",
       "stars": "68,816",
-      "forked": "7,104",
+      "forked": "7,105",
       "builtBy": [
         {
           "name": "@shilman",
@@ -2515,7 +2515,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7867954?s=40&v=4"
         }
       ],
-      "starsToday": "35"
+      "starsToday": "34"
     },
     {
       "author": "DouyinFE",
@@ -2523,8 +2523,8 @@
       "description": "A modern, comprehensive, flexible design system and React UI library",
       "language": "TypeScript",
       "url": "https://github.com/DouyinFE/semi-design",
-      "stars": "5,428",
-      "forked": "366",
+      "stars": "5,429",
+      "forked": "367",
       "builtBy": [
         {
           "name": "@shijiatongxue",
@@ -2547,7 +2547,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/24400915?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "8"
     },
     {
       "author": "vuetifyjs",
@@ -2611,7 +2611,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4"
         }
       ],
-      "starsToday": "19"
+      "starsToday": "18"
     },
     {
       "author": "umijs",
@@ -2651,7 +2651,7 @@
       "description": "Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3",
       "language": "TypeScript",
       "url": "https://github.com/alibaba/formily",
-      "stars": "6,770",
+      "stars": "6,774",
       "forked": "951",
       "builtBy": [
         {
@@ -2803,7 +2803,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3402811?s=40&v=4"
         }
       ],
-      "starsToday": "20"
+      "starsToday": "19"
     },
     {
       "author": "microsoft",
@@ -2812,7 +2812,7 @@
       "language": "TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
       "stars": "78,094",
-      "forked": "10,239",
+      "forked": "10,241",
       "builtBy": [
         {
           "name": "@ahejlsberg",
@@ -2875,7 +2875,7 @@
       "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
       "language": "TypeScript",
       "url": "https://github.com/marmelab/react-admin",
-      "stars": "18,934",
+      "stars": "18,935",
       "forked": "4,186",
       "builtBy": [
         {
@@ -2899,7 +2899,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/688373?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "9"
     },
     {
       "author": "stoplightio",
@@ -2939,7 +2939,7 @@
       "description": "Open-Source Data Platform 🐰 — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.",
       "language": "TypeScript",
       "url": "https://github.com/directus/directus",
-      "stars": "13,877",
+      "stars": "13,878",
       "forked": "1,604",
       "builtBy": [
         {
@@ -2963,17 +2963,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/22577866?s=40&v=4"
         }
       ],
-      "starsToday": "9"
+      "starsToday": "8"
     }
   ],
   "go": [
     {
       "author": "heiyeluren",
       "repo": "XMM",
-      "description": "XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。",
+      "description": "XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。",
       "language": "Go",
       "url": "https://github.com/heiyeluren/XMM",
-      "stars": "474",
+      "stars": "485",
       "forked": "54",
       "builtBy": [
         {
@@ -2997,7 +2997,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8529452?s=40&v=4"
         }
       ],
-      "starsToday": "176"
+      "starsToday": "81"
     },
     {
       "author": "italiaremote",
@@ -3005,7 +3005,7 @@
       "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
       "language": "Go",
       "url": "https://github.com/italiaremote/awesome-italia-remote",
-      "stars": "245",
+      "stars": "255",
       "forked": "44",
       "builtBy": [
         {
@@ -3029,7 +3029,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11404065?s=40&v=4"
         }
       ],
-      "starsToday": "37"
+      "starsToday": "61"
     },
     {
       "author": "aws",
@@ -3038,7 +3038,7 @@
       "language": "Go",
       "url": "https://github.com/aws/aws-sdk-go",
       "stars": "7,426",
-      "forked": "1,805",
+      "forked": "1,806",
       "builtBy": [
         {
           "name": "@jasdel",
@@ -3061,7 +3061,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8496417?s=40&v=4"
         }
       ],
-      "starsToday": "39"
+      "starsToday": "19"
     },
     {
       "author": "open-policy-agent",
@@ -3093,7 +3093,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "starsToday": "12"
+      "starsToday": "15"
     },
     {
       "author": "kubernetes",
@@ -3101,7 +3101,7 @@
       "description": "Add-on agent to generate and expose cluster-level metrics.",
       "language": "Go",
       "url": "https://github.com/kubernetes/kube-state-metrics",
-      "stars": "3,533",
+      "stars": "3,534",
       "forked": "1,295",
       "builtBy": [
         {
@@ -3125,7 +3125,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2404712?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "6"
     },
     {
       "author": "microsoft",
@@ -3165,7 +3165,7 @@
       "description": "🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器",
       "language": "Go",
       "url": "https://github.com/dtm-labs/dtm",
-      "stars": "4,921",
+      "stars": "4,924",
       "forked": "554",
       "builtBy": [
         {
@@ -3189,7 +3189,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2421068?s=40&v=4"
         }
       ],
-      "starsToday": "42"
+      "starsToday": "43"
     },
     {
       "author": "cockroachdb",
@@ -3197,7 +3197,7 @@
       "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
       "language": "Go",
       "url": "https://github.com/cockroachdb/cockroach",
-      "stars": "23,699",
+      "stars": "23,702",
       "forked": "3,042",
       "builtBy": [
         {
@@ -3221,7 +3221,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16544120?s=40&v=4"
         }
       ],
-      "starsToday": "74"
+      "starsToday": "73"
     },
     {
       "author": "zricethezav",
@@ -3229,7 +3229,7 @@
       "description": "Scan git repos (or files) for secrets using regex and entropy 🔑",
       "language": "Go",
       "url": "https://github.com/zricethezav/gitleaks",
-      "stars": "9,127",
+      "stars": "9,128",
       "forked": "843",
       "builtBy": [
         {
@@ -3253,7 +3253,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/23533763?s=40&v=4"
         }
       ],
-      "starsToday": "28"
+      "starsToday": "31"
     },
     {
       "author": "weaveworks",
@@ -3325,7 +3325,7 @@
       "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
       "language": "Go",
       "url": "https://github.com/moonD4rk/HackBrowserData",
-      "stars": "4,134",
+      "stars": "4,135",
       "forked": "790",
       "builtBy": [
         {
@@ -3389,7 +3389,7 @@
       "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
       "language": "Go",
       "url": "https://github.com/slackhq/nebula",
-      "stars": "9,158",
+      "stars": "9,160",
       "forked": "620",
       "builtBy": [
         {
@@ -3413,7 +3413,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/440033?s=40&v=4"
         }
       ],
-      "starsToday": "23"
+      "starsToday": "24"
     },
     {
       "author": "tidwall",
@@ -3445,7 +3445,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/66095735?s=40&v=4"
         }
       ],
-      "starsToday": "18"
+      "starsToday": "20"
     },
     {
       "author": "tektoncd",
@@ -3485,7 +3485,7 @@
       "description": "Continuous Profiling Platform! Debug performance issues down to a single line of code",
       "language": "Go",
       "url": "https://github.com/pyroscope-io/pyroscope",
-      "stars": "5,259",
+      "stars": "5,262",
       "forked": "278",
       "builtBy": [
         {
@@ -3509,7 +3509,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/80013495?s=40&v=4"
         }
       ],
-      "starsToday": "29"
+      "starsToday": "30"
     },
     {
       "author": "hashicorp",
@@ -3541,7 +3541,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21833?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "5"
     },
     {
       "author": "deepmap",
@@ -3581,7 +3581,7 @@
       "description": "An open-source vector database for scalable similarity search and AI applications.",
       "language": "Go",
       "url": "https://github.com/milvus-io/milvus",
-      "stars": "9,456",
+      "stars": "9,457",
       "forked": "1,433",
       "builtBy": [
         {
@@ -3605,7 +3605,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3992404?s=40&v=4"
         }
       ],
-      "starsToday": "17"
+      "starsToday": "18"
     },
     {
       "author": "aquasecurity",
@@ -3613,7 +3613,7 @@
       "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
       "language": "Go",
       "url": "https://github.com/aquasecurity/kube-bench",
-      "stars": "4,571",
+      "stars": "4,572",
       "forked": "838",
       "builtBy": [
         {
@@ -3637,7 +3637,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2787728?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "8"
     },
     {
       "author": "hashicorp",
@@ -3669,7 +3669,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/805046?s=40&v=4"
         }
       ],
-      "starsToday": "3"
+      "starsToday": "6"
     },
     {
       "author": "rook",
@@ -3677,7 +3677,7 @@
       "description": "Storage Orchestration for Kubernetes",
       "language": "Go",
       "url": "https://github.com/rook/rook",
-      "stars": "9,571",
+      "stars": "9,572",
       "forked": "2,238",
       "builtBy": [
         {
@@ -3701,7 +3701,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1463491?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "8"
     },
     {
       "author": "cosmos",
@@ -3710,7 +3710,7 @@
       "language": "Go",
       "url": "https://github.com/cosmos/cosmos-sdk",
       "stars": "3,414",
-      "forked": "1,501",
+      "forked": "1,502",
       "builtBy": [
         {
           "name": "@rigelrozanski",
@@ -3733,7 +3733,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/229356?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "5"
     },
     {
       "author": "prometheus",
@@ -3765,7 +3765,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/538008?s=40&v=4"
         }
       ],
-      "starsToday": "2"
+      "starsToday": "10"
     }
   ],
   "java": [
@@ -3775,8 +3775,8 @@
       "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
       "language": "Java",
       "url": "https://github.com/qiurunze123/miaosha",
-      "stars": "23,607",
-      "forked": "6,118",
+      "stars": "23,616",
+      "forked": "6,120",
       "builtBy": [
         {
           "name": "@qiurunze123",
@@ -3807,7 +3807,7 @@
       "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
       "language": "Java",
       "url": "https://github.com/antlr/antlr4",
-      "stars": "11,570",
+      "stars": "11,571",
       "forked": "2,581",
       "builtBy": [
         {
@@ -3839,7 +3839,7 @@
       "description": "Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",
       "language": "Java",
       "url": "https://github.com/Netflix/Hystrix",
-      "stars": "22,381",
+      "stars": "22,382",
       "forked": "4,545",
       "builtBy": [
         {
@@ -3863,7 +3863,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/170161?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "4"
     },
     {
       "author": "ebarlas",
@@ -3871,19 +3871,15 @@
       "description": "Fast, scalable, self-contained, single-threaded Java web server",
       "language": "Java",
       "url": "https://github.com/ebarlas/microhttp",
-      "stars": "291",
+      "stars": "292",
       "forked": "25",
       "builtBy": [
         {
           "name": "@ebarlas",
           "avatar": "https://avatars.githubusercontent.com/u/221014?s=40&v=4"
-        },
-        {
-          "name": "@beatngu13",
-          "avatar": "https://avatars.githubusercontent.com/u/11643714?s=40&v=4"
         }
       ],
-      "starsToday": "39"
+      "starsToday": "42"
     },
     {
       "author": "keycloak",
@@ -3955,8 +3951,8 @@
       "description": "✍ 一款现代化的开源博客/CMS系统。",
       "language": "Java",
       "url": "https://github.com/halo-dev/halo",
-      "stars": "20,988",
-      "forked": "7,183",
+      "stars": "20,990",
+      "forked": "7,182",
       "builtBy": [
         {
           "name": "@ruibaby",
@@ -3987,7 +3983,7 @@
       "description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
       "language": "Java",
       "url": "https://github.com/zxing/zxing",
-      "stars": "29,169",
+      "stars": "29,170",
       "forked": "9,165",
       "builtBy": [
         {
@@ -4019,7 +4015,7 @@
       "description": "🔥 Android developers should collect the following utils(updating).",
       "language": "Java",
       "url": "https://github.com/Blankj/AndroidUtilCode",
-      "stars": "30,421",
+      "stars": "30,422",
       "forked": "10,148",
       "builtBy": [
         {
@@ -4052,7 +4048,7 @@
       "language": "Java",
       "url": "https://github.com/thombergs/code-examples",
       "stars": "1,461",
-      "forked": "1,610",
+      "forked": "1,609",
       "builtBy": [
         {
           "name": "@thombergs",
@@ -4083,7 +4079,7 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "url": "https://github.com/termux/termux-app",
-      "stars": "10,965",
+      "stars": "10,966",
       "forked": "1,566",
       "builtBy": [
         {
@@ -4135,7 +4131,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/26699413?s=40&v=4"
         }
       ],
-      "starsToday": "2"
+      "starsToday": "5"
     },
     {
       "author": "GrowingGit",
@@ -4143,8 +4139,8 @@
       "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
       "language": "Java",
       "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
-      "stars": "44,049",
-      "forked": "6,325",
+      "stars": "44,052",
+      "forked": "6,324",
       "builtBy": [
         {
           "name": "@GrowingGit",
@@ -4183,7 +4179,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/56396344?s=40&v=4"
         }
       ],
-      "starsToday": "10"
+      "starsToday": "11"
     },
     {
       "author": "spring-projects",
@@ -4191,7 +4187,7 @@
       "description": "The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.",
       "language": "Java",
       "url": "https://github.com/spring-projects/spring-authorization-server",
-      "stars": "3,267",
+      "stars": "3,268",
       "forked": "666",
       "builtBy": [
         {
@@ -4223,7 +4219,7 @@
       "description": "Google core libraries for Java",
       "language": "Java",
       "url": "https://github.com/google/guava",
-      "stars": "43,661",
+      "stars": "43,663",
       "forked": "9,729",
       "builtBy": [
         {
@@ -4247,7 +4243,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/44061?s=40&v=4"
         }
       ],
-      "starsToday": "10"
+      "starsToday": "9"
     },
     {
       "author": "trinodb",
@@ -4279,7 +4275,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7569403?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "12"
     },
     {
       "author": "linkedin",
@@ -4287,7 +4283,7 @@
       "description": "The Metadata Platform for the Modern Data Stack",
       "language": "Java",
       "url": "https://github.com/linkedin/datahub",
-      "stars": "4,729",
+      "stars": "4,730",
       "forked": "1,306",
       "builtBy": [
         {
@@ -4311,7 +4307,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1462654?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "12"
     },
     {
       "author": "xuxueli",
@@ -4320,7 +4316,7 @@
       "language": "Java",
       "url": "https://github.com/xuxueli/xxl-job",
       "stars": "20,634",
-      "forked": "8,778",
+      "forked": "8,779",
       "builtBy": [
         {
           "name": "@xuxueli",
@@ -4375,7 +4371,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/15651066?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "9"
     },
     {
       "author": "iluwatar",
@@ -4383,8 +4379,8 @@
       "description": "Design patterns implemented in Java",
       "language": "Java",
       "url": "https://github.com/iluwatar/java-design-patterns",
-      "stars": "73,079",
-      "forked": "22,739",
+      "stars": "73,082",
+      "forked": "22,741",
       "builtBy": [
         {
           "name": "@iluwatar",
@@ -4448,7 +4444,7 @@
       "language": "Java",
       "url": "https://github.com/zhisheng17/flink-learning",
       "stars": "11,692",
-      "forked": "3,233",
+      "forked": "3,234",
       "builtBy": [
         {
           "name": "@zhisheng17",
@@ -4479,7 +4475,7 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "url": "https://github.com/apache/kafka",
-      "stars": "21,148",
+      "stars": "21,150",
       "forked": "11,120",
       "builtBy": [
         {
@@ -4511,8 +4507,8 @@
       "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
       "language": "Java",
       "url": "https://github.com/google/gson",
-      "stars": "20,576",
-      "forked": "3,987",
+      "stars": "20,577",
+      "forked": "3,988",
       "builtBy": [
         {
           "name": "@inder123",
