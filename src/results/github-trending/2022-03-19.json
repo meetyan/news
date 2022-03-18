@@ -6,8 +6,8 @@
       "description": "Lightning-fast and Powerful Code Editor written in Rust",
       "language": "Rust",
       "url": "https://github.com/lapce/lapce",
-      "stars": "7,243",
-      "forked": "168",
+      "stars": "7,267",
+      "forked": "170",
       "builtBy": [
         {
           "name": "@dzhou121",
@@ -16,6 +16,10 @@
         {
           "name": "@MinusGix",
           "avatar": "https://avatars.githubusercontent.com/u/13157904?s=40&v=4"
+        },
+        {
+          "name": "@Dengjianping",
+          "avatar": "https://avatars.githubusercontent.com/u/1914204?s=40&v=4"
         },
         {
           "name": "@VarLad",
@@ -34,8 +38,8 @@
       "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
       "language": "Swift",
       "url": "https://github.com/CodeEditApp/CodeEdit",
-      "stars": "1,324",
-      "forked": "50",
+      "stars": "1,349",
+      "forked": "52",
       "builtBy": [
         {
           "name": "@austincondiff",
@@ -58,7 +62,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/9656572?s=40&v=4"
         }
       ],
-      "starsToday": "359"
+      "starsToday": "357"
     },
     {
       "author": "mrd0x",
@@ -66,7 +70,7 @@
       "description": "Browser In The Browser (BITB) Templates",
       "language": "JavaScript",
       "url": "https://github.com/mrd0x/BITB",
-      "stars": "457",
+      "stars": "463",
       "forked": "67",
       "builtBy": [
         {
@@ -74,7 +78,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/28691727?s=40&v=4"
         }
       ],
-      "starsToday": "101"
+      "starsToday": "139"
     },
     {
       "author": "Frontesque",
@@ -82,7 +86,7 @@
       "description": "A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)",
       "language": "Vue",
       "url": "https://github.com/Frontesque/VueTube",
-      "stars": "1,024",
+      "stars": "1,028",
       "forked": "47",
       "builtBy": [
         {
@@ -106,7 +110,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/57518856?s=40&v=4"
         }
       ],
-      "starsToday": "245"
+      "starsToday": "283"
     },
     {
       "author": "PowerShell",
@@ -114,7 +118,7 @@
       "description": "PowerShell for every system!",
       "language": "C#",
       "url": "https://github.com/PowerShell/PowerShell",
-      "stars": "32,344",
+      "stars": "32,346",
       "forked": "5,334",
       "builtBy": [
         {
@@ -146,7 +150,7 @@
       "description": "Cloud native multi-runtime microservice framework",
       "language": "Java",
       "url": "https://github.com/polarismesh/femas",
-      "stars": "225",
+      "stars": "228",
       "forked": "58",
       "builtBy": [
         {
@@ -178,8 +182,8 @@
       "description": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS",
       "language": "JavaScript",
       "url": "https://github.com/RIAEvangelist/node-ipc",
-      "stars": "1,111",
-      "forked": "219",
+      "stars": "1,115",
+      "forked": "222",
       "builtBy": [
         {
           "name": "@RIAEvangelist",
@@ -202,7 +206,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11417768?s=40&v=4"
         }
       ],
-      "starsToday": "61"
+      "starsToday": "75"
     },
     {
       "author": "psf",
@@ -210,7 +214,7 @@
       "description": "The uncompromising Python code formatter",
       "language": "Python",
       "url": "https://github.com/psf/black",
-      "stars": "26,387",
+      "stars": "26,392",
       "forked": "1,660",
       "builtBy": [
         {
@@ -234,7 +238,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3005596?s=40&v=4"
         }
       ],
-      "starsToday": "194"
+      "starsToday": "142"
     },
     {
       "author": "blawar",
@@ -242,7 +246,7 @@
       "description": "",
       "language": "C++",
       "url": "https://github.com/blawar/ooot",
-      "stars": "338",
+      "stars": "340",
       "forked": "56",
       "builtBy": [
         {
@@ -274,8 +278,8 @@
       "description": "Python - 100天从新手到大师",
       "language": "Python",
       "url": "https://github.com/jackfrued/Python-100-Days",
-      "stars": "115,996",
-      "forked": "44,867",
+      "stars": "115,998",
+      "forked": "44,868",
       "builtBy": [
         {
           "name": "@jackfrued",
@@ -306,7 +310,7 @@
       "description": "Reactive Programming in Swift",
       "language": "Swift",
       "url": "https://github.com/ReactiveX/RxSwift",
-      "stars": "21,945",
+      "stars": "21,947",
       "forked": "3,907",
       "builtBy": [
         {
@@ -330,7 +334,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1830205?s=40&v=4"
         }
       ],
-      "starsToday": "126"
+      "starsToday": "94"
     },
     {
       "author": "aptos-labs",
@@ -338,7 +342,7 @@
       "description": "A layer 1 for everyone!",
       "language": "Rust",
       "url": "https://github.com/aptos-labs/aptos-core",
-      "stars": "135",
+      "stars": "138",
       "forked": "39",
       "builtBy": [
         {
@@ -370,7 +374,7 @@
       "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
       "language": "Python",
       "url": "https://github.com/Chia-Network/chia-blockchain",
-      "stars": "10,552",
+      "stars": "10,554",
       "forked": "1,849",
       "builtBy": [
         {
@@ -402,7 +406,7 @@
       "description": "😎 Awesome lists about all kinds of interesting topics",
       "language": "",
       "url": "https://github.com/sindresorhus/awesome",
-      "stars": "194,017",
+      "stars": "194,028",
       "forked": "23,129",
       "builtBy": [
         {
@@ -426,7 +430,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1682367?s=40&v=4"
         }
       ],
-      "starsToday": "268"
+      "starsToday": "278"
     },
     {
       "author": "nusu",
@@ -434,7 +438,7 @@
       "description": "Beautifully crafted unique avatar placeholder for your next react project",
       "language": "TypeScript",
       "url": "https://github.com/nusu/avvvatars",
-      "stars": "630",
+      "stars": "634",
       "forked": "18",
       "builtBy": [
         {
@@ -458,7 +462,7 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
       "language": "C",
       "url": "https://github.com/curl/curl",
-      "stars": "24,164",
+      "stars": "24,175",
       "forked": "4,956",
       "builtBy": [
         {
@@ -482,7 +486,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/231773?s=40&v=4"
         }
       ],
-      "starsToday": "29"
+      "starsToday": "20"
     },
     {
       "author": "returntocorp",
@@ -490,7 +494,7 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "url": "https://github.com/returntocorp/semgrep",
-      "stars": "6,200",
+      "stars": "6,207",
       "forked": "297",
       "builtBy": [
         {
@@ -514,7 +518,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1724818?s=40&v=4"
         }
       ],
-      "starsToday": "28"
+      "starsToday": "5"
     },
     {
       "author": "Tas9er",
@@ -530,7 +534,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/57090266?s=40&v=4"
         }
       ],
-      "starsToday": "41"
+      "starsToday": "39"
     },
     {
       "author": "jasontaylordev",
@@ -538,7 +542,7 @@
       "description": "Clean Architecture Solution Template for .NET 6",
       "language": "C#",
       "url": "https://github.com/jasontaylordev/CleanArchitecture",
-      "stars": "8,069",
+      "stars": "8,071",
       "forked": "1,849",
       "builtBy": [
         {
@@ -570,7 +574,7 @@
       "description": "",
       "language": "TypeScript",
       "url": "https://github.com/nkallen/plasticity",
-      "stars": "1,399",
+      "stars": "1,403",
       "forked": "92",
       "builtBy": [
         {
@@ -590,7 +594,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/73314216?s=40&v=4"
         }
       ],
-      "starsToday": "163"
+      "starsToday": "160"
     },
     {
       "author": "Teaching-Assistants-of-Cloud-Computing",
@@ -598,7 +602,7 @@
       "description": "",
       "language": "HTML",
       "url": "https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack",
-      "stars": "51",
+      "stars": "54",
       "forked": "24",
       "builtBy": [
         {
@@ -626,7 +630,7 @@
       "description": "Roadmap to becoming a developer in 2022",
       "language": "TypeScript",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
-      "stars": "189,118",
+      "stars": "189,125",
       "forked": "27,237",
       "builtBy": [
         {
@@ -650,7 +654,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/43630681?s=40&v=4"
         }
       ],
-      "starsToday": "112"
+      "starsToday": "113"
     },
     {
       "author": "JasonStein",
@@ -658,7 +662,7 @@
       "description": "A modern, lightweight text editor with a minimalist design.",
       "language": "C#",
       "url": "https://github.com/JasonStein/Notepads",
-      "stars": "6,005",
+      "stars": "6,015",
       "forked": "346",
       "builtBy": [
         {
@@ -690,7 +694,7 @@
       "description": "Examples and Tutorials of Event Sourcing in .NET",
       "language": "C#",
       "url": "https://github.com/oskardudycz/EventSourcing.NetCore",
-      "stars": "1,799",
+      "stars": "1,800",
       "forked": "285",
       "builtBy": [
         {
@@ -714,7 +718,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3886077?s=40&v=4"
         }
       ],
-      "starsToday": "86"
+      "starsToday": "87"
     },
     {
       "author": "datahub-project",
@@ -722,7 +726,7 @@
       "description": "The Metadata Platform for the Modern Data Stack",
       "language": "Java",
       "url": "https://github.com/datahub-project/datahub",
-      "stars": "5,045",
+      "stars": "5,049",
       "forked": "1,360",
       "builtBy": [
         {
@@ -756,7 +760,7 @@
       "description": "Browser In The Browser (BITB) Templates",
       "language": "JavaScript",
       "url": "https://github.com/mrd0x/BITB",
-      "stars": "457",
+      "stars": "463",
       "forked": "67",
       "builtBy": [
         {
@@ -772,8 +776,8 @@
       "description": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS",
       "language": "JavaScript",
       "url": "https://github.com/RIAEvangelist/node-ipc",
-      "stars": "1,111",
-      "forked": "219",
+      "stars": "1,115",
+      "forked": "222",
       "builtBy": [
         {
           "name": "@RIAEvangelist",
@@ -804,7 +808,7 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
       "language": "JavaScript",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "stars": "342,431",
+      "stars": "342,433",
       "forked": "28,226",
       "builtBy": [
         {
@@ -836,7 +840,7 @@
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "JavaScript",
       "url": "https://github.com/odoo/odoo",
-      "stars": "24,465",
+      "stars": "24,466",
       "forked": "15,883",
       "builtBy": [
         {
@@ -868,7 +872,7 @@
       "description": "Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.",
       "language": "JavaScript",
       "url": "https://github.com/zotero/zotero",
-      "stars": "4,798",
+      "stars": "4,799",
       "forked": "486",
       "builtBy": [
         {
@@ -900,8 +904,8 @@
       "description": "JavaScript Style Guide",
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript",
-      "stars": "121,074",
-      "forked": "23,088",
+      "stars": "121,075",
+      "forked": "23,089",
       "builtBy": [
         {
           "name": "@ljharb",
@@ -932,7 +936,7 @@
       "description": "",
       "language": "JavaScript",
       "url": "https://github.com/RIAEvangelist/peacenotwar",
-      "stars": "80",
+      "stars": "81",
       "forked": "28",
       "builtBy": [
         {
@@ -964,8 +968,8 @@
       "description": "An YouTube clone built with React and Solidty on Polygon blockchain",
       "language": "JavaScript",
       "url": "https://github.com/suhailkakar/Decentralized-YouTube",
-      "stars": "200",
-      "forked": "28",
+      "stars": "202",
+      "forked": "29",
       "builtBy": [
         {
           "name": "@suhailkakar",
@@ -980,8 +984,8 @@
       "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
       "language": "JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "stars": "18,557",
-      "forked": "3,842",
+      "stars": "18,562",
+      "forked": "3,843",
       "builtBy": [
         {
           "name": "@Asabeneh",
@@ -1036,7 +1040,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1642212?s=40&v=4"
         }
       ],
-      "starsToday": "27"
+      "starsToday": "26"
     },
     {
       "author": "medikoo",
@@ -1044,7 +1048,7 @@
       "description": "ECMAScript extensions (with respect to upcoming ECMAScript features)",
       "language": "JavaScript",
       "url": "https://github.com/medikoo/es5-ext",
-      "stars": "134",
+      "stars": "135",
       "forked": "49",
       "builtBy": [
         {
@@ -1076,7 +1080,7 @@
       "description": "A JavaScript Typing Animation Library",
       "language": "JavaScript",
       "url": "https://github.com/mattboldt/typed.js",
-      "stars": "11,749",
+      "stars": "11,751",
       "forked": "1,548",
       "builtBy": [
         {
@@ -1132,7 +1136,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/605742?s=40&v=4"
         }
       ],
-      "starsToday": "44"
+      "starsToday": "43"
     },
     {
       "author": "vuejs",
@@ -1256,7 +1260,7 @@
       "description": "One component to pick them all 👊🏼",
       "language": "JavaScript",
       "url": "https://github.com/missive/emoji-mart",
-      "stars": "4,891",
+      "stars": "4,892",
       "forked": "572",
       "builtBy": [
         {
@@ -1317,7 +1321,7 @@
       "language": "JavaScript",
       "url": "https://github.com/gatsbyjs/gatsby",
       "stars": "52,578",
-      "forked": "10,172",
+      "forked": "10,171",
       "builtBy": [
         {
           "name": "@KyleAMathews",
@@ -1348,8 +1352,8 @@
       "description": "A React component for building Web forms from JSON Schema.",
       "language": "JavaScript",
       "url": "https://github.com/rjsf-team/react-jsonschema-form",
-      "stars": "11,224",
-      "forked": "1,866",
+      "stars": "11,225",
+      "forked": "1,865",
       "builtBy": [
         {
           "name": "@n1k0",
@@ -1372,7 +1376,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17006?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "7"
     },
     {
       "author": "facebook",
@@ -1380,8 +1384,8 @@
       "description": "A framework for building native applications using React",
       "language": "JavaScript",
       "url": "https://github.com/facebook/react-native",
-      "stars": "101,700",
-      "forked": "21,881",
+      "stars": "101,701",
+      "forked": "21,882",
       "builtBy": [
         {
           "name": "@reactjs-bot",
@@ -1404,7 +1408,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5885721?s=40&v=4"
         }
       ],
-      "starsToday": "23"
+      "starsToday": "22"
     },
     {
       "author": "ChainSafe",
@@ -1412,8 +1416,8 @@
       "description": "Ethereum JavaScript API",
       "language": "JavaScript",
       "url": "https://github.com/ChainSafe/web3.js",
-      "stars": "13,977",
-      "forked": "3,846",
+      "stars": "13,980",
+      "forked": "3,847",
       "builtBy": [
         {
           "name": "@frozeman",
@@ -1444,7 +1448,7 @@
       "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
       "language": "JavaScript",
       "url": "https://github.com/alvarotrigo/fullPage.js",
-      "stars": "33,322",
+      "stars": "33,324",
       "forked": "7,444",
       "builtBy": [
         {
@@ -1476,7 +1480,7 @@
       "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
       "language": "JavaScript",
       "url": "https://github.com/Budibase/budibase",
-      "stars": "10,815",
+      "stars": "10,817",
       "forked": "573",
       "builtBy": [
         {
@@ -1510,7 +1514,7 @@
       "description": "The uncompromising Python code formatter",
       "language": "Python",
       "url": "https://github.com/psf/black",
-      "stars": "26,387",
+      "stars": "26,392",
       "forked": "1,660",
       "builtBy": [
         {
@@ -1534,7 +1538,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3005596?s=40&v=4"
         }
       ],
-      "starsToday": "142"
+      "starsToday": "165"
     },
     {
       "author": "jackfrued",
@@ -1542,8 +1546,8 @@
       "description": "Python - 100天从新手到大师",
       "language": "Python",
       "url": "https://github.com/jackfrued/Python-100-Days",
-      "stars": "115,996",
-      "forked": "44,867",
+      "stars": "115,998",
+      "forked": "44,868",
       "builtBy": [
         {
           "name": "@jackfrued",
@@ -1574,7 +1578,7 @@
       "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
       "language": "Python",
       "url": "https://github.com/Chia-Network/chia-blockchain",
-      "stars": "10,552",
+      "stars": "10,554",
       "forked": "1,849",
       "builtBy": [
         {
@@ -1606,7 +1610,7 @@
       "description": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
       "language": "Python",
       "url": "https://github.com/ploomber/ploomber",
-      "stars": "2,007",
+      "stars": "2,010",
       "forked": "127",
       "builtBy": [
         {
@@ -1638,7 +1642,7 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "url": "https://github.com/tiangolo/fastapi",
-      "stars": "43,052",
+      "stars": "43,054",
       "forked": "3,274",
       "builtBy": [
         {
@@ -1662,7 +1666,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/35119617?s=40&v=4"
         }
       ],
-      "starsToday": "34"
+      "starsToday": "33"
     },
     {
       "author": "diphosphane",
@@ -1678,7 +1682,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/68422984?s=40&v=4"
         }
       ],
-      "starsToday": "33"
+      "starsToday": "32"
     },
     {
       "author": "vinta",
@@ -1686,7 +1690,7 @@
       "description": "A curated list of awesome Python frameworks, libraries, software and resources",
       "language": "Python",
       "url": "https://github.com/vinta/awesome-python",
-      "stars": "120,373",
+      "stars": "120,380",
       "forked": "20,900",
       "builtBy": [
         {
@@ -1710,7 +1714,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/178641?s=40&v=4"
         }
       ],
-      "starsToday": "210"
+      "starsToday": "207"
     },
     {
       "author": "Aleph-Alpha",
@@ -1719,7 +1723,7 @@
       "language": "Python",
       "url": "https://github.com/Aleph-Alpha/magma",
       "stars": "154",
-      "forked": "13",
+      "forked": "14",
       "builtBy": [
         {
           "name": "@CoEich",
@@ -1746,8 +1750,8 @@
       "description": "All Algorithms implemented in Python",
       "language": "Python",
       "url": "https://github.com/TheAlgorithms/Python",
-      "stars": "132,386",
-      "forked": "34,775",
+      "stars": "132,387",
+      "forked": "34,774",
       "builtBy": [
         {
           "name": "@cclauss",
@@ -1802,7 +1806,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/806360?s=40&v=4"
         }
       ],
-      "starsToday": "27"
+      "starsToday": "26"
     },
     {
       "author": "chen310",
@@ -1834,7 +1838,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18461360?s=40&v=4"
         }
       ],
-      "starsToday": "45"
+      "starsToday": "67"
     },
     {
       "author": "Megvii-BaseDetection",
@@ -1906,7 +1910,7 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/DingXiaoH/RepLKNet-pytorch",
-      "stars": "166",
+      "stars": "167",
       "forked": "8",
       "builtBy": [
         {
@@ -1950,8 +1954,8 @@
       "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
       "language": "Python",
       "url": "https://github.com/ultralytics/yolov5",
-      "stars": "23,454",
-      "forked": "8,363",
+      "stars": "23,455",
+      "forked": "8,364",
       "builtBy": [
         {
           "name": "@glenn-jocher",
@@ -1974,7 +1978,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/6035284?s=40&v=4"
         }
       ],
-      "starsToday": "69"
+      "starsToday": "67"
     },
     {
       "author": "mosaicml",
@@ -1982,7 +1986,7 @@
       "description": "train neural networks faster and more efficiently",
       "language": "Python",
       "url": "https://github.com/mosaicml/composer",
-      "stars": "756",
+      "stars": "757",
       "forked": "34",
       "builtBy": [
         {
@@ -2006,7 +2010,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11728034?s=40&v=4"
         }
       ],
-      "starsToday": "109"
+      "starsToday": "98"
     },
     {
       "author": "great-expectations",
@@ -2086,7 +2090,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/68422984?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "7"
     },
     {
       "author": "AtsushiSakai",
@@ -2094,7 +2098,7 @@
       "description": "Python sample codes for robotics algorithms.",
       "language": "Python",
       "url": "https://github.com/AtsushiSakai/PythonRobotics",
-      "stars": "14,700",
+      "stars": "14,701",
       "forked": "4,794",
       "builtBy": [
         {
@@ -2190,7 +2194,7 @@
       "description": "Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR",
       "language": "Python",
       "url": "https://github.com/cszn/KAIR",
-      "stars": "1,451",
+      "stars": "1,452",
       "forked": "349",
       "builtBy": [
         {
@@ -2214,7 +2218,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/16573295?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "7"
     },
     {
       "author": "hakandundar34coding",
@@ -2222,7 +2226,7 @@
       "description": "GTK and Python based, system performance and usage monitoring tool",
       "language": "Python",
       "url": "https://github.com/hakandundar34coding/system-monitoring-center",
-      "stars": "308",
+      "stars": "309",
       "forked": "31",
       "builtBy": [
         {
@@ -2246,7 +2250,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/35844848?s=40&v=4"
         }
       ],
-      "starsToday": "27"
+      "starsToday": "20"
     }
   ],
   "typescript": [
@@ -2256,7 +2260,7 @@
       "description": "Beautifully crafted unique avatar placeholder for your next react project",
       "language": "TypeScript",
       "url": "https://github.com/nusu/avvvatars",
-      "stars": "630",
+      "stars": "634",
       "forked": "18",
       "builtBy": [
         {
@@ -2280,7 +2284,7 @@
       "description": "",
       "language": "TypeScript",
       "url": "https://github.com/nkallen/plasticity",
-      "stars": "1,399",
+      "stars": "1,403",
       "forked": "92",
       "builtBy": [
         {
@@ -2308,7 +2312,7 @@
       "description": "Roadmap to becoming a developer in 2022",
       "language": "TypeScript",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
-      "stars": "189,118",
+      "stars": "189,125",
       "forked": "27,237",
       "builtBy": [
         {
@@ -2341,7 +2345,7 @@
       "language": "TypeScript",
       "url": "https://github.com/angular/angular",
       "stars": "80,261",
-      "forked": "21,110",
+      "forked": "21,109",
       "builtBy": [
         {
           "name": "@gkalpak",
@@ -2405,7 +2409,7 @@
       "language": "TypeScript",
       "url": "https://github.com/mattermost/mattermost-webapp",
       "stars": "1,598",
-      "forked": "2,404",
+      "forked": "2,405",
       "builtBy": [
         {
           "name": "@hmhealey",
@@ -2436,8 +2440,8 @@
       "description": "Essential UI blocks for building mobile web apps.",
       "language": "TypeScript",
       "url": "https://github.com/ant-design/ant-design-mobile",
-      "stars": "9,983",
-      "forked": "1,819",
+      "stars": "9,984",
+      "forked": "1,818",
       "builtBy": [
         {
           "name": "@awmleer",
@@ -2460,7 +2464,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7971415?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "5"
     },
     {
       "author": "directus",
@@ -2468,8 +2472,8 @@
       "description": "Open-Source Data Platform 🐰 — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.",
       "language": "TypeScript",
       "url": "https://github.com/directus/directus",
-      "stars": "14,329",
-      "forked": "1,664",
+      "stars": "14,330",
+      "forked": "1,663",
       "builtBy": [
         {
           "name": "@rijkvanzanten",
@@ -2500,7 +2504,7 @@
       "description": "Image inpainting tool powered by SOTA AI Model",
       "language": "TypeScript",
       "url": "https://github.com/Sanster/lama-cleaner",
-      "stars": "451",
+      "stars": "452",
       "forked": "61",
       "builtBy": [
         {
@@ -2688,8 +2692,8 @@
       "description": "Backstage is an open platform for building developer portals",
       "language": "TypeScript",
       "url": "https://github.com/backstage/backstage",
-      "stars": "15,559",
-      "forked": "2,268",
+      "stars": "15,560",
+      "forked": "2,269",
       "builtBy": [
         {
           "name": "@Rugvip",
@@ -2720,7 +2724,7 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/vscode",
-      "stars": "129,038",
+      "stars": "129,040",
       "forked": "21,849",
       "builtBy": [
         {
@@ -2744,7 +2748,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12821956?s=40&v=4"
         }
       ],
-      "starsToday": "51"
+      "starsToday": "49"
     },
     {
       "author": "inversify",
@@ -2752,7 +2756,7 @@
       "description": "A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.",
       "language": "TypeScript",
       "url": "https://github.com/inversify/InversifyJS",
-      "stars": "8,685",
+      "stars": "8,686",
       "forked": "611",
       "builtBy": [
         {
@@ -2784,7 +2788,7 @@
       "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
       "language": "TypeScript",
       "url": "https://github.com/remix-run/remix",
-      "stars": "14,116",
+      "stars": "14,118",
       "forked": "1,049",
       "builtBy": [
         {
@@ -2808,7 +2812,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/12063586?s=40&v=4"
         }
       ],
-      "starsToday": "47"
+      "starsToday": "42"
     },
     {
       "author": "umijs",
@@ -2816,7 +2820,7 @@
       "description": "🌋 Pluggable enterprise-level react application framework.",
       "language": "TypeScript",
       "url": "https://github.com/umijs/umi",
-      "stars": "12,050",
+      "stars": "12,051",
       "forked": "2,102",
       "builtBy": [
         {
@@ -2840,7 +2844,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1061968?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "5"
     },
     {
       "author": "ant-design",
@@ -2848,8 +2852,8 @@
       "description": "An enterprise-class UI design language and React UI library",
       "language": "TypeScript",
       "url": "https://github.com/ant-design/ant-design",
-      "stars": "78,780",
-      "forked": "33,032",
+      "stars": "78,781",
+      "forked": "33,030",
       "builtBy": [
         {
           "name": "@afc163",
@@ -2872,7 +2876,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/29775873?s=40&v=4"
         }
       ],
-      "starsToday": "24"
+      "starsToday": "25"
     },
     {
       "author": "pmndrs",
@@ -2913,7 +2917,7 @@
       "language": "TypeScript",
       "url": "https://github.com/vitest-dev/vitest",
       "stars": "3,457",
-      "forked": "177",
+      "forked": "178",
       "builtBy": [
         {
           "name": "@antfu",
@@ -2968,7 +2972,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2500670?s=40&v=4"
         }
       ],
-      "starsToday": "12"
+      "starsToday": "11"
     },
     {
       "author": "purocean",
@@ -3042,7 +3046,7 @@
       "description": "Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",
       "language": "Go",
       "url": "https://github.com/CrunchyData/postgres-operator",
-      "stars": "2,383",
+      "stars": "2,384",
       "forked": "393",
       "builtBy": [
         {
@@ -3066,7 +3070,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/43458182?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "5"
     },
     {
       "author": "smartcontractkit",
@@ -3074,7 +3078,7 @@
       "description": "node of the decentralized oracle network, bridging on and off-chain computation",
       "language": "Go",
       "url": "https://github.com/smartcontractkit/chainlink",
-      "stars": "3,063",
+      "stars": "3,064",
       "forked": "890",
       "builtBy": [
         {
@@ -3098,7 +3102,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4147639?s=40&v=4"
         }
       ],
-      "starsToday": "3"
+      "starsToday": "4"
     },
     {
       "author": "golang",
@@ -3106,7 +3110,7 @@
       "description": "The Go programming language",
       "language": "Go",
       "url": "https://github.com/golang/go",
-      "stars": "96,821",
+      "stars": "96,824",
       "forked": "14,453",
       "builtBy": [
         {
@@ -3130,7 +3134,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3194333?s=40&v=4"
         }
       ],
-      "starsToday": "133"
+      "starsToday": "89"
     },
     {
       "author": "TheAlgorithms",
@@ -3162,7 +3166,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21105489?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "16"
     },
     {
       "author": "argoproj",
@@ -3194,7 +3198,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/7737306?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "12"
     },
     {
       "author": "google",
@@ -3226,7 +3230,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/670527?s=40&v=4"
         }
       ],
-      "starsToday": "3"
+      "starsToday": "6"
     },
     {
       "author": "cookieY",
@@ -3267,7 +3271,7 @@
       "language": "Go",
       "url": "https://github.com/wagoodman/dive",
       "stars": "30,550",
-      "forked": "1,180",
+      "forked": "1,181",
       "builtBy": [
         {
           "name": "@wagoodman",
@@ -3322,7 +3326,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/18470668?s=40&v=4"
         }
       ],
-      "starsToday": "3"
+      "starsToday": "4"
     },
     {
       "author": "FiloSottile",
@@ -3330,7 +3334,7 @@
       "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
       "language": "Go",
       "url": "https://github.com/FiloSottile/mkcert",
-      "stars": "34,261",
+      "stars": "34,262",
       "forked": "1,649",
       "builtBy": [
         {
@@ -3354,7 +3358,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1032692?s=40&v=4"
         }
       ],
-      "starsToday": "31"
+      "starsToday": "61"
     },
     {
       "author": "swaggo",
@@ -3362,7 +3366,7 @@
       "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
       "language": "Go",
       "url": "https://github.com/swaggo/swag",
-      "stars": "5,632",
+      "stars": "5,635",
       "forked": "761",
       "builtBy": [
         {
@@ -3386,7 +3390,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1765408?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "10"
     },
     {
       "author": "kyverno",
@@ -3418,7 +3422,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/47354295?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "6"
     },
     {
       "author": "tailscale",
@@ -3450,7 +3454,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/20592?s=40&v=4"
         }
       ],
-      "starsToday": "13"
+      "starsToday": "12"
     },
     {
       "author": "milvus-io",
@@ -3491,7 +3495,7 @@
       "language": "Go",
       "url": "https://github.com/elastic/beats",
       "stars": "10,832",
-      "forked": "4,360",
+      "forked": "4,361",
       "builtBy": [
         {
           "name": "@ruflin",
@@ -3514,7 +3518,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/11757159?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "6"
     },
     {
       "author": "moby",
@@ -3578,7 +3582,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/22872138?s=40&v=4"
         }
       ],
-      "starsToday": "5"
+      "starsToday": "2"
     },
     {
       "author": "go-redis",
@@ -3610,7 +3614,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/3912070?s=40&v=4"
         }
       ],
-      "starsToday": "15"
+      "starsToday": "12"
     },
     {
       "author": "nektos",
@@ -3618,7 +3622,7 @@
       "description": "Run your GitHub Actions locally 🚀",
       "language": "Go",
       "url": "https://github.com/nektos/act",
-      "stars": "22,347",
+      "stars": "22,349",
       "forked": "585",
       "builtBy": [
         {
@@ -3642,7 +3646,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "starsToday": "52"
+      "starsToday": "54"
     },
     {
       "author": "open-policy-agent",
@@ -3738,7 +3742,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8097526?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "5"
     },
     {
       "author": "zalando",
@@ -3770,7 +3774,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/634032?s=40&v=4"
         }
       ],
-      "starsToday": "2"
+      "starsToday": "0"
     },
     {
       "author": "unknwon",
@@ -3802,7 +3806,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8166451?s=40&v=4"
         }
       ],
-      "starsToday": "10"
+      "starsToday": "8"
     },
     {
       "author": "avelino",
@@ -3810,7 +3814,7 @@
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "url": "https://github.com/avelino/awesome-go",
-      "stars": "77,169",
+      "stars": "77,170",
       "forked": "9,622",
       "builtBy": [
         {
@@ -3834,7 +3838,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/201930?s=40&v=4"
         }
       ],
-      "starsToday": "69"
+      "starsToday": "66"
     }
   ],
   "java": [
@@ -3844,7 +3848,7 @@
       "description": "Cloud native multi-runtime microservice framework",
       "language": "Java",
       "url": "https://github.com/polarismesh/femas",
-      "stars": "225",
+      "stars": "228",
       "forked": "58",
       "builtBy": [
         {
@@ -3876,7 +3880,7 @@
       "description": "The Metadata Platform for the Modern Data Stack",
       "language": "Java",
       "url": "https://github.com/datahub-project/datahub",
-      "stars": "5,045",
+      "stars": "5,049",
       "forked": "1,360",
       "builtBy": [
         {
@@ -3956,7 +3960,7 @@
           "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
         }
       ],
-      "starsToday": "15"
+      "starsToday": "13"
     },
     {
       "author": "GrowingGit",
@@ -3964,7 +3968,7 @@
       "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
       "language": "Java",
       "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
-      "stars": "45,147",
+      "stars": "45,148",
       "forked": "6,512",
       "builtBy": [
         {
@@ -3972,7 +3976,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21018904?s=40&v=4"
         }
       ],
-      "starsToday": "24"
+      "starsToday": "41"
     },
     {
       "author": "OpenFeign",
@@ -4004,7 +4008,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/360255?s=40&v=4"
         }
       ],
-      "starsToday": "6"
+      "starsToday": "8"
     },
     {
       "author": "thingsboard",
@@ -4036,7 +4040,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/56396344?s=40&v=4"
         }
       ],
-      "starsToday": "17"
+      "starsToday": "20"
     },
     {
       "author": "alibaba",
@@ -4100,7 +4104,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/8215006?s=40&v=4"
         }
       ],
-      "starsToday": "19"
+      "starsToday": "18"
     },
     {
       "author": "PhilJay",
@@ -4164,7 +4168,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/301810?s=40&v=4"
         }
       ],
-      "starsToday": "14"
+      "starsToday": "13"
     },
     {
       "author": "subhra74",
@@ -4172,7 +4176,7 @@
       "description": "Powerfull download accelerator and video downloader",
       "language": "Java",
       "url": "https://github.com/subhra74/xdm",
-      "stars": "3,649",
+      "stars": "3,650",
       "forked": "732",
       "builtBy": [
         {
@@ -4196,7 +4200,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/28929300?s=40&v=4"
         }
       ],
-      "starsToday": "26"
+      "starsToday": "72"
     },
     {
       "author": "auth0",
@@ -4228,7 +4232,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/2599332?s=40&v=4"
         }
       ],
-      "starsToday": "2"
+      "starsToday": "3"
     },
     {
       "author": "projectlombok",
@@ -4237,7 +4241,7 @@
       "language": "Java",
       "url": "https://github.com/projectlombok/lombok",
       "stars": "11,008",
-      "forked": "2,082",
+      "forked": "2,083",
       "builtBy": [
         {
           "name": "@rzwitserloot",
@@ -4292,7 +4296,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/17532475?s=40&v=4"
         }
       ],
-      "starsToday": "11"
+      "starsToday": "15"
     },
     {
       "author": "apache",
@@ -4356,7 +4360,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/5570988?s=40&v=4"
         }
       ],
-      "starsToday": "8"
+      "starsToday": "7"
     },
     {
       "author": "awsdocs",
@@ -4420,7 +4424,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/33042053?s=40&v=4"
         }
       ],
-      "starsToday": "7"
+      "starsToday": "10"
     },
     {
       "author": "j-easy",
@@ -4484,7 +4488,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48784001?s=40&v=4"
         }
       ],
-      "starsToday": "44"
+      "starsToday": "43"
     },
     {
       "author": "CoderLeixiaoshuai",
@@ -4492,7 +4496,7 @@
       "description": "『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！",
       "language": "Java",
       "url": "https://github.com/CoderLeixiaoshuai/java-eight-part",
-      "stars": "1,670",
+      "stars": "1,671",
       "forked": "387",
       "builtBy": [
         {
@@ -4512,7 +4516,7 @@
       "description": "MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…",
       "language": "Java",
       "url": "https://github.com/mock-server/mockserver",
-      "stars": "3,594",
+      "stars": "3,595",
       "forked": "904",
       "builtBy": [
         {
@@ -4536,7 +4540,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1352902?s=40&v=4"
         }
       ],
-      "starsToday": "0"
+      "starsToday": "1 star today"
     },
     {
       "author": "apache",
@@ -4600,7 +4604,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/849467?s=40&v=4"
         }
       ],
-      "starsToday": "4"
+      "starsToday": "8"
     }
   ]
 }
