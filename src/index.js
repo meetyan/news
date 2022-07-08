@@ -51,7 +51,7 @@ cron.schedule('15 * * * *', async () => {
 });
 
 // GitHub rankings
-cron.schedule('0 5 * * *', async () => {
+cron.schedule('0 10 * * *', async () => {
 	console.log('Start GitHub rankings');
 
 	const {byStars, byLanguage} = await githubRankingsCrawler();
