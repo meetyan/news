@@ -6,6 +6,7 @@ const axios = require('axios');
 
 const {writeJSON, readJSON, sleep} = require('../common');
 const {LANGUAGES} = require('../constants');
+const SLEEP_TIMEOUT = 30 * 1000;
 
 const crawler = async ({page = 1, language = '', stars = 2000} = {}) => {
 	language = encodeURIComponent(language);
@@ -49,7 +50,7 @@ const start = async () => {
 		console.log('by stars page - ', i);
 		const data = await crawler({page: i});
 		byStars.push(...data);
-		await sleep(15 * 1000);
+		await sleep(SLEEP_TIMEOUT);
 	}
 
 	const tempJSONPath = './temp.json';
@@ -61,7 +62,7 @@ const start = async () => {
 
 		for (let i = 1; i <= 10; i++) {
 			console.log(`by language ${language} page`, i);
-			await sleep(15 * 1000);
+			await sleep(SLEEP_TIMEOUT);
 			if (!temp[language]) temp[language] = [];
 			const data = await crawler({page: i, language});
 
