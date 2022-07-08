@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scrape": "pm2 start src/index.js --time --name news -i 0",
+    "scrape": "pm2 start src/index.js --time --name news",
     "server": "nodemon server/index.js",
-    "server:pm2": "pm2 start server/index.js --time --name news-server -i 0",
+    "server:pm2": "pm2 start server/index.js --time --name news-server",
     "build": "yarn scrape && yarn server:pm2",
     "stop": "pm2 stop news && pm2 stop news-server",
     "lint": "eslint 'src/**/*.js' --cache --fix"
