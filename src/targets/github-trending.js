@@ -67,9 +67,11 @@ const crawl = async (url) => {
 const start = async () => {
 	const result = {};
 	for (const [language, url] of Object.entries(urlByLanguage)) {
+		console.log('begin language', language)
 		await sleep(2000);
 		const target = await crawl(url);
 		result[language] = target;
+		console.log('done language', language)
 	}
 
 	return result;
