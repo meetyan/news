@@ -6,8 +6,8 @@
       "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
       "language": "TypeScript",
       "url": "https://github.com/shadcn/taxonomy",
-      "stars": "6,835",
-      "forked": "595",
+      "stars": "6,868",
+      "forked": "596",
       "builtBy": [
         {
           "name": "@shadcn",
@@ -30,7 +30,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48212803?s=40&v=4"
         }
       ],
-      "starsToday": "917"
+      "starsToday": "562"
     },
     {
       "author": "reworkd",
@@ -38,8 +38,8 @@
       "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
       "language": "TypeScript",
       "url": "https://github.com/reworkd/AgentGPT",
-      "stars": "3,013",
-      "forked": "638",
+      "stars": "3,152",
+      "forked": "662",
       "builtBy": [
         {
           "name": "@asim-shrestha",
@@ -58,11 +58,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/128228199?s=40&v=4"
         },
         {
-          "name": "@mrayonnaise",
-          "avatar": "https://avatars.githubusercontent.com/u/43144847?s=40&v=4"
+          "name": "@Srijan-Subedi",
+          "avatar": "https://avatars.githubusercontent.com/u/94234723?s=40&v=4"
         }
       ],
-      "starsToday": "299"
+      "starsToday": "2,456"
     },
     {
       "author": "ohmplatform",
@@ -70,15 +70,15 @@
       "description": "This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
       "language": "TypeScript",
       "url": "https://github.com/ohmplatform/FreedomGPT",
-      "stars": "345",
-      "forked": "40",
+      "stars": "360",
+      "forked": "43",
       "builtBy": [
         {
           "name": "@bhattaraijay05",
           "avatar": "https://avatars.githubusercontent.com/u/54356944?s=40&v=4"
         }
       ],
-      "starsToday": "80"
+      "starsToday": "199"
     },
     {
       "author": "IDEA-Research",
@@ -86,12 +86,20 @@
       "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs",
       "language": "Jupyter Notebook",
       "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
-      "stars": "5,383",
-      "forked": "377",
+      "stars": "5,420",
+      "forked": "380",
       "builtBy": [
         {
           "name": "@rentainhe",
           "avatar": "https://avatars.githubusercontent.com/u/48727989?s=40&v=4"
+        },
+        {
+          "name": "@CiaoHe",
+          "avatar": "https://avatars.githubusercontent.com/u/39040787?s=40&v=4"
+        },
+        {
+          "name": "@nomorewzx",
+          "avatar": "https://avatars.githubusercontent.com/u/3294078?s=40&v=4"
         },
         {
           "name": "@SlongLiu",
@@ -100,17 +108,9 @@
         {
           "name": "@Andy1621",
           "avatar": "https://avatars.githubusercontent.com/u/24236723?s=40&v=4"
-        },
-        {
-          "name": "@CiaoHe",
-          "avatar": "https://avatars.githubusercontent.com/u/39040787?s=40&v=4"
-        },
-        {
-          "name": "@xueli-sherryli",
-          "avatar": "https://avatars.githubusercontent.com/u/36387048?s=40&v=4"
         }
       ],
-      "starsToday": "1,590"
+      "starsToday": "1,041"
     },
     {
       "author": "anuragxel",
@@ -118,8 +118,8 @@
       "description": "Segment Anything Labelling Tool",
       "language": "Python",
       "url": "https://github.com/anuragxel/salt",
-      "stars": "189",
-      "forked": "16",
+      "stars": "203",
+      "forked": "17",
       "builtBy": [
         {
           "name": "@anuragxel",
@@ -138,8 +138,8 @@
       "description": "A CLI that converts natural language to shell commands.",
       "language": "TypeScript",
       "url": "https://github.com/BuilderIO/ai-shell",
-      "stars": "1,391",
-      "forked": "63",
+      "stars": "1,404",
+      "forked": "64",
       "builtBy": [
         {
           "name": "@steve8708",
@@ -154,12 +154,12 @@
           "avatar": "https://avatars.githubusercontent.com/u/7098556?s=40&v=4"
         },
         {
-          "name": "@Iwasherd",
-          "avatar": "https://avatars.githubusercontent.com/u/31006937?s=40&v=4"
+          "name": "@KarasuShin",
+          "avatar": "https://avatars.githubusercontent.com/u/13167154?s=40&v=4"
         },
         {
-          "name": "@Ezzahhh",
-          "avatar": "https://avatars.githubusercontent.com/u/38420555?s=40&v=4"
+          "name": "@Iwasherd",
+          "avatar": "https://avatars.githubusercontent.com/u/31006937?s=40&v=4"
         }
       ],
       "starsToday": "450"
@@ -170,7 +170,7 @@
       "description": "The official implementation of \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
       "language": "Python",
       "url": "https://github.com/IDEA-Research/GroundingDINO",
-      "stars": "817",
+      "stars": "821",
       "forked": "62",
       "builtBy": [
         {
@@ -186,15 +186,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/48727989?s=40&v=4"
         },
         {
-          "name": "@zvant",
-          "avatar": "https://avatars.githubusercontent.com/u/10338705?s=40&v=4"
-        },
-        {
           "name": "@GeorgePearse",
           "avatar": "https://avatars.githubusercontent.com/u/47161914?s=40&v=4"
         }
       ],
-      "starsToday": "152"
+      "starsToday": "175"
     },
     {
       "author": "soulteary",
@@ -202,7 +198,7 @@
       "description": "Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。",
       "language": "Python",
       "url": "https://github.com/soulteary/docker-prompt-generator",
-      "stars": "502",
+      "stars": "509",
       "forked": "48",
       "builtBy": [
         {
@@ -218,8 +214,8 @@
       "description": "Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.",
       "language": "Python",
       "url": "https://github.com/sail-sg/EditAnything",
-      "stars": "955",
-      "forked": "25",
+      "stars": "981",
+      "forked": "26",
       "builtBy": [
         {
           "name": "@gasvn",
@@ -238,7 +234,7 @@
       "description": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.",
       "language": "Java",
       "url": "https://github.com/aress31/burpgpt",
-      "stars": "761",
+      "stars": "774",
       "forked": "56",
       "builtBy": [
         {
@@ -254,8 +250,8 @@
       "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
       "language": "Python",
       "url": "https://github.com/ravenscroftj/turbopilot",
-      "stars": "1,337",
-      "forked": "34",
+      "stars": "1,378",
+      "forked": "37",
       "builtBy": [
         {
           "name": "@ravenscroftj",
@@ -270,7 +266,7 @@
       "description": "A powerful JavaScript library for interacting with the Discord API",
       "language": "TypeScript",
       "url": "https://github.com/discordjs/discord.js",
-      "stars": "22,379",
+      "stars": "22,389",
       "forked": "3,787",
       "builtBy": [
         {
@@ -302,8 +298,8 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/biobootloader/wolverine",
-      "stars": "1,452",
-      "forked": "120",
+      "stars": "1,515",
+      "forked": "124",
       "builtBy": [
         {
           "name": "@biobootloader",
@@ -314,7 +310,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4401724?s=40&v=4"
         }
       ],
-      "starsToday": "162"
+      "starsToday": "488"
     },
     {
       "author": "langchain-ai",
@@ -322,7 +318,7 @@
       "description": "",
       "language": "TypeScript",
       "url": "https://github.com/langchain-ai/langchain-template-supabase",
-      "stars": "171",
+      "stars": "175",
       "forked": "12",
       "builtBy": [
         {
@@ -342,8 +338,8 @@
       "description": "A curated list of awesome Python frameworks, libraries, software and resources",
       "language": "Python",
       "url": "https://github.com/vinta/awesome-python",
-      "stars": "163,579",
-      "forked": "22,911",
+      "stars": "163,600",
+      "forked": "22,912",
       "builtBy": [
         {
           "name": "@vinta",
@@ -366,7 +362,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/178641?s=40&v=4"
         }
       ],
-      "starsToday": "475"
+      "starsToday": "464"
     },
     {
       "author": "microsoft",
@@ -374,8 +370,8 @@
       "description": "Example models using DeepSpeed",
       "language": "Python",
       "url": "https://github.com/microsoft/DeepSpeedExamples",
-      "stars": "830",
-      "forked": "215",
+      "stars": "852",
+      "forked": "219",
       "builtBy": [
         {
           "name": "@jeffra",
@@ -406,7 +402,7 @@
       "description": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.",
       "language": "Jupyter Notebook",
       "url": "https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack",
-      "stars": "1,365",
+      "stars": "1,379",
       "forked": "341",
       "builtBy": [
         {
@@ -418,7 +414,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/109434545?s=40&v=4"
         }
       ],
-      "starsToday": "61"
+      "starsToday": "348"
     },
     {
       "author": "Torantulino",
@@ -426,8 +422,8 @@
       "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
       "language": "Python",
       "url": "https://github.com/Torantulino/Auto-GPT",
-      "stars": "30,317",
-      "forked": "3,856",
+      "stars": "30,703",
+      "forked": "3,915",
       "builtBy": [
         {
           "name": "@Torantulino",
@@ -458,7 +454,7 @@
       "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
       "language": "TypeScript",
       "url": "https://github.com/kevmo314/magic-copy",
-      "stars": "433",
+      "stars": "457",
       "forked": "30",
       "builtBy": [
         {
@@ -478,7 +474,7 @@
       "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
       "language": "JavaScript",
       "url": "https://github.com/josStorer/chatGPTBox",
-      "stars": "6,153",
+      "stars": "6,167",
       "forked": "374",
       "builtBy": [
         {
@@ -510,8 +506,8 @@
       "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
       "language": "Python",
       "url": "https://github.com/oobabooga/text-generation-webui",
-      "stars": "7,546",
-      "forked": "724",
+      "stars": "7,558",
+      "forked": "725",
       "builtBy": [
         {
           "name": "@oobabooga",
@@ -534,7 +530,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/42910943?s=40&v=4"
         }
       ],
-      "starsToday": "653"
+      "starsToday": "269"
     },
     {
       "author": "underlines",
@@ -542,7 +538,7 @@
       "description": "Collection of useful Datascience things across the web",
       "language": "",
       "url": "https://github.com/underlines/awesome-marketing-datascience",
-      "stars": "181",
+      "stars": "183",
       "forked": "26",
       "builtBy": [
         {
@@ -558,7 +554,7 @@
       "description": "Everything required to run your own Base node",
       "language": "Shell",
       "url": "https://github.com/base-org/node",
-      "stars": "30,443",
+      "stars": "30,494",
       "forked": "695",
       "builtBy": [
         {
@@ -582,7 +578,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/85355?s=40&v=4"
         }
       ],
-      "starsToday": "1,133"
+      "starsToday": "905"
     },
     {
       "author": "Sanster",
@@ -590,7 +586,7 @@
       "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
       "language": "Python",
       "url": "https://github.com/Sanster/lama-cleaner",
-      "stars": "9,379",
+      "stars": "9,398",
       "forked": "861",
       "builtBy": [
         {
@@ -622,8 +618,8 @@
       "description": "NO VR Script for Half-Life: Alyx",
       "language": "Lua",
       "url": "https://github.com/bfeber/HLA-NoVR",
-      "stars": "255",
-      "forked": "17",
+      "stars": "260",
+      "forked": "18",
       "builtBy": [
         {
           "name": "@bfeber",
@@ -652,7 +648,7 @@
       "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
       "language": "JavaScript",
       "url": "https://github.com/josStorer/chatGPTBox",
-      "stars": "6,153",
+      "stars": "6,167",
       "forked": "374",
       "builtBy": [
         {
@@ -684,7 +680,7 @@
       "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
       "language": "JavaScript",
       "url": "https://github.com/dice2o/BingGPT",
-      "stars": "4,847",
+      "stars": "4,854",
       "forked": "315",
       "builtBy": [
         {
@@ -736,8 +732,8 @@
       "description": "An even simpler way to run Alpaca",
       "language": "JavaScript",
       "url": "https://github.com/ItsPi3141/alpaca-electron",
-      "stars": "342",
-      "forked": "48",
+      "stars": "347",
+      "forked": "49",
       "builtBy": [
         {
           "name": "@ItsPi3141",
@@ -760,8 +756,8 @@
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。",
       "language": "JavaScript",
       "url": "https://github.com/tangly1024/NotionNext",
-      "stars": "2,217",
-      "forked": "2,232",
+      "stars": "2,223",
+      "forked": "2,231",
       "builtBy": [
         {
           "name": "@tangly1024",
@@ -784,7 +780,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13926044?s=40&v=4"
         }
       ],
-      "starsToday": "36"
+      "starsToday": "178"
     },
     {
       "author": "s0md3v",
@@ -824,7 +820,7 @@
       "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
       "language": "JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-React",
-      "stars": "20,191",
+      "stars": "20,192",
       "forked": "5,436",
       "builtBy": [
         {
@@ -888,7 +884,7 @@
       "description": "Work in progress... Thanks for all the stars, I will try to prioritize this project :)",
       "language": "JavaScript",
       "url": "https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet",
-      "stars": "179",
+      "stars": "180",
       "forked": "24",
       "builtBy": [
         {
@@ -949,7 +945,7 @@
       "language": "JavaScript",
       "url": "https://github.com/Cohee1207/SillyTavern",
       "stars": "119",
-      "forked": "25",
+      "forked": "26",
       "builtBy": [
         {
           "name": "@Cohee1207",
@@ -1012,7 +1008,7 @@
       "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
       "language": "JavaScript",
       "url": "https://github.com/TheAlgorithms/JavaScript",
-      "stars": "26,097",
+      "stars": "26,098",
       "forked": "4,484",
       "builtBy": [
         {
@@ -1044,7 +1040,7 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "url": "https://github.com/louislam/uptime-kuma",
-      "stars": "32,003",
+      "stars": "32,006",
       "forked": "2,722",
       "builtBy": [
         {
@@ -1077,7 +1073,7 @@
       "language": "JavaScript",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "stars": "26,191",
-      "forked": "8,988",
+      "forked": "8,990",
       "builtBy": [
         {
           "name": "@webron",
@@ -1108,7 +1104,7 @@
       "description": "🧬 The open source chat-ai toolkit",
       "language": "JavaScript",
       "url": "https://github.com/homanp/langchain-ui",
-      "stars": "194",
+      "stars": "195",
       "forked": "28",
       "builtBy": [
         {
@@ -1124,7 +1120,7 @@
       "description": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
       "language": "JavaScript",
       "url": "https://github.com/SheetJS/sheetjs",
-      "stars": "32,628",
+      "stars": "32,630",
       "forked": "7,994",
       "builtBy": [
         {
@@ -1156,8 +1152,8 @@
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "JavaScript",
       "url": "https://github.com/odoo/odoo",
-      "stars": "28,743",
-      "forked": "18,335",
+      "stars": "28,744",
+      "forked": "18,334",
       "builtBy": [
         {
           "name": "@tde-banana-odoo",
@@ -1188,8 +1184,8 @@
       "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
       "language": "JavaScript",
       "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
-      "stars": "24,855",
-      "forked": "5,252",
+      "stars": "24,857",
+      "forked": "5,251",
       "builtBy": [
         {
           "name": "@ryanhanwu",
@@ -1316,7 +1312,7 @@
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "language": "JavaScript",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
-      "stars": "68,645",
+      "stars": "68,646",
       "forked": "10,749",
       "builtBy": [
         {
@@ -1348,7 +1344,7 @@
       "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
       "language": "JavaScript",
       "url": "https://github.com/swagger-api/swagger-ui",
-      "stars": "23,678",
+      "stars": "23,679",
       "forked": "8,654",
       "builtBy": [
         {
@@ -1382,8 +1378,8 @@
       "description": "Segment Anything Labelling Tool",
       "language": "Python",
       "url": "https://github.com/anuragxel/salt",
-      "stars": "189",
-      "forked": "16",
+      "stars": "203",
+      "forked": "17",
       "builtBy": [
         {
           "name": "@anuragxel",
@@ -1402,7 +1398,7 @@
       "description": "The official implementation of \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
       "language": "Python",
       "url": "https://github.com/IDEA-Research/GroundingDINO",
-      "stars": "817",
+      "stars": "821",
       "forked": "62",
       "builtBy": [
         {
@@ -1418,15 +1414,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/48727989?s=40&v=4"
         },
         {
-          "name": "@zvant",
-          "avatar": "https://avatars.githubusercontent.com/u/10338705?s=40&v=4"
-        },
-        {
           "name": "@GeorgePearse",
           "avatar": "https://avatars.githubusercontent.com/u/47161914?s=40&v=4"
         }
       ],
-      "starsToday": "152"
+      "starsToday": "175"
     },
     {
       "author": "soulteary",
@@ -1434,7 +1426,7 @@
       "description": "Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。",
       "language": "Python",
       "url": "https://github.com/soulteary/docker-prompt-generator",
-      "stars": "502",
+      "stars": "509",
       "forked": "48",
       "builtBy": [
         {
@@ -1450,8 +1442,8 @@
       "description": "Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.",
       "language": "Python",
       "url": "https://github.com/sail-sg/EditAnything",
-      "stars": "955",
-      "forked": "25",
+      "stars": "981",
+      "forked": "26",
       "builtBy": [
         {
           "name": "@gasvn",
@@ -1470,8 +1462,8 @@
       "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
       "language": "Python",
       "url": "https://github.com/ravenscroftj/turbopilot",
-      "stars": "1,337",
-      "forked": "34",
+      "stars": "1,378",
+      "forked": "37",
       "builtBy": [
         {
           "name": "@ravenscroftj",
@@ -1486,8 +1478,8 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/biobootloader/wolverine",
-      "stars": "1,452",
-      "forked": "120",
+      "stars": "1,515",
+      "forked": "124",
       "builtBy": [
         {
           "name": "@biobootloader",
@@ -1498,7 +1490,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/4401724?s=40&v=4"
         }
       ],
-      "starsToday": "162"
+      "starsToday": "488"
     },
     {
       "author": "vinta",
@@ -1506,8 +1498,8 @@
       "description": "A curated list of awesome Python frameworks, libraries, software and resources",
       "language": "Python",
       "url": "https://github.com/vinta/awesome-python",
-      "stars": "163,579",
-      "forked": "22,911",
+      "stars": "163,600",
+      "forked": "22,912",
       "builtBy": [
         {
           "name": "@vinta",
@@ -1530,7 +1522,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/178641?s=40&v=4"
         }
       ],
-      "starsToday": "475"
+      "starsToday": "464"
     },
     {
       "author": "microsoft",
@@ -1538,8 +1530,8 @@
       "description": "Example models using DeepSpeed",
       "language": "Python",
       "url": "https://github.com/microsoft/DeepSpeedExamples",
-      "stars": "830",
-      "forked": "215",
+      "stars": "852",
+      "forked": "219",
       "builtBy": [
         {
           "name": "@jeffra",
@@ -1570,8 +1562,8 @@
       "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
       "language": "Python",
       "url": "https://github.com/Torantulino/Auto-GPT",
-      "stars": "30,318",
-      "forked": "3,857",
+      "stars": "30,705",
+      "forked": "3,915",
       "builtBy": [
         {
           "name": "@Torantulino",
@@ -1602,8 +1594,8 @@
       "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
       "language": "Python",
       "url": "https://github.com/oobabooga/text-generation-webui",
-      "stars": "7,546",
-      "forked": "724",
+      "stars": "7,558",
+      "forked": "725",
       "builtBy": [
         {
           "name": "@oobabooga",
@@ -1626,7 +1618,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/42910943?s=40&v=4"
         }
       ],
-      "starsToday": "653"
+      "starsToday": "269"
     },
     {
       "author": "Sanster",
@@ -1634,7 +1626,7 @@
       "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
       "language": "Python",
       "url": "https://github.com/Sanster/lama-cleaner",
-      "stars": "9,380",
+      "stars": "9,398",
       "forked": "861",
       "builtBy": [
         {
@@ -1666,8 +1658,8 @@
       "description": "A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)",
       "language": "Python",
       "url": "https://github.com/brannondorsey/PassGAN",
-      "stars": "1,109",
-      "forked": "219",
+      "stars": "1,110",
+      "forked": "220",
       "builtBy": [
         {
           "name": "@brannondorsey",
@@ -1714,7 +1706,7 @@
       "description": "中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs)",
       "language": "Python",
       "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
-      "stars": "4,356",
+      "stars": "4,367",
       "forked": "419",
       "builtBy": [
         {
@@ -1746,7 +1738,7 @@
       "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
       "language": "Python",
       "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
-      "stars": "995",
+      "stars": "996",
       "forked": "346",
       "builtBy": [
         {
@@ -1778,8 +1770,8 @@
       "description": "The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
       "language": "Python",
       "url": "https://github.com/netbox-community/netbox",
-      "stars": "12,325",
-      "forked": "2,126",
+      "stars": "12,326",
+      "forked": "2,127",
       "builtBy": [
         {
           "name": "@jeremystretch",
@@ -1811,7 +1803,7 @@
       "language": "Python",
       "url": "https://github.com/facebookresearch/fairseq",
       "stars": "21,618",
-      "forked": "5,379",
+      "forked": "5,378",
       "builtBy": [
         {
           "name": "@myleott",
@@ -1874,7 +1866,7 @@
       "description": "Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.",
       "language": "Python",
       "url": "https://github.com/hasanfirnas/symbiote",
-      "stars": "372",
+      "stars": "373",
       "forked": "56",
       "builtBy": [
         {
@@ -1890,7 +1882,7 @@
       "description": "Graph Neural Network Library for PyTorch",
       "language": "Python",
       "url": "https://github.com/pyg-team/pytorch_geometric",
-      "stars": "17,325",
+      "stars": "17,324",
       "forked": "3,182",
       "builtBy": [
         {
@@ -1986,7 +1978,7 @@
       "description": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).",
       "language": "Python",
       "url": "https://github.com/fudan-zvg/Semantic-Segment-Anything",
-      "stars": "324",
+      "stars": "331",
       "forked": "8",
       "builtBy": [
         {
@@ -2006,7 +1998,7 @@
       "description": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
       "language": "Python",
       "url": "https://github.com/google/BIG-bench",
-      "stars": "1,711",
+      "stars": "1,712",
       "forked": "464",
       "builtBy": [
         {
@@ -2038,7 +2030,7 @@
       "description": "🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",
       "language": "Python",
       "url": "https://github.com/mage-ai/mage-ai",
-      "stars": "3,830",
+      "stars": "3,832",
       "forked": "326",
       "builtBy": [
         {
@@ -2072,8 +2064,8 @@
       "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
       "language": "TypeScript",
       "url": "https://github.com/shadcn/taxonomy",
-      "stars": "6,835",
-      "forked": "595",
+      "stars": "6,868",
+      "forked": "596",
       "builtBy": [
         {
           "name": "@shadcn",
@@ -2096,7 +2088,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/48212803?s=40&v=4"
         }
       ],
-      "starsToday": "917"
+      "starsToday": "562"
     },
     {
       "author": "reworkd",
@@ -2104,8 +2096,8 @@
       "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
       "language": "TypeScript",
       "url": "https://github.com/reworkd/AgentGPT",
-      "stars": "3,013",
-      "forked": "638",
+      "stars": "3,154",
+      "forked": "662",
       "builtBy": [
         {
           "name": "@asim-shrestha",
@@ -2128,7 +2120,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/43144847?s=40&v=4"
         }
       ],
-      "starsToday": "299"
+      "starsToday": "2,456"
     },
     {
       "author": "ohmplatform",
@@ -2136,15 +2128,15 @@
       "description": "This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
       "language": "TypeScript",
       "url": "https://github.com/ohmplatform/FreedomGPT",
-      "stars": "345",
-      "forked": "40",
+      "stars": "360",
+      "forked": "43",
       "builtBy": [
         {
           "name": "@bhattaraijay05",
           "avatar": "https://avatars.githubusercontent.com/u/54356944?s=40&v=4"
         }
       ],
-      "starsToday": "80"
+      "starsToday": "199"
     },
     {
       "author": "BuilderIO",
@@ -2152,8 +2144,8 @@
       "description": "A CLI that converts natural language to shell commands.",
       "language": "TypeScript",
       "url": "https://github.com/BuilderIO/ai-shell",
-      "stars": "1,392",
-      "forked": "63",
+      "stars": "1,404",
+      "forked": "64",
       "builtBy": [
         {
           "name": "@steve8708",
@@ -2184,7 +2176,7 @@
       "description": "A powerful JavaScript library for interacting with the Discord API",
       "language": "TypeScript",
       "url": "https://github.com/discordjs/discord.js",
-      "stars": "22,379",
+      "stars": "22,389",
       "forked": "3,787",
       "builtBy": [
         {
@@ -2216,7 +2208,7 @@
       "description": "",
       "language": "TypeScript",
       "url": "https://github.com/langchain-ai/langchain-template-supabase",
-      "stars": "171",
+      "stars": "175",
       "forked": "12",
       "builtBy": [
         {
@@ -2236,7 +2228,7 @@
       "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
       "language": "TypeScript",
       "url": "https://github.com/kevmo314/magic-copy",
-      "stars": "433",
+      "stars": "457",
       "forked": "30",
       "builtBy": [
         {
@@ -2256,7 +2248,7 @@
       "description": "Interact with OpenAI's ChatGPT via Telegram and Voice.",
       "language": "TypeScript",
       "url": "https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot",
-      "stars": "661",
+      "stars": "663",
       "forked": "34",
       "builtBy": [
         {
@@ -2272,8 +2264,8 @@
       "description": "One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。",
       "language": "TypeScript",
       "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
-      "stars": "15,374",
-      "forked": "7,726",
+      "stars": "15,392",
+      "forked": "7,748",
       "builtBy": [
         {
           "name": "@Yidadaa",
@@ -2304,7 +2296,7 @@
       "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table",
       "language": "TypeScript",
       "url": "https://github.com/TanStack/table",
-      "stars": "21,192",
+      "stars": "21,194",
       "forked": "2,775",
       "builtBy": [
         {
@@ -2336,8 +2328,8 @@
       "description": "Elegant and Powerfull. Powered by OpenAI and Vercel.",
       "language": "TypeScript",
       "url": "https://github.com/ourongxing/chatgpt-vercel",
-      "stars": "2,204",
-      "forked": "2,186",
+      "stars": "2,207",
+      "forked": "2,188",
       "builtBy": [
         {
           "name": "@ourongxing",
@@ -2368,7 +2360,7 @@
       "description": "🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
       "language": "TypeScript",
       "url": "https://github.com/makeplane/plane",
-      "stars": "1,147",
+      "stars": "1,152",
       "forked": "34",
       "builtBy": [
         {
@@ -2400,7 +2392,7 @@
       "description": "Shopify’s design system to help us work together to build a great experience for all of our merchants.",
       "language": "TypeScript",
       "url": "https://github.com/Shopify/polaris",
-      "stars": "5,298",
+      "stars": "5,299",
       "forked": "1,049",
       "builtBy": [
         {
@@ -2464,7 +2456,7 @@
       "description": "Accelerating new GitHub Actions workflows",
       "language": "TypeScript",
       "url": "https://github.com/actions/starter-workflows",
-      "stars": "7,367",
+      "stars": "7,368",
       "forked": "5,657",
       "builtBy": [
         {
@@ -2496,7 +2488,7 @@
       "description": "Authentication, simple and clean",
       "language": "TypeScript",
       "url": "https://github.com/pilcrowOnPaper/lucia",
-      "stars": "1,363",
+      "stars": "1,366",
       "forked": "100",
       "builtBy": [
         {
@@ -2528,8 +2520,8 @@
       "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
       "language": "TypeScript",
       "url": "https://github.com/supabase/supabase",
-      "stars": "48,245",
-      "forked": "3,431",
+      "stars": "48,246",
+      "forked": "3,430",
       "builtBy": [
         {
           "name": "@kiwicopple",
@@ -2560,7 +2552,7 @@
       "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
       "language": "TypeScript",
       "url": "https://github.com/shadcn/ui",
-      "stars": "11,133",
+      "stars": "11,137",
       "forked": "388",
       "builtBy": [
         {
@@ -2593,7 +2585,7 @@
       "language": "TypeScript",
       "url": "https://github.com/software-mansion/react-native-reanimated",
       "stars": "7,165",
-      "forked": "1,080",
+      "forked": "1,081",
       "builtBy": [
         {
           "name": "@piaskowyk",
@@ -2656,7 +2648,7 @@
       "description": "Everything you need to start building ChatGPT Plugins in JS/TS 🔥",
       "language": "TypeScript",
       "url": "https://github.com/transitive-bullshit/chatgpt-plugin-ts",
-      "stars": "225",
+      "stars": "228",
       "forked": "11",
       "builtBy": [
         {
@@ -2744,7 +2736,7 @@
       "description": "GPT Meets Zotero.",
       "language": "TypeScript",
       "url": "https://github.com/MuiseDestiny/zotero-gpt",
-      "stars": "411",
+      "stars": "414",
       "forked": "26",
       "builtBy": [
         {
@@ -2776,8 +2768,8 @@
       "description": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
       "language": "TypeScript",
       "url": "https://github.com/upscayl/upscayl",
-      "stars": "11,479",
-      "forked": "354",
+      "stars": "11,483",
+      "forked": "355",
       "builtBy": [
         {
           "name": "@NayamAmarshe",
@@ -2810,7 +2802,7 @@
       "description": "The Go programming language",
       "language": "Go",
       "url": "https://github.com/golang/go",
-      "stars": "110,172",
+      "stars": "110,177",
       "forked": "16,206",
       "builtBy": [
         {
@@ -2842,7 +2834,7 @@
       "description": "Complete container management platform",
       "language": "Go",
       "url": "https://github.com/rancher/rancher",
-      "stars": "20,871",
+      "stars": "20,873",
       "forked": "2,770",
       "builtBy": [
         {
@@ -2874,7 +2866,7 @@
       "description": "Declarative continuous deployment for Kubernetes.",
       "language": "Go",
       "url": "https://github.com/argoproj/argo-cd",
-      "stars": "12,693",
+      "stars": "12,694",
       "forked": "3,697",
       "builtBy": [
         {
@@ -2938,7 +2930,7 @@
       "description": "✨ Kubectl plugin for OpenAI GPT",
       "language": "Go",
       "url": "https://github.com/sozercan/kubectl-ai",
-      "stars": "610",
+      "stars": "612",
       "forked": "33",
       "builtBy": [
         {
@@ -2962,7 +2954,7 @@
       "description": "A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.",
       "language": "Go",
       "url": "https://github.com/diemus/azure-openai-proxy",
-      "stars": "271",
+      "stars": "272",
       "forked": "24",
       "builtBy": [
         {
@@ -2983,7 +2975,7 @@
       "language": "Go",
       "url": "https://github.com/volcano-sh/volcano",
       "stars": "2,902",
-      "forked": "683",
+      "forked": "684",
       "builtBy": [
         {
           "name": "@volcano-sh-bot",
@@ -3015,7 +3007,7 @@
       "language": "Go",
       "url": "https://github.com/aquasecurity/trivy",
       "stars": "16,893",
-      "forked": "1,657",
+      "forked": "1,658",
       "builtBy": [
         {
           "name": "@knqyf263",
@@ -3046,7 +3038,7 @@
       "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
       "language": "Go",
       "url": "https://github.com/kedacore/keda",
-      "stars": "6,166",
+      "stars": "6,168",
       "forked": "774",
       "builtBy": [
         {
@@ -3110,7 +3102,7 @@
       "description": "Let's Encrypt/ACME client and library written in Go",
       "language": "Go",
       "url": "https://github.com/go-acme/lego",
-      "stars": "6,016",
+      "stars": "6,017",
       "forked": "816",
       "builtBy": [
         {
@@ -3142,7 +3134,7 @@
       "description": "Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.",
       "language": "Go",
       "url": "https://github.com/projectdiscovery/proxify",
-      "stars": "2,127",
+      "stars": "2,128",
       "forked": "181",
       "builtBy": [
         {
@@ -3206,7 +3198,7 @@
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "url": "https://github.com/restic/restic",
-      "stars": "19,883",
+      "stars": "19,884",
       "forked": "1,291",
       "builtBy": [
         {
@@ -3238,7 +3230,7 @@
       "description": "Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron",
       "language": "Go",
       "url": "https://github.com/go-co-op/gocron",
-      "stars": "3,030",
+      "stars": "3,032",
       "forked": "211",
       "builtBy": [
         {
@@ -3367,7 +3359,7 @@
       "language": "Go",
       "url": "https://github.com/open-telemetry/opentelemetry-collector",
       "stars": "2,873",
-      "forked": "1,065",
+      "forked": "1,066",
       "builtBy": [
         {
           "name": "@bogdandrutu",
@@ -3398,7 +3390,7 @@
       "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
       "language": "Go",
       "url": "https://github.com/swaggo/swag",
-      "stars": "8,006",
+      "stars": "8,007",
       "forked": "1,019",
       "builtBy": [
         {
@@ -3430,7 +3422,7 @@
       "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
       "language": "Go",
       "url": "https://github.com/casbin/casbin",
-      "stars": "14,228",
+      "stars": "14,229",
       "forked": "1,542",
       "builtBy": [
         {
@@ -3462,7 +3454,7 @@
       "description": "Deliver Go binaries as fast and easily as possible",
       "language": "Go",
       "url": "https://github.com/goreleaser/goreleaser",
-      "stars": "11,458",
+      "stars": "11,460",
       "forked": "806",
       "builtBy": [
         {
@@ -3558,7 +3550,7 @@
       "description": "Run Kubernetes locally",
       "language": "Go",
       "url": "https://github.com/kubernetes/minikube",
-      "stars": "26,224",
+      "stars": "26,225",
       "forked": "4,545",
       "builtBy": [
         {
@@ -3592,7 +3584,7 @@
       "description": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.",
       "language": "Java",
       "url": "https://github.com/aress31/burpgpt",
-      "stars": "761",
+      "stars": "774",
       "forked": "56",
       "builtBy": [
         {
@@ -3608,8 +3600,8 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "url": "https://github.com/TheAlgorithms/Java",
-      "stars": "51,182",
-      "forked": "16,870",
+      "stars": "51,185",
+      "forked": "16,871",
       "builtBy": [
         {
           "name": "@yanglbme",
@@ -3660,7 +3652,7 @@
       "description": "Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types of jobs available `out of the box`",
       "language": "Java",
       "url": "https://github.com/apache/dolphinscheduler",
-      "stars": "10,264",
+      "stars": "10,265",
       "forked": "3,786",
       "builtBy": [
         {
@@ -3724,8 +3716,8 @@
       "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
       "language": "Java",
       "url": "https://github.com/OpenAPITools/openapi-generator",
-      "stars": "15,983",
-      "forked": "5,188",
+      "stars": "15,985",
+      "forked": "5,187",
       "builtBy": [
         {
           "name": "@wing328",
@@ -3756,8 +3748,8 @@
       "description": "Quarkus: Supersonic Subatomic Java.",
       "language": "Java",
       "url": "https://github.com/quarkusio/quarkus",
-      "stars": "11,616",
-      "forked": "2,178",
+      "stars": "11,617",
+      "forked": "2,179",
       "builtBy": [
         {
           "name": "@gsmet",
@@ -3788,7 +3780,7 @@
       "description": "Design patterns implemented in Java",
       "language": "Java",
       "url": "https://github.com/iluwatar/java-design-patterns",
-      "stars": "80,857",
+      "stars": "80,858",
       "forked": "24,848",
       "builtBy": [
         {
@@ -3916,7 +3908,7 @@
       "description": "Free and Open, Distributed, RESTful Search Engine",
       "language": "Java",
       "url": "https://github.com/elastic/elasticsearch",
-      "stars": "63,332",
+      "stars": "63,334",
       "forked": "22,950",
       "builtBy": [
         {
@@ -3980,7 +3972,7 @@
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "language": "Java",
       "url": "https://github.com/thingsboard/thingsboard",
-      "stars": "13,460",
+      "stars": "13,461",
       "forked": "4,267",
       "builtBy": [
         {
@@ -4012,7 +4004,7 @@
       "description": "Conductor is a microservices orchestration engine.",
       "language": "Java",
       "url": "https://github.com/Netflix/conductor",
-      "stars": "8,537",
+      "stars": "8,538",
       "forked": "2,115",
       "builtBy": [
         {
@@ -4044,7 +4036,7 @@
       "description": "人人可用的开源数据可视化分析工具。",
       "language": "Java",
       "url": "https://github.com/dataease/dataease",
-      "stars": "9,495",
+      "stars": "9,496",
       "forked": "1,897",
       "builtBy": [
         {
@@ -4140,7 +4132,7 @@
       "description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
       "language": "Java",
       "url": "https://github.com/apache/incubator-seatunnel",
-      "stars": "4,970",
+      "stars": "4,971",
       "forked": "1,000",
       "builtBy": [
         {
@@ -4172,8 +4164,8 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "url": "https://github.com/bazelbuild/bazel",
-      "stars": "20,630",
-      "forked": "3,718",
+      "stars": "20,631",
+      "forked": "3,719",
       "builtBy": [
         {
           "name": "@janakdr",
@@ -4233,7 +4225,7 @@
       "language": "Java",
       "url": "https://github.com/facebook/react-native",
       "stars": "108,928",
-      "forked": "23,141",
+      "forked": "23,140",
       "builtBy": [
         {
           "name": "@reactjs-bot",
@@ -4264,7 +4256,7 @@
       "description": "An extensible media player for Android",
       "language": "Java",
       "url": "https://github.com/google/ExoPlayer",
-      "stars": "20,595",
+      "stars": "20,597",
       "forked": "5,935",
       "builtBy": [
         {
@@ -4296,7 +4288,7 @@
       "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
       "language": "Java",
       "url": "https://github.com/yudaocode/SpringBoot-Labs",
-      "stars": "16,520",
+      "stars": "16,522",
       "forked": "5,402",
       "builtBy": [
         {
