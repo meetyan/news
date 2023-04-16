@@ -533,5 +533,30 @@
     "title": "《王者荣耀》中「无效输出」成为玩家常用词语，但真有无效的输出吗？",
     "description": "",
     "url": "https://api.zhihu.com/questions/595476486"
+  },
+  {
+    "title": "普通职员在中层干部群里下通知，说了「收到请回复，谢谢」，结果没一个人回复怎么办?",
+    "description": "发通知希望大家收到回复的原因是，我怕有人没收到通知，这样我可以单独再通知他。结果确是没一个人理我，感觉很伤心，感觉很不被支持不被尊重。我在反思，是不是因为自己是普通职员，是不是不该在中层群里让大家收到回复",
+    "url": "https://api.zhihu.com/questions/595526596"
+  },
+  {
+    "title": "为什么有些人老了发现「子女没出息是一种福分」？你怎么看？",
+    "description": "",
+    "url": "https://api.zhihu.com/questions/594668461"
+  },
+  {
+    "title": "既然操作系统层已经提供了page cache的功能，为什么还要在应用层加缓存？",
+    "description": "操作系统的磁盘操作已经提供了page cache，比如Linux会把所有未使用的内存用作page cache，那么我们为什么还需要加那么多层缓存？DB有自己的缓存，为什么我们还需要像memcached这样的应用层缓存？ 这个问题是看Kafka的介绍的时候想到的，原文如下: Apache Kafka Don't fear the filesystem! Kafka relies heavily on the filesystem for storing and caching messages. There is a general perception that \"disks are slow\" which makes people skeptical that a persistent structure can offer competitive performance. In fact disks are both much slower and much faster than people expect depending on how they are used; and a properly designed disk structure can often be as fast as the network. The key fact about disk performance is that the throughput of hard drives has been diverging from the latency of a disk seek for the last decade. As a result the performance of linear writes on aJBOD configuration with six 7200rpm SATA RAID-5 array is about 600MB/sec but the performance of random writes is only about 100k/sec—a difference of over 6000X. These linear reads and writes are the most predictable of all usage patterns, and are heavily optimized by the operating system. A modern operating system provides read-ahead and write-behind techniques that prefetch data in large block multiples and group smaller logical writes into large physical writes. A further discussion of this issue can be found in thisACM Queue articlesequential disk access can in some cases be faster than random memory access! To compensate for this performance divergence modern operating systems have become increasingly aggressive in their use of main memory for disk caching. A modern OS will happily divert Furthermore we are building on top of the JVM, and anyone who has spent any time with Java memory usage knows two things: As a result of these factors using the filesystem and relying on pagecache is superior to maintaining an in-memory cache or other structure—we at least double the available cache by having automatic access to all free memory, and likely double again by storing a compact byte structure rather than individual objects. Doing so will result in a cache of up to 28-30GB on a 32GB machine without GC penalties. Furthermore this cache will stay warm even if the service is restarted, whereas the in-process cache will need to be rebuilt in memory (which for a 10GB cache may take 10 minutes) or else it will need to start with a completely cold cache (which likely means terrible initial performance). This also greatly simplifies the code as all logic for maintaining coherency between the cache and filesystem is now in the OS, which tends to do so more efficiently and more correctly than one-off in-process attempts. If your disk usage favors linear reads then read-ahead is effectively pre-populating this cache with useful data on each disk read. This suggests a design which is very simple: rather than maintain as much as possible in-memory and flush it all out to the filesystem in a panic when we run out of space, we invert that. All data is immediately written to a persistent log on the filesystem without necessarily flushing to disk. In effect this just means that it is transferred into the kernel's pagecache. This style of pagecache-centric design is described in an",
+    "url": "https://api.zhihu.com/questions/29203599"
+  },
+  {
+    "title": "未来三至五年内，GPT 能把一个十个人的编程开发团队精简到几个人吗？",
+    "description": "简单来说就是有没有一种可能，以后一个开发人员利用GPT可以干三四个人的活？GPT也不用理解人的感情，也不用完全取代人，就是干活。 我总感觉大家的回答都有点偏，大部分是把它当一个死工具看。可是GPT的方向是AI啊，在未来的一段时间内，要考虑到它的智能发展，不说达到和人一样，但好歹是一个活的工具…",
+    "url": "https://api.zhihu.com/questions/589904843"
+  },
+  {
+    "title": "电视剧《甄嬛传》中，安陵容说过哪些经典的台词？",
+    "description": "",
+    "url": "https://api.zhihu.com/questions/584220559"
   }
 ]
