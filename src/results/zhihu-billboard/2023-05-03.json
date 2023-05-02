@@ -308,5 +308,20 @@
     "title": "为什么很多互联网公司员工人数只有几百人？",
     "description": "像搜狗这样的公司人数好像也只有二百多人，为什么这么少，这点人真的能应付的了工作吗",
     "url": "https://api.zhihu.com/questions/264687820"
+  },
+  {
+    "title": "有个基站离我家窗户很近，大约五米左右。请问对人体有没有害？",
+    "description": "就长这样子，不太清楚来问问大家们",
+    "url": "https://api.zhihu.com/questions/593255596"
+  },
+  {
+    "title": "能不能推荐感人催泪的漫画?",
+    "description": "不要是为了纯粹为虐而虐，举个例子比如《魂环》七世之孽最后男女主握手和好，或者像藤丸的《那雪》看完能让人回味无穷引人深思，要不然就是像《工地恋歌》小智与智史的爱情史一样让人读完能留下欣慰感人的泪水。在此谢谢各位漫友了。",
+    "url": "https://api.zhihu.com/questions/403580229"
+  },
+  {
+    "title": "为什么很多强大的软件都不依赖图形界面?",
+    "description": "FFmpeg GCC Octave tar make openssh aria2 VIM apt nmap等等 注：\"依赖图形界面\"是指不打开图形界面的情况下就无法运行，例如ffmpeg中的ffplay和octave也会打开图形界面，但是它们都可以在纯命令行环境下运行(-nodisp/octave-cli)，因此不属于依赖图形界面的软件。 特例：小部分强大的软件，例如Firefox，GIMP，这类特例的特点是它们的功能不借助图形界面无法完成，所以题目才会是\"为什么很多强大的软件都不依赖图形界面?\"而不是\"为什么强大的软件都不依赖图形界面?\"",
+    "url": "https://api.zhihu.com/questions/598354074"
   }
 ]
