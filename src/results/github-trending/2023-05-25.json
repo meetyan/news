@@ -6,8 +6,8 @@
       "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
       "language": "Python",
       "url": "https://github.com/facebookresearch/fairseq",
-      "stars": "24,785",
-      "forked": "5,666",
+      "stars": "24,815",
+      "forked": "5,668",
       "builtBy": [
         {
           "name": "@myleott",
@@ -38,8 +38,8 @@
       "description": "Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold",
       "language": "Python",
       "url": "https://github.com/JiauZhang/DragGAN",
-      "stars": "814",
-      "forked": "86",
+      "stars": "838",
+      "forked": "90",
       "builtBy": [
         {
           "name": "@JiauZhang",
@@ -54,8 +54,8 @@
       "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
       "language": "Rust",
       "url": "https://github.com/google/comprehensive-rust",
-      "stars": "14,892",
-      "forked": "705",
+      "stars": "14,925",
+      "forked": "710",
       "builtBy": [
         {
           "name": "@mgeisler",
@@ -86,7 +86,7 @@
       "description": "A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务",
       "language": "JavaScript",
       "url": "https://github.com/NaiboWang/EasySpider",
-      "stars": "6,189",
+      "stars": "6,193",
       "forked": "636",
       "builtBy": [
         {
@@ -114,8 +114,8 @@
       "description": "リアルタイムボイスチェンジャー Realtime Voice Changer",
       "language": "TypeScript",
       "url": "https://github.com/w-okada/voice-changer",
-      "stars": "3,515",
-      "forked": "336",
+      "stars": "3,520",
+      "forked": "338",
       "builtBy": [
         {
           "name": "@w-okada",
@@ -146,16 +146,12 @@
       "description": "Implementation of \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
       "language": "Python",
       "url": "https://github.com/Zeqiang-Lai/DragGAN",
-      "stars": "811",
-      "forked": "68",
+      "stars": "825",
+      "forked": "70",
       "builtBy": [
         {
           "name": "@Zeqiang-Lai",
           "avatar": "https://avatars.githubusercontent.com/u/26198430?s=40&v=4"
-        },
-        {
-          "name": "@marwanmusa",
-          "avatar": "https://avatars.githubusercontent.com/u/101170033?s=40&v=4"
         }
       ],
       "starsToday": "312"
@@ -166,7 +162,7 @@
       "description": "🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
       "language": "Python",
       "url": "https://github.com/pengxiao-song/LaWGPT",
-      "stars": "3,614",
+      "stars": "3,615",
       "forked": "314",
       "builtBy": [
         {
@@ -186,8 +182,8 @@
       "description": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%",
       "language": "Python",
       "url": "https://github.com/kyegomez/tree-of-thoughts",
-      "stars": "778",
-      "forked": "79",
+      "stars": "789",
+      "forked": "81",
       "builtBy": [
         {
           "name": "@kyegomez",
@@ -210,8 +206,8 @@
       "description": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
       "language": "TypeScript",
       "url": "https://github.com/Blazity/next-enterprise",
-      "stars": "1,450",
-      "forked": "117",
+      "stars": "1,461",
+      "forked": "119",
       "builtBy": [
         {
           "name": "@bmstefanski",
@@ -234,8 +230,8 @@
       "description": "ranger-like terminal file manager written in Rust",
       "language": "Rust",
       "url": "https://github.com/kamiyaa/joshuto",
-      "stars": "1,625",
-      "forked": "82",
+      "stars": "1,633",
+      "forked": "83",
       "builtBy": [
         {
           "name": "@kamiyaa",
@@ -258,7 +254,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/41364823?s=40&v=4"
         }
       ],
-      "starsToday": "79"
+      "starsToday": "181"
     },
     {
       "author": "iryna-kondr",
@@ -266,7 +262,7 @@
       "description": "Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.",
       "language": "Python",
       "url": "https://github.com/iryna-kondr/scikit-llm",
-      "stars": "1,168",
+      "stars": "1,177",
       "forked": "93",
       "builtBy": [
         {
@@ -286,7 +282,7 @@
       "description": "SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.",
       "language": "",
       "url": "https://github.com/0nutation/SpeechGPT",
-      "stars": "377",
+      "stars": "379",
       "forked": "18",
       "builtBy": [
         {
@@ -306,7 +302,7 @@
       "description": "[🔥updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant",
       "language": "Jupyter Notebook",
       "url": "https://github.com/UFund-Me/Qbot",
-      "stars": "1,726",
+      "stars": "1,730",
       "forked": "180",
       "builtBy": [
         {
@@ -322,7 +318,7 @@
       "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
       "language": "Go",
       "url": "https://github.com/casbin/casbin",
-      "stars": "14,682",
+      "stars": "14,685",
       "forked": "1,571",
       "builtBy": [
         {
@@ -354,7 +350,7 @@
       "description": "⭐ 自行搭建的可先用 ModHeader 添加 X-Forwarded-For 请求头，对应 URL 是 wss://sydney.bing.com/sydney/ChatHub ，暂时可用 ，可参考 https://zhuanlan.zhihu.com/p/606655303 ⭐ 主站服务器转发的，相对直连官网，会卡很多，等后续看看有没有更好的方式，再提交版本更新。",
       "language": "HTML",
       "url": "https://github.com/adams549659584/go-proxy-bingai",
-      "stars": "1,175",
+      "stars": "1,178",
       "forked": "707",
       "builtBy": [
         {
@@ -370,7 +366,7 @@
       "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
       "language": "Python",
       "url": "https://github.com/BlinkDL/RWKV-LM",
-      "stars": "7,420",
+      "stars": "7,426",
       "forked": "487",
       "builtBy": [
         {
@@ -394,8 +390,8 @@
       "description": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
       "language": "Python",
       "url": "https://github.com/jaywalnut310/vits",
-      "stars": "4,063",
-      "forked": "860",
+      "stars": "4,066",
+      "forked": "861",
       "builtBy": [
         {
           "name": "@jaywalnut310",
@@ -418,8 +414,8 @@
       "description": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
       "language": "Python",
       "url": "https://github.com/csunny/DB-GPT",
-      "stars": "2,290",
-      "forked": "402",
+      "stars": "2,297",
+      "forked": "403",
       "builtBy": [
         {
           "name": "@csunny",
@@ -450,7 +446,7 @@
       "description": "Let us control diffusion models!",
       "language": "Python",
       "url": "https://github.com/lllyasviel/ControlNet",
-      "stars": "19,584",
+      "stars": "19,587",
       "forked": "1,831",
       "builtBy": [
         {
@@ -482,8 +478,8 @@
       "description": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
       "language": "TypeScript",
       "url": "https://github.com/anse-app/anse",
-      "stars": "632",
-      "forked": "130",
+      "stars": "641",
+      "forked": "131",
       "builtBy": [
         {
           "name": "@ddiu8081",
@@ -514,7 +510,7 @@
       "description": "An open source implementation of OpenAI's ChatGPT Code interpreter",
       "language": "Python",
       "url": "https://github.com/ricklamers/gpt-code-ui",
-      "stars": "1,291",
+      "stars": "1,296",
       "forked": "116",
       "builtBy": [
         {
@@ -534,7 +530,7 @@
       "description": "Free, ultrafast Copilot alternative for Vim and Neovim",
       "language": "Vim Script",
       "url": "https://github.com/Exafunction/codeium.vim",
-      "stars": "1,613",
+      "stars": "1,620",
       "forked": "38",
       "builtBy": [
         {
@@ -566,8 +562,8 @@
       "description": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
       "language": "",
       "url": "https://github.com/ysymyth/tree-of-thought-llm",
-      "stars": "802",
-      "forked": "39",
+      "stars": "810",
+      "forked": "40",
       "builtBy": [
         {
           "name": "@ysymyth",
@@ -582,7 +578,7 @@
       "description": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
       "language": "Python",
       "url": "https://github.com/mlc-ai/mlc-llm",
-      "stars": "6,982",
+      "stars": "6,988",
       "forked": "458",
       "builtBy": [
         {
@@ -614,7 +610,7 @@
       "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)",
       "language": "Python",
       "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
-      "stars": "9,320",
+      "stars": "9,322",
       "forked": "947",
       "builtBy": [
         {
@@ -648,7 +644,7 @@
       "description": "A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务",
       "language": "JavaScript",
       "url": "https://github.com/NaiboWang/EasySpider",
-      "stars": "6,189",
+      "stars": "6,193",
       "forked": "636",
       "builtBy": [
         {
@@ -676,7 +672,7 @@
       "description": "The library for web and native user interfaces",
       "language": "JavaScript",
       "url": "https://github.com/facebook/react",
-      "stars": "207,929",
+      "stars": "207,930",
       "forked": "43,402",
       "builtBy": [
         {
@@ -708,8 +704,8 @@
       "description": "Drag & drop UI to build your customized LLM flow using LangchainJS",
       "language": "JavaScript",
       "url": "https://github.com/FlowiseAI/Flowise",
-      "stars": "5,489",
-      "forked": "1,134",
+      "stars": "5,494",
+      "forked": "1,136",
       "builtBy": [
         {
           "name": "@HenryHengZJ",
@@ -772,7 +768,7 @@
       "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
       "language": "JavaScript",
       "url": "https://github.com/facebook/lexical",
-      "stars": "14,392",
+      "stars": "14,393",
       "forked": "1,031",
       "builtBy": [
         {
@@ -804,7 +800,7 @@
       "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
       "language": "JavaScript",
       "url": "https://github.com/mlc-ai/web-llm",
-      "stars": "5,842",
+      "stars": "5,843",
       "forked": "304",
       "builtBy": [
         {
@@ -836,8 +832,8 @@
       "description": "Explore Amazing Buttons animation for your next project. 🤩An initiative by GDSC-DYPCOE for Hactoberfest. 🚀",
       "language": "CSS",
       "url": "https://github.com/Spyware007/Animating-Buttons",
-      "stars": "114",
-      "forked": "278",
+      "stars": "115",
+      "forked": "279",
       "builtBy": [
         {
           "name": "@Spyware007",
@@ -868,7 +864,7 @@
       "description": "How smooth scroll should be",
       "language": "JavaScript",
       "url": "https://github.com/studio-freight/lenis",
-      "stars": "3,502",
+      "stars": "3,503",
       "forked": "150",
       "builtBy": [
         {
@@ -992,7 +988,7 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js",
-      "stars": "106,603",
+      "stars": "106,605",
       "forked": "23,950",
       "builtBy": [
         {
@@ -1024,7 +1020,7 @@
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "language": "JavaScript",
       "url": "https://github.com/pedroslopez/whatsapp-web.js",
-      "stars": "10,261",
+      "stars": "10,262",
       "forked": "2,409",
       "builtBy": [
         {
@@ -1108,7 +1104,7 @@
       "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
       "language": "JavaScript",
       "url": "https://github.com/ToolJet/ToolJet",
-      "stars": "19,175",
+      "stars": "19,177",
       "forked": "1,765",
       "builtBy": [
         {
@@ -1173,7 +1169,7 @@
       "language": "JavaScript",
       "url": "https://github.com/ed-roh/mern-social-media",
       "stars": "552",
-      "forked": "655",
+      "forked": "656",
       "builtBy": [
         {
           "name": "@ed-roh",
@@ -1189,7 +1185,7 @@
       "language": "JavaScript",
       "url": "https://github.com/axios/axios",
       "stars": "100,269",
-      "forked": "10,337",
+      "forked": "10,336",
       "builtBy": [
         {
           "name": "@jasonsaayman",
@@ -1220,8 +1216,8 @@
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms",
-      "stars": "170,272",
-      "forked": "27,943",
+      "stars": "170,275",
+      "forked": "27,944",
       "builtBy": [
         {
           "name": "@trekhleb",
@@ -1402,8 +1398,8 @@
       "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
       "language": "Python",
       "url": "https://github.com/facebookresearch/fairseq",
-      "stars": "24,785",
-      "forked": "5,666",
+      "stars": "24,815",
+      "forked": "5,668",
       "builtBy": [
         {
           "name": "@myleott",
@@ -1434,8 +1430,8 @@
       "description": "Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold",
       "language": "Python",
       "url": "https://github.com/JiauZhang/DragGAN",
-      "stars": "814",
-      "forked": "86",
+      "stars": "838",
+      "forked": "90",
       "builtBy": [
         {
           "name": "@JiauZhang",
@@ -1450,8 +1446,8 @@
       "description": "Implementation of \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
       "language": "Python",
       "url": "https://github.com/Zeqiang-Lai/DragGAN",
-      "stars": "811",
-      "forked": "68",
+      "stars": "825",
+      "forked": "70",
       "builtBy": [
         {
           "name": "@Zeqiang-Lai",
@@ -1470,7 +1466,7 @@
       "description": "🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
       "language": "Python",
       "url": "https://github.com/pengxiao-song/LaWGPT",
-      "stars": "3,614",
+      "stars": "3,615",
       "forked": "314",
       "builtBy": [
         {
@@ -1490,8 +1486,8 @@
       "description": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%",
       "language": "Python",
       "url": "https://github.com/kyegomez/tree-of-thoughts",
-      "stars": "778",
-      "forked": "79",
+      "stars": "789",
+      "forked": "81",
       "builtBy": [
         {
           "name": "@kyegomez",
@@ -1514,7 +1510,7 @@
       "description": "Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.",
       "language": "Python",
       "url": "https://github.com/iryna-kondr/scikit-llm",
-      "stars": "1,168",
+      "stars": "1,177",
       "forked": "93",
       "builtBy": [
         {
@@ -1534,7 +1530,7 @@
       "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
       "language": "Python",
       "url": "https://github.com/BlinkDL/RWKV-LM",
-      "stars": "7,420",
+      "stars": "7,426",
       "forked": "487",
       "builtBy": [
         {
@@ -1558,8 +1554,8 @@
       "description": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
       "language": "Python",
       "url": "https://github.com/jaywalnut310/vits",
-      "stars": "4,063",
-      "forked": "860",
+      "stars": "4,066",
+      "forked": "861",
       "builtBy": [
         {
           "name": "@jaywalnut310",
@@ -1582,8 +1578,8 @@
       "description": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
       "language": "Python",
       "url": "https://github.com/csunny/DB-GPT",
-      "stars": "2,290",
-      "forked": "402",
+      "stars": "2,297",
+      "forked": "403",
       "builtBy": [
         {
           "name": "@csunny",
@@ -1614,7 +1610,7 @@
       "description": "Let us control diffusion models!",
       "language": "Python",
       "url": "https://github.com/lllyasviel/ControlNet",
-      "stars": "19,584",
+      "stars": "19,587",
       "forked": "1,831",
       "builtBy": [
         {
@@ -1646,7 +1642,7 @@
       "description": "An open source implementation of OpenAI's ChatGPT Code interpreter",
       "language": "Python",
       "url": "https://github.com/ricklamers/gpt-code-ui",
-      "stars": "1,291",
+      "stars": "1,296",
       "forked": "116",
       "builtBy": [
         {
@@ -1666,7 +1662,7 @@
       "description": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
       "language": "Python",
       "url": "https://github.com/mlc-ai/mlc-llm",
-      "stars": "6,982",
+      "stars": "6,988",
       "forked": "458",
       "builtBy": [
         {
@@ -1698,7 +1694,7 @@
       "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)",
       "language": "Python",
       "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
-      "stars": "9,320",
+      "stars": "9,322",
       "forked": "947",
       "builtBy": [
         {
@@ -1822,8 +1818,8 @@
       "description": "⚡ Building applications with LLMs through composability ⚡",
       "language": "Python",
       "url": "https://github.com/hwchase17/langchain",
-      "stars": "41,755",
-      "forked": "4,688",
+      "stars": "41,765",
+      "forked": "4,689",
       "builtBy": [
         {
           "name": "@hwchase17",
@@ -1882,7 +1878,7 @@
       "description": "Collection of Summer 2023 & Summer 2024 tech internships!",
       "language": "Python",
       "url": "https://github.com/pittcsc/Summer2023-Internships",
-      "stars": "17,161",
+      "stars": "17,162",
       "forked": "1,801",
       "builtBy": [
         {
@@ -1914,7 +1910,7 @@
       "description": "This repo contains the data preparation, tokenization, training and inference code for BLOOMChat. BLOOMChat is a 176 billion parameter multilingual chat model based on BLOOM.",
       "language": "Python",
       "url": "https://github.com/sambanova/bloomchat",
-      "stars": "267",
+      "stars": "268",
       "forked": "13",
       "builtBy": [
         {
@@ -1938,7 +1934,7 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "url": "https://github.com/tiangolo/fastapi",
-      "stars": "58,251",
+      "stars": "58,255",
       "forked": "4,863",
       "builtBy": [
         {
@@ -2002,7 +1998,7 @@
       "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
       "language": "Python",
       "url": "https://github.com/SkalskiP/courses",
-      "stars": "2,233",
+      "stars": "2,237",
       "forked": "170",
       "builtBy": [
         {
@@ -2034,7 +2030,7 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/microsoft/i-Code",
-      "stars": "561",
+      "stars": "564",
       "forked": "41",
       "builtBy": [
         {
@@ -2068,8 +2064,8 @@
       "description": "リアルタイムボイスチェンジャー Realtime Voice Changer",
       "language": "TypeScript",
       "url": "https://github.com/w-okada/voice-changer",
-      "stars": "3,515",
-      "forked": "336",
+      "stars": "3,520",
+      "forked": "338",
       "builtBy": [
         {
           "name": "@w-okada",
@@ -2100,8 +2096,8 @@
       "description": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
       "language": "TypeScript",
       "url": "https://github.com/Blazity/next-enterprise",
-      "stars": "1,450",
-      "forked": "117",
+      "stars": "1,461",
+      "forked": "119",
       "builtBy": [
         {
           "name": "@bmstefanski",
@@ -2124,8 +2120,8 @@
       "description": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
       "language": "TypeScript",
       "url": "https://github.com/anse-app/anse",
-      "stars": "632",
-      "forked": "130",
+      "stars": "641",
+      "forked": "131",
       "builtBy": [
         {
           "name": "@ddiu8081",
@@ -2156,7 +2152,7 @@
       "description": "Building blocks for digital commerce",
       "language": "TypeScript",
       "url": "https://github.com/medusajs/medusa",
-      "stars": "18,140",
+      "stars": "18,141",
       "forked": "1,327",
       "builtBy": [
         {
@@ -2356,7 +2352,7 @@
       "description": "📊 Personalized stats about your time on TikTok.",
       "language": "TypeScript",
       "url": "https://github.com/vantezzen/wrapped",
-      "stars": "24",
+      "stars": "25",
       "forked": "1",
       "builtBy": [
         {
@@ -2436,7 +2432,7 @@
       "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
       "language": "TypeScript",
       "url": "https://github.com/storybookjs/storybook",
-      "stars": "78,761",
+      "stars": "78,760",
       "forked": "8,475",
       "builtBy": [
         {
@@ -2468,7 +2464,7 @@
       "description": "Authentication, simple and clean",
       "language": "TypeScript",
       "url": "https://github.com/pilcrowOnPaper/lucia",
-      "stars": "2,005",
+      "stars": "2,006",
       "forked": "170",
       "builtBy": [
         {
@@ -2532,7 +2528,7 @@
       "description": "Smart, Fast and Extensible Build System",
       "language": "TypeScript",
       "url": "https://github.com/nrwl/nx",
-      "stars": "17,627",
+      "stars": "17,629",
       "forked": "1,782",
       "builtBy": [
         {
@@ -2596,7 +2592,7 @@
       "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
       "language": "TypeScript",
       "url": "https://github.com/shadcn/ui",
-      "stars": "16,962",
+      "stars": "16,970",
       "forked": "706",
       "builtBy": [
         {
@@ -2788,7 +2784,7 @@
       "description": "The headless editor framework for web artisans.",
       "language": "TypeScript",
       "url": "https://github.com/ueberdosis/tiptap",
-      "stars": "19,114",
+      "stars": "19,115",
       "forked": "1,732",
       "builtBy": [
         {
@@ -2822,7 +2818,7 @@
       "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",
       "language": "Go",
       "url": "https://github.com/casbin/casbin",
-      "stars": "14,682",
+      "stars": "14,685",
       "forked": "1,571",
       "builtBy": [
         {
@@ -2854,7 +2850,7 @@
       "description": "An open source visual route tracking CLI tool",
       "language": "Go",
       "url": "https://github.com/sjlleo/nexttrace",
-      "stars": "1,778",
+      "stars": "1,779",
       "forked": "112",
       "builtBy": [
         {
@@ -2886,7 +2882,7 @@
       "description": "Protect and discover secrets using Gitleaks 🔑",
       "language": "Go",
       "url": "https://github.com/gitleaks/gitleaks",
-      "stars": "12,854",
+      "stars": "12,857",
       "forked": "1,201",
       "builtBy": [
         {
@@ -3014,7 +3010,7 @@
       "description": "OpenTelemetry Go API and SDK",
       "language": "Go",
       "url": "https://github.com/open-telemetry/opentelemetry-go",
-      "stars": "3,909",
+      "stars": "3,908",
       "forked": "872",
       "builtBy": [
         {
@@ -3110,7 +3106,7 @@
       "description": "Blazing fast, structured, leveled logging in Go.",
       "language": "Go",
       "url": "https://github.com/uber-go/zap",
-      "stars": "18,753",
+      "stars": "18,754",
       "forked": "1,327",
       "builtBy": [
         {
@@ -3174,7 +3170,7 @@
       "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
       "language": "Go",
       "url": "https://github.com/thanos-io/thanos",
-      "stars": "11,757",
+      "stars": "11,758",
       "forked": "1,867",
       "builtBy": [
         {
@@ -3330,7 +3326,7 @@
       "description": "Zero Allocation JSON Logger",
       "language": "Go",
       "url": "https://github.com/rs/zerolog",
-      "stars": "8,225",
+      "stars": "8,226",
       "forked": "477",
       "builtBy": [
         {
@@ -3362,7 +3358,7 @@
       "description": "Protobuf validation - v2 now in beta for Golang.",
       "language": "Go",
       "url": "https://github.com/bufbuild/protoc-gen-validate",
-      "stars": "3,234",
+      "stars": "3,235",
       "forked": "546",
       "builtBy": [
         {
@@ -3427,7 +3423,7 @@
       "language": "Go",
       "url": "https://github.com/prometheus/alertmanager",
       "stars": "5,699",
-      "forked": "1,999",
+      "forked": "2,000",
       "builtBy": [
         {
           "name": "@fabxc",
@@ -3555,7 +3551,7 @@
       "language": "Go",
       "url": "https://github.com/hashicorp/terraform-provider-azurerm",
       "stars": "4,004",
-      "forked": "4,080",
+      "forked": "4,079",
       "builtBy": [
         {
           "name": "@tombuildsstuff",
@@ -3604,7 +3600,7 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "url": "https://github.com/TheAlgorithms/Java",
-      "stars": "52,016",
+      "stars": "52,015",
       "forked": "17,294",
       "builtBy": [
         {
@@ -3637,7 +3633,7 @@
       "language": "Java",
       "url": "https://github.com/OpenAPITools/openapi-generator",
       "stars": "16,525",
-      "forked": "5,305",
+      "forked": "5,306",
       "builtBy": [
         {
           "name": "@wing328",
@@ -3660,7 +3656,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/1222165?s=40&v=4"
         }
       ],
-      "starsToday": "15"
+      "starsToday": "14"
     },
     {
       "author": "macrozheng",
@@ -3685,7 +3681,7 @@
       "language": "Java",
       "url": "https://github.com/facebook/react-native",
       "stars": "109,723",
-      "forked": "23,287",
+      "forked": "23,288",
       "builtBy": [
         {
           "name": "@reactjs-bot",
@@ -3844,7 +3840,7 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "url": "https://github.com/apache/kafka",
-      "stars": "24,976",
+      "stars": "24,978",
       "forked": "12,640",
       "builtBy": [
         {
@@ -3868,7 +3864,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/13164074?s=40&v=4"
         }
       ],
-      "starsToday": "12"
+      "starsToday": "17"
     },
     {
       "author": "kkevsekk1",
@@ -3925,7 +3921,7 @@
       "language": "Java",
       "url": "https://github.com/apache/calcite",
       "stars": "3,860",
-      "forked": "1,987",
+      "forked": "1,988",
       "builtBy": [
         {
           "name": "@julianhyde",
@@ -4189,7 +4185,7 @@
       "language": "Java",
       "url": "https://github.com/alibaba/nacos",
       "stars": "26,446",
-      "forked": "11,812",
+      "forked": "11,813",
       "builtBy": [
         {
           "name": "@nkorange",
@@ -4220,7 +4216,7 @@
       "description": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
       "language": "Java",
       "url": "https://github.com/alibaba/easyexcel",
-      "stars": "27,838",
+      "stars": "27,839",
       "forked": "7,070",
       "builtBy": [
         {
