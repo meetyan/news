@@ -6,8 +6,8 @@
       "description": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
       "language": "Python",
       "url": "https://github.com/AntonOsika/gpt-engineer",
-      "stars": "10,332",
-      "forked": "1,730",
+      "stars": "10,382",
+      "forked": "1,746",
       "builtBy": [
         {
           "name": "@AntonOsika",
@@ -38,8 +38,8 @@
       "description": "Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model.",
       "language": "Jupyter Notebook",
       "url": "https://github.com/AI4Finance-Foundation/FinGPT",
-      "stars": "3,083",
-      "forked": "565",
+      "stars": "3,101",
+      "forked": "574",
       "builtBy": [
         {
           "name": "@XiaoYangLiu-FinRL",
@@ -70,8 +70,8 @@
       "description": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
       "language": "Java",
       "url": "https://github.com/alibaba/Chat2DB",
-      "stars": "3,995",
-      "forked": "729",
+      "stars": "4,009",
+      "forked": "740",
       "builtBy": [
         {
           "name": "@zhuangjiaju",
@@ -102,8 +102,8 @@
       "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "url": "https://github.com/openai/openai-cookbook",
-      "stars": "40,145",
-      "forked": "6,202",
+      "stars": "40,153",
+      "forked": "6,209",
       "builtBy": [
         {
           "name": "@ted-at-openai",
@@ -134,7 +134,7 @@
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "language": "Jupyter Notebook",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "stars": "9,110",
+      "stars": "9,117",
       "forked": "3,195",
       "builtBy": [
         {
@@ -166,7 +166,7 @@
       "description": "Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, \"Self-supervised learning from images with a joint-embedding predictive architecture.\"",
       "language": "Python",
       "url": "https://github.com/facebookresearch/ijepa",
-      "stars": "1,387",
+      "stars": "1,388",
       "forked": "232",
       "builtBy": [
         {
@@ -182,8 +182,8 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/Victorwz/LongMem",
-      "stars": "344",
-      "forked": "59",
+      "stars": "345",
+      "forked": "62",
       "builtBy": [
         {
           "name": "@Victorwz",
@@ -206,8 +206,8 @@
       "description": "⚡ Building applications with LLMs through composability ⚡",
       "language": "Python",
       "url": "https://github.com/hwchase17/langchain",
-      "stars": "48,295",
-      "forked": "5,815",
+      "stars": "48,303",
+      "forked": "5,816",
       "builtBy": [
         {
           "name": "@hwchase17",
@@ -238,8 +238,8 @@
       "description": "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
       "language": "JavaScript",
       "url": "https://github.com/sunner/ChatALL",
-      "stars": "6,714",
-      "forked": "800",
+      "stars": "6,717",
+      "forked": "802",
       "builtBy": [
         {
           "name": "@sunner",
@@ -270,7 +270,7 @@
       "description": "Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)",
       "language": "Python",
       "url": "https://github.com/hiyouga/LLaMA-Efficient-Tuning",
-      "stars": "460",
+      "stars": "462",
       "forked": "48",
       "builtBy": [
         {
@@ -294,8 +294,8 @@
       "description": "YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.",
       "language": "C++",
       "url": "https://github.com/YimMenu/YimMenu",
-      "stars": "571",
-      "forked": "259",
+      "stars": "573",
+      "forked": "261",
       "builtBy": [
         {
           "name": "@Yimura",
@@ -326,7 +326,7 @@
       "description": "A curated list of awesome Swift Macros",
       "language": "",
       "url": "https://github.com/krzysztofzablocki/Swift-Macros",
-      "stars": "452",
+      "stars": "461",
       "forked": "24",
       "builtBy": [
         {
@@ -358,7 +358,7 @@
       "description": "👁‍🗨 Rare and exotic sats",
       "language": "Rust",
       "url": "https://github.com/ordinals/ord",
-      "stars": "2,069",
+      "stars": "2,071",
       "forked": "666",
       "builtBy": [
         {
@@ -386,7 +386,7 @@
       "description": "A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.",
       "language": "Jupyter Notebook",
       "url": "https://github.com/tatsu-lab/alpaca_eval",
-      "stars": "178",
+      "stars": "179",
       "forked": "23",
       "builtBy": [
         {
@@ -402,6 +402,10 @@
           "avatar": "https://avatars.githubusercontent.com/u/12689993?s=40&v=4"
         },
         {
+          "name": "@sanderland",
+          "avatar": "https://avatars.githubusercontent.com/u/48946947?s=40&v=4"
+        },
+        {
           "name": "@HaniItani",
           "avatar": "https://avatars.githubusercontent.com/u/41548851?s=40&v=4"
         }
@@ -414,8 +418,8 @@
       "description": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答",
       "language": "Python",
       "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
-      "stars": "9,359",
-      "forked": "1,318",
+      "stars": "9,363",
+      "forked": "1,319",
       "builtBy": [
         {
           "name": "@imClumsyPanda",
@@ -474,7 +478,7 @@
       "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.",
       "language": "Python",
       "url": "https://github.com/lm-sys/FastChat",
-      "stars": "23,309",
+      "stars": "23,312",
       "forked": "2,655",
       "builtBy": [
         {
@@ -506,8 +510,8 @@
       "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
       "language": "Python",
       "url": "https://github.com/microsoft/DeepSpeed",
-      "stars": "25,957",
-      "forked": "3,107",
+      "stars": "25,961",
+      "forked": "3,108",
       "builtBy": [
         {
           "name": "@jeffra",
@@ -538,8 +542,8 @@
       "description": "Smart, Fast and Extensible Build System",
       "language": "TypeScript",
       "url": "https://github.com/nrwl/nx",
-      "stars": "17,911",
-      "forked": "1,803",
+      "stars": "17,912",
+      "forked": "1,804",
       "builtBy": [
         {
           "name": "@vsavkin",
@@ -570,7 +574,7 @@
       "description": "Low-cost LS/FS/HS USB sniffer with Wireshark interface",
       "language": "C",
       "url": "https://github.com/ataradov/usb-sniffer",
-      "stars": "268",
+      "stars": "271",
       "forked": "17",
       "builtBy": [
         {
@@ -587,7 +591,7 @@
       "language": "Python",
       "url": "https://github.com/open-mmlab/mmagic",
       "stars": "4,987",
-      "forked": "846",
+      "forked": "848",
       "builtBy": [
         {
           "name": "@Yshuo-Li",
@@ -618,8 +622,8 @@
       "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
       "language": "Python",
       "url": "https://github.com/imartinez/privateGPT",
-      "stars": "30,561",
-      "forked": "3,561",
+      "stars": "30,567",
+      "forked": "3,562",
       "builtBy": [
         {
           "name": "@imartinez",
@@ -651,7 +655,7 @@
       "language": "HTML",
       "url": "https://github.com/rvaidun/befake",
       "stars": "193",
-      "forked": "90",
+      "forked": "91",
       "builtBy": [
         {
           "name": "@rvaidun",
@@ -682,8 +686,8 @@
       "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "url": "https://github.com/Uniswap/v4-core",
-      "stars": "845",
-      "forked": "256",
+      "stars": "846",
+      "forked": "258",
       "builtBy": [
         {
           "name": "@moodysalem",
@@ -714,7 +718,7 @@
       "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
       "language": "Zig",
       "url": "https://github.com/ziglang/zig",
-      "stars": "23,027",
+      "stars": "23,029",
       "forked": "1,692",
       "builtBy": [
         {
@@ -748,8 +752,8 @@
       "description": "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
       "language": "JavaScript",
       "url": "https://github.com/sunner/ChatALL",
-      "stars": "6,714",
-      "forked": "800",
+      "stars": "6,717",
+      "forked": "802",
       "builtBy": [
         {
           "name": "@sunner",
@@ -780,7 +784,7 @@
       "description": "Textures and fonts for the Minecraft Title Generator Blockbench plugin",
       "language": "JavaScript",
       "url": "https://github.com/ewanhowell5195/MinecraftTitleGenerator",
-      "stars": "58",
+      "stars": "60",
       "forked": "27",
       "builtBy": [
         {
@@ -845,7 +849,7 @@
       "language": "JavaScript",
       "url": "https://github.com/100xDevs-hkirat/Week-1-assignment-with-tests",
       "stars": "20",
-      "forked": "379",
+      "forked": "380",
       "builtBy": [],
       "starsToday": "7"
     },
@@ -855,7 +859,7 @@
       "description": "the package manager for JavaScript",
       "language": "JavaScript",
       "url": "https://github.com/npm/cli",
-      "stars": "7,215",
+      "stars": "7,216",
       "forked": "2,726",
       "builtBy": [
         {
@@ -919,8 +923,8 @@
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "JavaScript",
       "url": "https://github.com/odoo/odoo",
-      "stars": "29,502",
-      "forked": "18,941",
+      "stars": "29,504",
+      "forked": "18,943",
       "builtBy": [
         {
           "name": "@tde-banana-odoo",
@@ -952,7 +956,7 @@
       "language": "JavaScript",
       "url": "https://github.com/100xDevs-hkirat/Week-1-assignment",
       "stars": "95",
-      "forked": "512",
+      "forked": "513",
       "builtBy": [
         {
           "name": "@hkirat",
@@ -999,7 +1003,7 @@
       "description": "The library for web and native user interfaces",
       "language": "JavaScript",
       "url": "https://github.com/facebook/react",
-      "stars": "209,105",
+      "stars": "209,109",
       "forked": "43,704",
       "builtBy": [
         {
@@ -1063,8 +1067,8 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js",
-      "stars": "107,844",
-      "forked": "24,112",
+      "stars": "107,845",
+      "forked": "24,113",
       "builtBy": [
         {
           "name": "@ijjk",
@@ -1127,8 +1131,8 @@
       "description": "JavaScript library of crypto standards.",
       "language": "JavaScript",
       "url": "https://github.com/brix/crypto-js",
-      "stars": "14,459",
-      "forked": "2,161",
+      "stars": "14,461",
+      "forked": "2,164",
       "builtBy": [
         {
           "name": "@evanvosberg",
@@ -1223,7 +1227,7 @@
       "description": "Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！",
       "language": "JavaScript",
       "url": "https://github.com/TheRamU/Fay",
-      "stars": "3,789",
+      "stars": "3,790",
       "forked": "731",
       "builtBy": [
         {
@@ -1247,7 +1251,7 @@
       "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
       "language": "JavaScript",
       "url": "https://github.com/iamkun/dayjs",
-      "stars": "43,336",
+      "stars": "43,337",
       "forked": "2,187",
       "builtBy": [
         {
@@ -1296,7 +1300,7 @@
       "language": "JavaScript",
       "url": "https://github.com/adrianhajdin/project_react_native_jobs",
       "stars": "549",
-      "forked": "150",
+      "forked": "151",
       "builtBy": [
         {
           "name": "@adrianhajdin",
@@ -1343,7 +1347,7 @@
       "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
       "language": "JavaScript",
       "url": "https://github.com/webpack/webpack",
-      "stars": "63,177",
+      "stars": "63,178",
       "forked": "8,762",
       "builtBy": [
         {
@@ -1407,7 +1411,7 @@
       "description": "A web-based tool to view, edit, format, and validate JSON",
       "language": "JavaScript",
       "url": "https://github.com/josdejong/jsoneditor",
-      "stars": "10,394",
+      "stars": "10,395",
       "forked": "1,990",
       "builtBy": [
         {
@@ -1473,8 +1477,8 @@
       "description": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
       "language": "Python",
       "url": "https://github.com/AntonOsika/gpt-engineer",
-      "stars": "10,332",
-      "forked": "1,730",
+      "stars": "10,382",
+      "forked": "1,746",
       "builtBy": [
         {
           "name": "@AntonOsika",
@@ -1505,7 +1509,7 @@
       "description": "Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, \"Self-supervised learning from images with a joint-embedding predictive architecture.\"",
       "language": "Python",
       "url": "https://github.com/facebookresearch/ijepa",
-      "stars": "1,387",
+      "stars": "1,388",
       "forked": "232",
       "builtBy": [
         {
@@ -1521,8 +1525,8 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/Victorwz/LongMem",
-      "stars": "344",
-      "forked": "59",
+      "stars": "345",
+      "forked": "62",
       "builtBy": [
         {
           "name": "@Victorwz",
@@ -1545,8 +1549,8 @@
       "description": "⚡ Building applications with LLMs through composability ⚡",
       "language": "Python",
       "url": "https://github.com/hwchase17/langchain",
-      "stars": "48,295",
-      "forked": "5,815",
+      "stars": "48,303",
+      "forked": "5,816",
       "builtBy": [
         {
           "name": "@hwchase17",
@@ -1577,7 +1581,7 @@
       "description": "Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)",
       "language": "Python",
       "url": "https://github.com/hiyouga/LLaMA-Efficient-Tuning",
-      "stars": "460",
+      "stars": "462",
       "forked": "48",
       "builtBy": [
         {
@@ -1601,8 +1605,8 @@
       "description": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答",
       "language": "Python",
       "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
-      "stars": "9,359",
-      "forked": "1,318",
+      "stars": "9,363",
+      "forked": "1,319",
       "builtBy": [
         {
           "name": "@imClumsyPanda",
@@ -1633,7 +1637,7 @@
       "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.",
       "language": "Python",
       "url": "https://github.com/lm-sys/FastChat",
-      "stars": "23,309",
+      "stars": "23,312",
       "forked": "2,655",
       "builtBy": [
         {
@@ -1665,8 +1669,8 @@
       "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
       "language": "Python",
       "url": "https://github.com/microsoft/DeepSpeed",
-      "stars": "25,957",
-      "forked": "3,107",
+      "stars": "25,961",
+      "forked": "3,108",
       "builtBy": [
         {
           "name": "@jeffra",
@@ -1698,7 +1702,7 @@
       "language": "Python",
       "url": "https://github.com/open-mmlab/mmagic",
       "stars": "4,987",
-      "forked": "846",
+      "forked": "848",
       "builtBy": [
         {
           "name": "@Yshuo-Li",
@@ -1729,8 +1733,8 @@
       "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
       "language": "Python",
       "url": "https://github.com/imartinez/privateGPT",
-      "stars": "30,561",
-      "forked": "3,561",
+      "stars": "30,567",
+      "forked": "3,562",
       "builtBy": [
         {
           "name": "@imartinez",
@@ -1761,7 +1765,7 @@
       "description": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",
       "language": "Python",
       "url": "https://github.com/nlpxucan/WizardLM",
-      "stars": "2,600",
+      "stars": "2,602",
       "forked": "145",
       "builtBy": [
         {
@@ -1825,8 +1829,8 @@
       "description": "Stable Diffusion with Core ML on Apple Silicon",
       "language": "Python",
       "url": "https://github.com/apple/ml-stable-diffusion",
-      "stars": "12,973",
-      "forked": "613",
+      "stars": "12,976",
+      "forked": "615",
       "builtBy": [
         {
           "name": "@atiorh",
@@ -1857,7 +1861,7 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "stars": "222,298",
+      "stars": "222,299",
       "forked": "39,369",
       "builtBy": [
         {
@@ -1889,7 +1893,7 @@
       "description": "Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf",
       "language": "Python",
       "url": "https://github.com/h2oai/h2ogpt",
-      "stars": "2,335",
+      "stars": "2,337",
       "forked": "181",
       "builtBy": [
         {
@@ -1953,7 +1957,7 @@
       "description": "An orchestration platform for the development, production, and observation of data assets.",
       "language": "Python",
       "url": "https://github.com/dagster-io/dagster",
-      "stars": "7,667",
+      "stars": "7,668",
       "forked": "966",
       "builtBy": [
         {
@@ -2009,7 +2013,7 @@
       "description": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
       "language": "Python",
       "url": "https://github.com/opengeos/segment-geospatial",
-      "stars": "1,748",
+      "stars": "1,749",
       "forked": "145",
       "builtBy": [
         {
@@ -2021,16 +2025,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/10510895?s=40&v=4"
         },
         {
-          "name": "@djm93dev",
-          "avatar": "https://avatars.githubusercontent.com/u/101536185?s=40&v=4"
-        },
-        {
           "name": "@darrenwiens",
           "avatar": "https://avatars.githubusercontent.com/u/13876814?s=40&v=4"
         },
         {
           "name": "@LucasOsco",
           "avatar": "https://avatars.githubusercontent.com/u/67289705?s=40&v=4"
+        },
+        {
+          "name": "@djm93dev",
+          "avatar": "https://avatars.githubusercontent.com/u/101536185?s=40&v=4"
         }
       ],
       "starsToday": "28"
@@ -2061,8 +2065,8 @@
       "description": "one-click deepfake (face swap)",
       "language": "Python",
       "url": "https://github.com/s0md3v/roop",
-      "stars": "11,161",
-      "forked": "1,564",
+      "stars": "11,179",
+      "forked": "1,570",
       "builtBy": [
         {
           "name": "@s0md3v",
@@ -2093,7 +2097,7 @@
       "description": "Chinese-LLaMA 、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集",
       "language": "Python",
       "url": "https://github.com/CVI-SZU/Linly",
-      "stars": "1,992",
+      "stars": "1,993",
       "forked": "168",
       "builtBy": [
         {
@@ -2117,8 +2121,8 @@
       "description": "Python - 100天从新手到大师",
       "language": "Python",
       "url": "https://github.com/jackfrued/Python-100-Days",
-      "stars": "136,817",
-      "forked": "49,276",
+      "stars": "136,819",
+      "forked": "49,278",
       "builtBy": [
         {
           "name": "@jackfrued",
@@ -2149,7 +2153,7 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "url": "https://github.com/public-apis/public-apis",
-      "stars": "244,483",
+      "stars": "244,485",
       "forked": "27,876",
       "builtBy": [
         {
@@ -2181,7 +2185,7 @@
       "description": "Gorilla: An API store for LLMs",
       "language": "Python",
       "url": "https://github.com/ShishirPatil/gorilla",
-      "stars": "4,052",
+      "stars": "4,053",
       "forked": "241",
       "builtBy": [
         {
@@ -2215,8 +2219,8 @@
       "description": "Smart, Fast and Extensible Build System",
       "language": "TypeScript",
       "url": "https://github.com/nrwl/nx",
-      "stars": "17,911",
-      "forked": "1,803",
+      "stars": "17,912",
+      "forked": "1,804",
       "builtBy": [
         {
           "name": "@vsavkin",
@@ -2247,8 +2251,8 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/vscode",
-      "stars": "147,363",
-      "forked": "25,937",
+      "stars": "147,364",
+      "forked": "25,938",
       "builtBy": [
         {
           "name": "@bpasero",
@@ -2279,7 +2283,7 @@
       "description": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.",
       "language": "TypeScript",
       "url": "https://github.com/langgenius/dify",
-      "stars": "4,681",
+      "stars": "4,683",
       "forked": "656",
       "builtBy": [
         {
@@ -2344,7 +2348,7 @@
       "language": "TypeScript",
       "url": "https://github.com/ant-design/ant-design",
       "stars": "86,333",
-      "forked": "40,250",
+      "forked": "40,253",
       "builtBy": [
         {
           "name": "@afc163",
@@ -2407,7 +2411,7 @@
       "description": "Document Chatbot — multiple files. Powered by GPT / Embedding.",
       "language": "TypeScript",
       "url": "https://github.com/guangzhengli/ChatFiles",
-      "stars": "2,134",
+      "stars": "2,135",
       "forked": "321",
       "builtBy": [
         {
@@ -2439,7 +2443,7 @@
       "description": "This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.",
       "language": "TypeScript",
       "url": "https://github.com/Sh4yy/cloudflare-email",
-      "stars": "587",
+      "stars": "588",
       "forked": "32",
       "builtBy": [
         {
@@ -2555,8 +2559,8 @@
       "description": "Amplication is a flexible open-source Node.js app development platform. It helps you build production-ready Node.js backend without wasting time on repetitive coding.",
       "language": "TypeScript",
       "url": "https://github.com/amplication/amplication",
-      "stars": "10,472",
-      "forked": "964",
+      "stars": "10,475",
+      "forked": "965",
       "builtBy": [
         {
           "name": "@yuval-hazaz",
@@ -2619,7 +2623,7 @@
       "description": "Authentication, simple and clean",
       "language": "TypeScript",
       "url": "https://github.com/pilcrowOnPaper/lucia",
-      "stars": "2,235",
+      "stars": "2,236",
       "forked": "210",
       "builtBy": [
         {
@@ -2651,7 +2655,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
       "url": "https://github.com/microsoft/TypeScript",
-      "stars": "92,071",
+      "stars": "92,073",
       "forked": "11,853",
       "builtBy": [
         {
@@ -2683,8 +2687,8 @@
       "description": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。",
       "language": "TypeScript",
       "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
-      "stars": "32,403",
-      "forked": "30,506",
+      "stars": "32,416",
+      "forked": "30,517",
       "builtBy": [
         {
           "name": "@Yidadaa",
@@ -2875,7 +2879,7 @@
       "description": "Building blocks for digital commerce",
       "language": "TypeScript",
       "url": "https://github.com/medusajs/medusa",
-      "stars": "18,420",
+      "stars": "18,421",
       "forked": "1,368",
       "builtBy": [
         {
@@ -2971,7 +2975,7 @@
       "description": "The modern web developer’s platform",
       "language": "TypeScript",
       "url": "https://github.com/angular/angular",
-      "stars": "88,648",
+      "stars": "88,650",
       "forked": "23,727",
       "builtBy": [
         {
@@ -3037,7 +3041,7 @@
       "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "url": "https://github.com/moby/moby",
-      "stars": "66,134",
+      "stars": "66,135",
       "forked": "18,712",
       "builtBy": [
         {
@@ -3133,8 +3137,8 @@
       "description": "🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。",
       "language": "Go",
       "url": "https://github.com/1Panel-dev/1Panel",
-      "stars": "5,910",
-      "forked": "476",
+      "stars": "5,915",
+      "forked": "477",
       "builtBy": [
         {
           "name": "@zhengkunwang223",
@@ -3181,7 +3185,7 @@
       "description": "🎒 飞书 ×（GPT-4 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
       "language": "Go",
       "url": "https://github.com/ConnectAI-E/Feishu-OpenAI",
-      "stars": "4,520",
+      "stars": "4,521",
       "forked": "777",
       "builtBy": [
         {
@@ -3213,8 +3217,8 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
       "language": "Go",
       "url": "https://github.com/XTLS/Xray-core",
-      "stars": "14,583",
-      "forked": "2,308",
+      "stars": "14,582",
+      "forked": "2,309",
       "builtBy": [
         {
           "name": "@RPRX",
@@ -3277,7 +3281,7 @@
       "description": "JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",
       "language": "Go",
       "url": "https://github.com/paypal/junodb",
-      "stars": "1,728",
+      "stars": "1,730",
       "forked": "98",
       "builtBy": [
         {
@@ -3373,7 +3377,7 @@
       "description": "Open-Source Phishing Toolkit",
       "language": "Go",
       "url": "https://github.com/gophish/gophish",
-      "stars": "9,188",
+      "stars": "9,189",
       "forked": "1,740",
       "builtBy": [
         {
@@ -3565,7 +3569,7 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "url": "https://github.com/prometheus/prometheus",
-      "stars": "48,649",
+      "stars": "48,650",
       "forked": "8,228",
       "builtBy": [
         {
@@ -3597,7 +3601,7 @@
       "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
       "language": "Go",
       "url": "https://github.com/grpc-ecosystem/grpc-gateway",
-      "stars": "15,621",
+      "stars": "15,622",
       "forked": "2,010",
       "builtBy": [
         {
@@ -3693,7 +3697,7 @@
       "description": "🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",
       "language": "Go",
       "url": "https://github.com/go-skynet/LocalAI",
-      "stars": "7,098",
+      "stars": "7,102",
       "forked": "667",
       "builtBy": [
         {
@@ -3791,8 +3795,8 @@
       "description": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
       "language": "Java",
       "url": "https://github.com/alibaba/Chat2DB",
-      "stars": "3,995",
-      "forked": "729",
+      "stars": "4,009",
+      "forked": "740",
       "builtBy": [
         {
           "name": "@zhuangjiaju",
@@ -3823,7 +3827,7 @@
       "description": "人人可用的开源数据可视化分析工具。",
       "language": "Java",
       "url": "https://github.com/dataease/dataease",
-      "stars": "11,517",
+      "stars": "11,518",
       "forked": "2,232",
       "builtBy": [
         {
@@ -3919,7 +3923,7 @@
       "description": "An extensible media player for Android",
       "language": "Java",
       "url": "https://github.com/google/ExoPlayer",
-      "stars": "20,789",
+      "stars": "20,790",
       "forked": "5,972",
       "builtBy": [
         {
@@ -4047,7 +4051,7 @@
       "description": "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learni…",
       "language": "Java",
       "url": "https://github.com/deeplearning4j/deeplearning4j",
-      "stars": "12,992",
+      "stars": "12,993",
       "forked": "4,961",
       "builtBy": [
         {
@@ -4288,7 +4292,7 @@
       "language": "Java",
       "url": "https://github.com/google/guava",
       "stars": "47,671",
-      "forked": "10,587",
+      "forked": "10,588",
       "builtBy": [
         {
           "name": "@cpovirk",
@@ -4320,7 +4324,7 @@
       "language": "Java",
       "url": "https://github.com/devopshydclub/vprofile-project",
       "stars": "1,107",
-      "forked": "4,874",
+      "forked": "4,877",
       "builtBy": [
         {
           "name": "@devopshydclub",
@@ -4351,7 +4355,7 @@
       "description": "OpenAI GPT-3 Api Client in Java",
       "language": "Java",
       "url": "https://github.com/TheoKanning/openai-java",
-      "stars": "3,185",
+      "stars": "3,186",
       "forked": "809",
       "builtBy": [
         {
@@ -4539,7 +4543,7 @@
       "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
       "language": "Java",
       "url": "https://github.com/alibaba/canal",
-      "stars": "25,877",
+      "stars": "25,878",
       "forked": "7,275",
       "builtBy": [
         {
