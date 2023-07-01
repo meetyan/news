@@ -618,5 +618,20 @@
     "title": "神经网络为什么具有容错性？",
     "description": "一些文献研究表明神经网络，例如DNN,CNN,SNN，可以在数据(权重，特征图等)一定程度出错时保持输出正确率基本不变(比如储存器出错，使存储的数据某些bit翻转，或计算过程中某些硬件失效，使乘加运算出错，一般网络可容忍的出错率大概在10e-6左右)，重训练等方法也可以增强神经网络对错误的容忍程度。这种容错性的来源是什么，如何更好的增强神经网络的容错性？",
     "url": "https://api.zhihu.com/questions/609296871"
+  },
+  {
+    "title": "2023 LPL 夏季赛 Uzi 招牌 VN 登场，EDG 2:1 击败 WE，如何评价这场比赛？",
+    "description": "",
+    "url": "https://api.zhihu.com/questions/609805906"
+  },
+  {
+    "title": "如何看待 2023 年频繁的混乱天气？",
+    "description": "什么原因？",
+    "url": "https://api.zhihu.com/questions/597012158"
+  },
+  {
+    "title": "想学习大语言模型(LLM)，应该从哪个开源模型开始？",
+    "description": "在校学生，最近看ChatGPT这么火也想学习一下，GPT-2的模型稍微看懂了。然后看开源的模型很多，ChatGLM，CPM，Llama，bloom等，从哪个模型开始学习比较好？",
+    "url": "https://api.zhihu.com/questions/608820310"
   }
 ]
