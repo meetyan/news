@@ -6,8 +6,8 @@
       "description": "AI companions with memory: a lightweight stack to create and host your own AI companions",
       "language": "TypeScript",
       "url": "https://github.com/a16z-infra/companion-app",
-      "stars": "3,134",
-      "forked": "297",
+      "stars": "3,174",
+      "forked": "300",
       "builtBy": [
         {
           "name": "@ykhli",
@@ -34,8 +34,8 @@
       "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
       "language": "Python",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": "1,526",
-      "forked": "167",
+      "stars": "1,543",
+      "forked": "169",
       "builtBy": [
         {
           "name": "@assafelovic",
@@ -66,8 +66,8 @@
       "description": "BlackLotus UEFI Windows Bootkit",
       "language": "C",
       "url": "https://github.com/ldpreload/BlackLotus",
-      "stars": "602",
-      "forked": "201",
+      "stars": "609",
+      "forked": "203",
       "builtBy": [
         {
           "name": "@ldpreload",
@@ -82,8 +82,8 @@
       "description": "Export all bike details (such as encryption key) of your VanMoof bikes.",
       "language": "TypeScript",
       "url": "https://github.com/grossartig/vanmoof-encryption-key-exporter",
-      "stars": "261",
-      "forked": "22",
+      "stars": "265",
+      "forked": "23",
       "builtBy": [
         {
           "name": "@Justus-D",
@@ -110,7 +110,7 @@
       "description": "A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",
       "language": "TypeScript",
       "url": "https://github.com/a16z-infra/ai-getting-started",
-      "stars": "3,181",
+      "stars": "3,186",
       "forked": "565",
       "builtBy": [
         {
@@ -142,7 +142,7 @@
       "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
       "language": "Swift",
       "url": "https://github.com/danielgindi/Charts",
-      "stars": "26,845",
+      "stars": "26,846",
       "forked": "5,914",
       "builtBy": [
         {
@@ -171,11 +171,11 @@
     {
       "author": "labmlai",
       "repo": "annotated_deep_learning_paper_implementations",
-      "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+      "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
       "language": "Jupyter Notebook",
       "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
-      "stars": "29,025",
-      "forked": "3,093",
+      "stars": "29,044",
+      "forked": "3,095",
       "builtBy": [
         {
           "name": "@vpj",
@@ -206,7 +206,7 @@
       "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
       "language": "Go",
       "url": "https://github.com/gorilla/mux",
-      "stars": "18,328",
+      "stars": "18,329",
       "forked": "1,771",
       "builtBy": [
         {
@@ -238,7 +238,7 @@
       "description": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
       "language": "Python",
       "url": "https://github.com/wandb/wandb",
-      "stars": "6,444",
+      "stars": "6,449",
       "forked": "511",
       "builtBy": [
         {
@@ -270,7 +270,7 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "stars": "8,615",
+      "stars": "8,618",
       "forked": "1,084",
       "builtBy": [
         {
@@ -302,7 +302,7 @@
       "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
       "language": "C#",
       "url": "https://github.com/dotnet/efcore",
-      "stars": "12,631",
+      "stars": "12,632",
       "forked": "2,973",
       "builtBy": [
         {
@@ -334,7 +334,7 @@
       "description": "Social networking technology created by Bluesky",
       "language": "TypeScript",
       "url": "https://github.com/bluesky-social/atproto",
-      "stars": "4,659",
+      "stars": "4,662",
       "forked": "305",
       "builtBy": [
         {
@@ -366,7 +366,7 @@
       "description": "AI Toolkit for Healthcare Imaging",
       "language": "Python",
       "url": "https://github.com/Project-MONAI/MONAI",
-      "stars": "4,342",
+      "stars": "4,344",
       "forked": "833",
       "builtBy": [
         {
@@ -398,8 +398,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "url": "https://github.com/flutter/flutter",
-      "stars": "155,024",
-      "forked": "25,673",
+      "stars": "155,031",
+      "forked": "25,675",
       "builtBy": [
         {
           "name": "@engine-flutter-autoroll",
@@ -430,7 +430,7 @@
       "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
       "language": "Go",
       "url": "https://github.com/cosmos/cosmos-sdk",
-      "stars": "5,317",
+      "stars": "5,320",
       "forked": "2,875",
       "builtBy": [
         {
@@ -462,7 +462,7 @@
       "description": "ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!",
       "language": "Shell",
       "url": "https://github.com/ASHWIN990/ADB-Toolkit",
-      "stars": "1,055",
+      "stars": "1,056",
       "forked": "178",
       "builtBy": [
         {
@@ -514,7 +514,7 @@
       "description": "Official implementation of AnimateDiff.",
       "language": "Python",
       "url": "https://github.com/guoyww/AnimateDiff",
-      "stars": "994",
+      "stars": "999",
       "forked": "63",
       "builtBy": [
         {
@@ -534,7 +534,7 @@
       "description": "",
       "language": "HTML",
       "url": "https://github.com/safak/react-admin-ui",
-      "stars": "39",
+      "stars": "40",
       "forked": "22",
       "builtBy": [],
       "starsToday": "3"
@@ -545,7 +545,7 @@
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "JavaScript",
       "url": "https://github.com/cypress-io/cypress",
-      "stars": "44,100",
+      "stars": "44,105",
       "forked": "2,921",
       "builtBy": [
         {
@@ -577,7 +577,7 @@
       "description": "Real-time face swap for PC streaming or video calls",
       "language": "Python",
       "url": "https://github.com/iperov/DeepFaceLive",
-      "stars": "15,741",
+      "stars": "15,747",
       "forked": "2,270",
       "builtBy": [
         {
@@ -641,7 +641,7 @@
       "description": "Highcharts JS, the JavaScript charting framework",
       "language": "TypeScript",
       "url": "https://github.com/highcharts/highcharts",
-      "stars": "11,243",
+      "stars": "11,248",
       "forked": "3,314",
       "builtBy": [
         {
@@ -673,7 +673,7 @@
       "description": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！",
       "language": "Python",
       "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
-      "stars": "4,535",
+      "stars": "4,536",
       "forked": "627",
       "builtBy": [
         {
@@ -689,8 +689,8 @@
       "description": "Holberton-style C code checker written in Perl",
       "language": "Perl",
       "url": "https://github.com/alx-tools/Betty",
-      "stars": "1,122",
-      "forked": "1,587",
+      "stars": "1,123",
+      "forked": "1,588",
       "builtBy": [
         {
           "name": "@papamuziko",
@@ -723,7 +723,7 @@
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "JavaScript",
       "url": "https://github.com/cypress-io/cypress",
-      "stars": "44,100",
+      "stars": "44,105",
       "forked": "2,921",
       "builtBy": [
         {
@@ -787,7 +787,7 @@
       "description": "🤖 A powerful, open source client-side JavaScript library for ChatGPT",
       "language": "JavaScript",
       "url": "https://github.com/kudoai/chatgpt.js",
-      "stars": "1,073",
+      "stars": "1,074",
       "forked": "64",
       "builtBy": [
         {
@@ -819,7 +819,7 @@
       "description": "PDF Reader in JavaScript",
       "language": "JavaScript",
       "url": "https://github.com/mozilla/pdf.js",
-      "stars": "43,140",
+      "stars": "43,141",
       "forked": "9,468",
       "builtBy": [
         {
@@ -883,7 +883,7 @@
       "description": "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
       "language": "JavaScript",
       "url": "https://github.com/sunner/ChatALL",
-      "stars": "7,922",
+      "stars": "7,923",
       "forked": "1,308",
       "builtBy": [
         {
@@ -915,7 +915,7 @@
       "description": "Create web-based user interfaces with Python. The nice way.",
       "language": "JavaScript",
       "url": "https://github.com/zauberzeug/nicegui",
-      "stars": "4,478",
+      "stars": "4,479",
       "forked": "227",
       "builtBy": [
         {
@@ -947,7 +947,7 @@
       "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone.",
       "language": "JavaScript",
       "url": "https://github.com/4ian/GDevelop",
-      "stars": "4,967",
+      "stars": "4,968",
       "forked": "639",
       "builtBy": [
         {
@@ -1043,7 +1043,7 @@
       "description": "A design system built by IBM",
       "language": "JavaScript",
       "url": "https://github.com/carbon-design-system/carbon",
-      "stars": "6,855",
+      "stars": "6,856",
       "forked": "1,612",
       "builtBy": [
         {
@@ -1075,7 +1075,7 @@
       "description": "Modern UI/UX website using React.js & Tailwind CSS",
       "language": "JavaScript",
       "url": "https://github.com/adrianhajdin/project_hoobank",
-      "stars": "1,915",
+      "stars": "1,916",
       "forked": "707",
       "builtBy": [
         {
@@ -1251,8 +1251,8 @@
       "description": "AdminLTE - Free admin dashboard template based on Bootstrap 4",
       "language": "JavaScript",
       "url": "https://github.com/ColorlibHQ/AdminLTE",
-      "stars": "42,731",
-      "forked": "18,153",
+      "stars": "42,732",
+      "forked": "18,154",
       "builtBy": [
         {
           "name": "@REJack",
@@ -1348,7 +1348,7 @@
       "language": "JavaScript",
       "url": "https://github.com/john-smilga/node-express-course",
       "stars": "2,836",
-      "forked": "2,988",
+      "forked": "2,989",
       "builtBy": [
         {
           "name": "@john-smilga",
@@ -1363,7 +1363,7 @@
       "description": "MongoDB object modeling designed to work in an asynchronous environment.",
       "language": "JavaScript",
       "url": "https://github.com/Automattic/mongoose",
-      "stars": "25,843",
+      "stars": "25,844",
       "forked": "3,758",
       "builtBy": [
         {
@@ -1459,7 +1459,7 @@
       "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
       "language": "JavaScript",
       "url": "https://github.com/facebook/lexical",
-      "stars": "14,882",
+      "stars": "14,884",
       "forked": "1,128",
       "builtBy": [
         {
@@ -1493,8 +1493,8 @@
       "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
       "language": "Python",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": "1,526",
-      "forked": "167",
+      "stars": "1,543",
+      "forked": "169",
       "builtBy": [
         {
           "name": "@assafelovic",
@@ -1525,7 +1525,7 @@
       "description": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
       "language": "Python",
       "url": "https://github.com/wandb/wandb",
-      "stars": "6,444",
+      "stars": "6,449",
       "forked": "511",
       "builtBy": [
         {
@@ -1557,7 +1557,7 @@
       "description": "AI Toolkit for Healthcare Imaging",
       "language": "Python",
       "url": "https://github.com/Project-MONAI/MONAI",
-      "stars": "4,342",
+      "stars": "4,344",
       "forked": "833",
       "builtBy": [
         {
@@ -1589,7 +1589,7 @@
       "description": "Official implementation of AnimateDiff.",
       "language": "Python",
       "url": "https://github.com/guoyww/AnimateDiff",
-      "stars": "994",
+      "stars": "999",
       "forked": "63",
       "builtBy": [
         {
@@ -1609,7 +1609,7 @@
       "description": "Real-time face swap for PC streaming or video calls",
       "language": "Python",
       "url": "https://github.com/iperov/DeepFaceLive",
-      "stars": "15,741",
+      "stars": "15,747",
       "forked": "2,270",
       "builtBy": [
         {
@@ -1641,7 +1641,7 @@
       "description": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！",
       "language": "Python",
       "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
-      "stars": "4,535",
+      "stars": "4,536",
       "forked": "627",
       "builtBy": [
         {
@@ -1657,7 +1657,7 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/jxxghp/MoviePilot",
-      "stars": "799",
+      "stars": "801",
       "forked": "56",
       "builtBy": [
         {
@@ -1773,7 +1773,7 @@
       "description": "",
       "language": "Python",
       "url": "https://github.com/UX-Decoder/Semantic-SAM",
-      "stars": "304",
+      "stars": "305",
       "forked": "16",
       "builtBy": [
         {
@@ -1833,7 +1833,7 @@
       "description": "(Previously Pynecone) 🕸 Web apps in pure Python 🐍",
       "language": "Python",
       "url": "https://github.com/reflex-dev/reflex",
-      "stars": "9,695",
+      "stars": "9,698",
       "forked": "601",
       "builtBy": [
         {
@@ -1866,7 +1866,7 @@
       "language": "Python",
       "url": "https://github.com/fengx1a0/Bilibili_show_ticket_auto_order",
       "stars": "147",
-      "forked": "25",
+      "forked": "26",
       "builtBy": [
         {
           "name": "@fengx1a0",
@@ -1881,7 +1881,7 @@
       "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
       "language": "Python",
       "url": "https://github.com/graphdeco-inria/gaussian-splatting",
-      "stars": "626",
+      "stars": "627",
       "forked": "47",
       "builtBy": [
         {
@@ -1913,7 +1913,7 @@
       "description": "Reflexion: Language Agents with Verbal Reinforcement Learning",
       "language": "Python",
       "url": "https://github.com/noahshinn024/reflexion",
-      "stars": "1,180",
+      "stars": "1,181",
       "forked": "109",
       "builtBy": [
         {
@@ -1941,8 +1941,8 @@
       "description": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",
       "language": "Python",
       "url": "https://github.com/pengzhile/pandora",
-      "stars": "18,141",
-      "forked": "3,467",
+      "stars": "18,145",
+      "forked": "3,468",
       "builtBy": [
         {
           "name": "@pengzhile",
@@ -1973,7 +1973,7 @@
       "description": "Infinite Photorealistic Worlds using Procedural Generation",
       "language": "Python",
       "url": "https://github.com/princeton-vl/infinigen",
-      "stars": "4,017",
+      "stars": "4,019",
       "forked": "420",
       "builtBy": [
         {
@@ -2005,7 +2005,7 @@
       "description": "一个简单的仓库，用于Serverless部署Pandora-Cloud。",
       "language": "Python",
       "url": "https://github.com/pengzhile/pandora-cloud-serverless",
-      "stars": "224",
+      "stars": "225",
       "forked": "403",
       "builtBy": [
         {
@@ -2053,7 +2053,7 @@
       "description": "A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.",
       "language": "Python",
       "url": "https://github.com/ading2210/poe-api",
-      "stars": "1,980",
+      "stars": "1,981",
       "forked": "261",
       "builtBy": [
         {
@@ -2085,7 +2085,7 @@
       "description": "Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",
       "language": "Python",
       "url": "https://github.com/gventuri/pandas-ai",
-      "stars": "7,811",
+      "stars": "7,812",
       "forked": "565",
       "builtBy": [
         {
@@ -2117,7 +2117,7 @@
       "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
       "language": "Python",
       "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
-      "stars": "3,157",
+      "stars": "3,158",
       "forked": "463",
       "builtBy": [
         {
@@ -2149,7 +2149,7 @@
       "description": "Code Repository for Liquid Time-Constant Networks (LTCs)",
       "language": "Python",
       "url": "https://github.com/raminmh/liquid_time_constant_networks",
-      "stars": "779",
+      "stars": "780",
       "forked": "143",
       "builtBy": [
         {
@@ -2171,8 +2171,8 @@
       "description": "AI companions with memory: a lightweight stack to create and host your own AI companions",
       "language": "TypeScript",
       "url": "https://github.com/a16z-infra/companion-app",
-      "stars": "3,134",
-      "forked": "297",
+      "stars": "3,174",
+      "forked": "300",
       "builtBy": [
         {
           "name": "@ykhli",
@@ -2199,8 +2199,8 @@
       "description": "Export all bike details (such as encryption key) of your VanMoof bikes.",
       "language": "TypeScript",
       "url": "https://github.com/grossartig/vanmoof-encryption-key-exporter",
-      "stars": "261",
-      "forked": "22",
+      "stars": "265",
+      "forked": "23",
       "builtBy": [
         {
           "name": "@Justus-D",
@@ -2227,7 +2227,7 @@
       "description": "A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",
       "language": "TypeScript",
       "url": "https://github.com/a16z-infra/ai-getting-started",
-      "stars": "3,181",
+      "stars": "3,186",
       "forked": "565",
       "builtBy": [
         {
@@ -2259,7 +2259,7 @@
       "description": "Social networking technology created by Bluesky",
       "language": "TypeScript",
       "url": "https://github.com/bluesky-social/atproto",
-      "stars": "4,659",
+      "stars": "4,662",
       "forked": "305",
       "builtBy": [
         {
@@ -2291,7 +2291,7 @@
       "description": "Highcharts JS, the JavaScript charting framework",
       "language": "TypeScript",
       "url": "https://github.com/highcharts/highcharts",
-      "stars": "11,243",
+      "stars": "11,248",
       "forked": "3,314",
       "builtBy": [
         {
@@ -2323,8 +2323,8 @@
       "description": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠",
       "language": "TypeScript",
       "url": "https://github.com/StanGirard/quivr",
-      "stars": "17,233",
-      "forked": "1,798",
+      "stars": "17,240",
+      "forked": "1,799",
       "builtBy": [
         {
           "name": "@StanGirard",
@@ -2355,7 +2355,7 @@
       "description": "Fuel v2 TypeScript SDK",
       "language": "TypeScript",
       "url": "https://github.com/FuelLabs/fuels-ts",
-      "stars": "2,993",
+      "stars": "3,000",
       "forked": "114",
       "builtBy": [
         {
@@ -2387,7 +2387,7 @@
       "description": "A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.",
       "language": "TypeScript",
       "url": "https://github.com/usememos/memos",
-      "stars": "16,230",
+      "stars": "16,232",
       "forked": "1,135",
       "builtBy": [
         {
@@ -2451,7 +2451,7 @@
       "description": "AdminJS is an admin panel for apps written in node.js",
       "language": "TypeScript",
       "url": "https://github.com/SoftwareBrothers/adminjs",
-      "stars": "7,118",
+      "stars": "7,119",
       "forked": "572",
       "builtBy": [
         {
@@ -2515,7 +2515,7 @@
       "description": "An open source ChatGPT UI.",
       "language": "TypeScript",
       "url": "https://github.com/mckaywrigley/chatbot-ui",
-      "stars": "15,974",
+      "stars": "15,977",
       "forked": "4,560",
       "builtBy": [
         {
@@ -2707,7 +2707,7 @@
       "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
       "language": "TypeScript",
       "url": "https://github.com/pixijs/pixijs",
-      "stars": "40,442",
+      "stars": "40,443",
       "forked": "4,783",
       "builtBy": [
         {
@@ -2835,7 +2835,7 @@
       "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
       "language": "TypeScript",
       "url": "https://github.com/mui/material-ui",
-      "stars": "87,685",
+      "stars": "87,686",
       "forked": "29,952",
       "builtBy": [
         {
@@ -2899,7 +2899,7 @@
       "description": "A desktop debugging platform for mobile developers.",
       "language": "TypeScript",
       "url": "https://github.com/facebook/flipper",
-      "stars": "12,738",
+      "stars": "12,739",
       "forked": "935",
       "builtBy": [
         {
@@ -2931,7 +2931,7 @@
       "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
       "language": "TypeScript",
       "url": "https://github.com/shadcn/ui",
-      "stars": "24,386",
+      "stars": "24,388",
       "forked": "1,145",
       "builtBy": [
         {
@@ -2965,7 +2965,7 @@
       "description": "Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍",
       "language": "Go",
       "url": "https://github.com/gorilla/mux",
-      "stars": "18,328",
+      "stars": "18,329",
       "forked": "1,771",
       "builtBy": [
         {
@@ -2997,7 +2997,7 @@
       "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
       "language": "Go",
       "url": "https://github.com/cosmos/cosmos-sdk",
-      "stars": "5,317",
+      "stars": "5,320",
       "forked": "2,875",
       "builtBy": [
         {
@@ -3061,7 +3061,7 @@
       "description": "Zadig is a cloud native, distributed, developer-oriented continuous delivery product.",
       "language": "Go",
       "url": "https://github.com/koderover/zadig",
-      "stars": "2,209",
+      "stars": "2,211",
       "forked": "718",
       "builtBy": [
         {
@@ -3189,7 +3189,7 @@
       "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
       "language": "Go",
       "url": "https://github.com/samber/lo",
-      "stars": "12,037",
+      "stars": "12,039",
       "forked": "528",
       "builtBy": [
         {
@@ -3477,7 +3477,7 @@
       "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
       "language": "Go",
       "url": "https://github.com/stretchr/testify",
-      "stars": "20,093",
+      "stars": "20,094",
       "forked": "1,476",
       "builtBy": [
         {
@@ -3541,7 +3541,7 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "url": "https://github.com/prometheus/prometheus",
-      "stars": "49,030",
+      "stars": "49,032",
       "forked": "8,285",
       "builtBy": [
         {
@@ -3701,7 +3701,7 @@
       "description": "A Chaos Engineering Platform for Kubernetes.",
       "language": "Go",
       "url": "https://github.com/chaos-mesh/chaos-mesh",
-      "stars": "5,829",
+      "stars": "5,830",
       "forked": "734",
       "builtBy": [
         {
@@ -3819,8 +3819,8 @@
       "description": "《Hello 算法》：动画图解、一键运行、互动问答的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。",
       "language": "Java",
       "url": "https://github.com/krahets/hello-algo",
-      "stars": "14,345",
-      "forked": "1,551",
+      "stars": "14,346",
+      "forked": "1,552",
       "builtBy": [
         {
           "name": "@krahets",
@@ -3948,7 +3948,7 @@
       "language": "Java",
       "url": "https://github.com/fuzhengwei/small-spring",
       "stars": "4,063",
-      "forked": "1,227",
+      "forked": "1,226",
       "builtBy": [
         {
           "name": "@fuzhengwei",
@@ -3979,7 +3979,7 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "stars": "41,066",
+      "stars": "41,067",
       "forked": "4,997",
       "builtBy": [
         {
@@ -4076,7 +4076,7 @@
       "language": "Java",
       "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
       "stars": "12,371",
-      "forked": "8,255",
+      "forked": "8,256",
       "builtBy": [
         {
           "name": "@kunal-kushwaha",
@@ -4171,7 +4171,7 @@
       "description": "Java Docker API Client",
       "language": "Java",
       "url": "https://github.com/docker-java/docker-java",
-      "stars": "2,584",
+      "stars": "2,585",
       "forked": "1,037",
       "builtBy": [
         {
@@ -4267,7 +4267,7 @@
       "description": "Apache Tomcat",
       "language": "Java",
       "url": "https://github.com/apache/tomcat",
-      "stars": "6,775",
+      "stars": "6,776",
       "forked": "4,627",
       "builtBy": [
         {
@@ -4331,7 +4331,7 @@
       "description": "DataX是阿里云DataWorks数据集成的开源版本。",
       "language": "Java",
       "url": "https://github.com/alibaba/DataX",
-      "stars": "13,828",
+      "stars": "13,829",
       "forked": "4,912",
       "builtBy": [
         {
@@ -4459,7 +4459,7 @@
       "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "url": "https://github.com/YunaiV/ruoyi-vue-pro",
-      "stars": "18,147",
+      "stars": "18,153",
       "forked": "3,856",
       "builtBy": [
         {
@@ -4492,7 +4492,7 @@
       "language": "Java",
       "url": "https://github.com/apache/rocketmq",
       "stars": "19,517",
-      "forked": "11,049",
+      "forked": "11,050",
       "builtBy": [
         {
           "name": "@vintagewang",
